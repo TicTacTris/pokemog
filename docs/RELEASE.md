@@ -116,3 +116,10 @@ origins and checksum changes before accepting dependency updates. Do not bypass
 a failure by blindly accepting new checksums. The Gradle distribution also has
 a checksum in the existing wrapper properties. Dependency locking is deferred;
 verification pins accepted bytes but is not a dependency-resolution lockfile.
+
+Initial GitHub CI additionally resolved JUnit BOM 5.9.2/5.10.2 Gradle module
+metadata and the kotlinx-coroutines BOM 1.8.0 POM, absent from the local cache's
+inventory. Their added SHA-256 entries were calculated from the exact artifacts
+at `https://repo.maven.apache.org/maven2/` and matched against that repository's
+published `.sha256` files. No existing checksum was replaced or verification
+disabled; HTTPS-hosted checksums are not an independent signature.

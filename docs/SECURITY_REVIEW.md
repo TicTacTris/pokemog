@@ -25,7 +25,7 @@ Defensive source, configuration and dependency review, September 9, 2026. This i
 - Website: 96 unit tests and 20 browser tests for each of `/` and `/pokemog/`; lint and production builds passed.
 - Publisher: 40 tests passed in its hardening run, including frozen numerical cases and shared acceptance/rejection fixtures; publication workflow passed without replacing unchanged data.
 - npm audit reported zero vulnerabilities at the release-preparation check. This does not cover all Maven/native dependencies or future advisories.
-- Gitleaks 8.24.3 found no secrets in the ignore-filtered source candidate. Publication must also scan the exact staged files and initial history before pushing.
+- Gitleaks 8.24.3 found no secrets in the ignore-filtered source candidate, exact 194-file initial staged snapshot or initial Git history before pushing. GitHub's source scan also passed. Repeat staged-file and history checks for publication changes.
 - Gradle dependency verification records SHA-256 artifacts and was enforced locally. Its bootstrap is trust-on-first-use, not independent proof of artifact provenance; dependency locking remains deferred.
 - Signed APK and website ZIP checksums and certificate verification are produced by the release packaging scripts. GitHub CI checks unsigned release construction without accessing the release key.
 

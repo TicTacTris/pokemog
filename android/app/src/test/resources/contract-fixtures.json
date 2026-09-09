@@ -1,0 +1,27 @@
+{
+  "graphLimits": { "maxOutdegree": 32, "maxDepth": 16, "rootDepth": 1, "maxReachableIncludingRoot": 32 },
+  "cases": [
+    { "name": "single", "graph": "chain", "count": 1, "accepted": true },
+    { "name": "depth boundary", "graph": "chain", "count": 16, "accepted": true },
+    { "name": "depth exceeded", "graph": "chain", "count": 17, "accepted": false },
+    { "name": "deep catalog", "graph": "chain", "count": 20000, "accepted": false },
+    { "name": "reachable boundary", "graph": "star", "count": 32, "accepted": true },
+    { "name": "root counts toward reachability", "graph": "star", "count": 33, "accepted": false },
+    { "name": "outdegree exceeded", "graph": "star", "count": 34, "accepted": false },
+    { "name": "full catalog", "graph": "isolated", "count": 20000, "accepted": true },
+    { "name": "catalog exceeded", "graph": "isolated", "count": 20001, "accepted": false },
+    { "name": "counterpart stats", "mutation": "counterpartStat", "accepted": false },
+    { "name": "counterpart reciprocal", "mutation": "counterpartLink", "accepted": false },
+    { "name": "cross category", "mutation": "category", "accepted": false },
+    { "name": "id leading underscore", "field": "id", "value": "_a", "accepted": false },
+    { "name": "id wrong type", "field": "id", "value": 123, "accepted": false },
+    { "name": "name control", "field": "name", "value": "a\u001f", "accepted": false },
+    { "name": "name unicode blank", "field": "name", "value": "\u00a0", "accepted": false },
+    { "name": "name BOM nonblank", "field": "name", "value": "\ufeff", "accepted": true },
+    { "name": "name DEL permitted", "field": "name", "value": "a\u007f", "accepted": true },
+    { "name": "stat boundary", "field": "attack", "value": 10000, "accepted": true },
+    { "name": "stat exceeded", "field": "attack", "value": 10001, "accepted": false },
+    { "name": "stat boolean", "field": "attack", "value": true, "accepted": false },
+    { "name": "stat string", "field": "attack", "value": "100", "accepted": false }
+  ]
+}

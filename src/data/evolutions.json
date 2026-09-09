@@ -1,0 +1,9162 @@
+{
+  "bulbasaur": {
+    "evolutions": [
+      "ivysaur"
+    ],
+    "shadowId": "bulbasaur_shadow",
+    "hasEvolutionData": true
+  },
+  "bulbasaur_shadow": {
+    "evolutions": [
+      "ivysaur_shadow"
+    ],
+    "normalId": "bulbasaur",
+    "hasEvolutionData": true
+  },
+  "ivysaur": {
+    "evolutions": [
+      "venusaur"
+    ],
+    "shadowId": "ivysaur_shadow",
+    "hasEvolutionData": true
+  },
+  "ivysaur_shadow": {
+    "evolutions": [
+      "venusaur_shadow"
+    ],
+    "normalId": "ivysaur",
+    "hasEvolutionData": true
+  },
+  "venusaur": {
+    "evolutions": [],
+    "shadowId": "venusaur_shadow",
+    "hasEvolutionData": true
+  },
+  "venusaur_shadow": {
+    "evolutions": [],
+    "normalId": "venusaur",
+    "hasEvolutionData": true
+  },
+  "charmander": {
+    "evolutions": [
+      "charmeleon"
+    ],
+    "shadowId": "charmander_shadow",
+    "hasEvolutionData": true
+  },
+  "charmander_shadow": {
+    "evolutions": [
+      "charmeleon_shadow"
+    ],
+    "normalId": "charmander",
+    "hasEvolutionData": true
+  },
+  "charmeleon": {
+    "evolutions": [
+      "charizard"
+    ],
+    "shadowId": "charmeleon_shadow",
+    "hasEvolutionData": true
+  },
+  "charmeleon_shadow": {
+    "evolutions": [
+      "charizard_shadow"
+    ],
+    "normalId": "charmeleon",
+    "hasEvolutionData": true
+  },
+  "charizard": {
+    "evolutions": [],
+    "shadowId": "charizard_shadow",
+    "hasEvolutionData": true
+  },
+  "charizard_shadow": {
+    "evolutions": [],
+    "normalId": "charizard",
+    "hasEvolutionData": true
+  },
+  "squirtle": {
+    "evolutions": [
+      "wartortle"
+    ],
+    "shadowId": "squirtle_shadow",
+    "hasEvolutionData": true
+  },
+  "squirtle_shadow": {
+    "evolutions": [
+      "wartortle_shadow"
+    ],
+    "normalId": "squirtle",
+    "hasEvolutionData": true
+  },
+  "wartortle": {
+    "evolutions": [
+      "blastoise"
+    ],
+    "shadowId": "wartortle_shadow",
+    "hasEvolutionData": true
+  },
+  "wartortle_shadow": {
+    "evolutions": [
+      "blastoise_shadow"
+    ],
+    "normalId": "wartortle",
+    "hasEvolutionData": true
+  },
+  "blastoise": {
+    "evolutions": [],
+    "shadowId": "blastoise_shadow",
+    "hasEvolutionData": true
+  },
+  "blastoise_shadow": {
+    "evolutions": [],
+    "normalId": "blastoise",
+    "hasEvolutionData": true
+  },
+  "caterpie": {
+    "evolutions": [
+      "metapod"
+    ],
+    "shadowId": "caterpie_shadow",
+    "hasEvolutionData": true
+  },
+  "caterpie_shadow": {
+    "evolutions": [
+      "metapod_shadow"
+    ],
+    "normalId": "caterpie",
+    "hasEvolutionData": true
+  },
+  "metapod": {
+    "evolutions": [
+      "butterfree"
+    ],
+    "shadowId": "metapod_shadow",
+    "hasEvolutionData": true
+  },
+  "metapod_shadow": {
+    "evolutions": [
+      "butterfree_shadow"
+    ],
+    "normalId": "metapod",
+    "hasEvolutionData": true
+  },
+  "butterfree": {
+    "evolutions": [],
+    "shadowId": "butterfree_shadow",
+    "hasEvolutionData": true
+  },
+  "butterfree_shadow": {
+    "evolutions": [],
+    "normalId": "butterfree",
+    "hasEvolutionData": true
+  },
+  "weedle": {
+    "evolutions": [
+      "kakuna"
+    ],
+    "shadowId": "weedle_shadow",
+    "hasEvolutionData": true
+  },
+  "weedle_shadow": {
+    "evolutions": [
+      "kakuna_shadow"
+    ],
+    "normalId": "weedle",
+    "hasEvolutionData": true
+  },
+  "kakuna": {
+    "evolutions": [
+      "beedrill"
+    ],
+    "shadowId": "kakuna_shadow",
+    "hasEvolutionData": true
+  },
+  "kakuna_shadow": {
+    "evolutions": [
+      "beedrill_shadow"
+    ],
+    "normalId": "kakuna",
+    "hasEvolutionData": true
+  },
+  "beedrill": {
+    "evolutions": [],
+    "shadowId": "beedrill_shadow",
+    "hasEvolutionData": true
+  },
+  "beedrill_shadow": {
+    "evolutions": [],
+    "normalId": "beedrill",
+    "hasEvolutionData": true
+  },
+  "pidgey": {
+    "evolutions": [
+      "pidgeotto"
+    ],
+    "shadowId": "pidgey_shadow",
+    "hasEvolutionData": true
+  },
+  "pidgey_shadow": {
+    "evolutions": [
+      "pidgeotto_shadow"
+    ],
+    "normalId": "pidgey",
+    "hasEvolutionData": true
+  },
+  "pidgeotto": {
+    "evolutions": [
+      "pidgeot"
+    ],
+    "shadowId": "pidgeotto_shadow",
+    "hasEvolutionData": true
+  },
+  "pidgeotto_shadow": {
+    "evolutions": [
+      "pidgeot_shadow"
+    ],
+    "normalId": "pidgeotto",
+    "hasEvolutionData": true
+  },
+  "pidgeot": {
+    "evolutions": [],
+    "shadowId": "pidgeot_shadow",
+    "hasEvolutionData": true
+  },
+  "pidgeot_shadow": {
+    "evolutions": [],
+    "normalId": "pidgeot",
+    "hasEvolutionData": true
+  },
+  "rattata": {
+    "evolutions": [
+      "raticate"
+    ],
+    "shadowId": "rattata_shadow",
+    "hasEvolutionData": true
+  },
+  "rattata_alolan": {
+    "evolutions": [
+      "raticate_alolan"
+    ],
+    "shadowId": "rattata_alolan_shadow",
+    "hasEvolutionData": true
+  },
+  "rattata_alolan_shadow": {
+    "evolutions": [
+      "raticate_alolan_shadow"
+    ],
+    "normalId": "rattata_alolan",
+    "hasEvolutionData": true
+  },
+  "rattata_shadow": {
+    "evolutions": [
+      "raticate_shadow"
+    ],
+    "normalId": "rattata",
+    "hasEvolutionData": true
+  },
+  "raticate": {
+    "evolutions": [],
+    "shadowId": "raticate_shadow",
+    "hasEvolutionData": true
+  },
+  "raticate_alolan": {
+    "evolutions": [],
+    "shadowId": "raticate_alolan_shadow",
+    "hasEvolutionData": true
+  },
+  "raticate_alolan_shadow": {
+    "evolutions": [],
+    "normalId": "raticate_alolan",
+    "hasEvolutionData": true
+  },
+  "raticate_shadow": {
+    "evolutions": [],
+    "normalId": "raticate",
+    "hasEvolutionData": true
+  },
+  "spearow": {
+    "evolutions": [
+      "fearow"
+    ],
+    "hasEvolutionData": true
+  },
+  "fearow": {
+    "evolutions": [],
+    "hasEvolutionData": true
+  },
+  "ekans": {
+    "evolutions": [
+      "arbok"
+    ],
+    "shadowId": "ekans_shadow",
+    "hasEvolutionData": true
+  },
+  "ekans_shadow": {
+    "evolutions": [
+      "arbok_shadow"
+    ],
+    "normalId": "ekans",
+    "hasEvolutionData": true
+  },
+  "arbok": {
+    "evolutions": [],
+    "shadowId": "arbok_shadow",
+    "hasEvolutionData": true
+  },
+  "arbok_shadow": {
+    "evolutions": [],
+    "normalId": "arbok",
+    "hasEvolutionData": true
+  },
+  "pikachu": {
+    "evolutions": [
+      "raichu"
+    ],
+    "hasEvolutionData": true
+  },
+  "pikachu_5th_anniversary": {
+    "evolutions": [],
+    "hasEvolutionData": false
+  },
+  "pikachu_flying": {
+    "evolutions": [],
+    "hasEvolutionData": false
+  },
+  "pikachu_horizons": {
+    "evolutions": [],
+    "hasEvolutionData": true
+  },
+  "pikachu_kariyushi": {
+    "evolutions": [],
+    "hasEvolutionData": true
+  },
+  "pikachu_libre": {
+    "evolutions": [],
+    "hasEvolutionData": false
+  },
+  "pikachu_pop_star": {
+    "evolutions": [],
+    "hasEvolutionData": true
+  },
+  "pikachu_rock_star": {
+    "evolutions": [],
+    "hasEvolutionData": true
+  },
+  "pikachu_shaymin": {
+    "evolutions": [
+      "raichu"
+    ],
+    "hasEvolutionData": true
+  },
+  "raichu": {
+    "evolutions": [],
+    "hasEvolutionData": true
+  },
+  "raichu_alolan": {
+    "evolutions": [],
+    "hasEvolutionData": true
+  },
+  "sandshrew": {
+    "evolutions": [
+      "sandslash"
+    ],
+    "shadowId": "sandshrew_shadow",
+    "hasEvolutionData": true
+  },
+  "sandshrew_alolan": {
+    "evolutions": [
+      "sandslash_alolan"
+    ],
+    "shadowId": "sandshrew_alolan_shadow",
+    "hasEvolutionData": true
+  },
+  "sandshrew_alolan_shadow": {
+    "evolutions": [
+      "sandslash_alolan_shadow"
+    ],
+    "normalId": "sandshrew_alolan",
+    "hasEvolutionData": true
+  },
+  "sandshrew_shadow": {
+    "evolutions": [
+      "sandslash_shadow"
+    ],
+    "normalId": "sandshrew",
+    "hasEvolutionData": true
+  },
+  "sandslash": {
+    "evolutions": [],
+    "shadowId": "sandslash_shadow",
+    "hasEvolutionData": true
+  },
+  "sandslash_alolan": {
+    "evolutions": [],
+    "shadowId": "sandslash_alolan_shadow",
+    "hasEvolutionData": true
+  },
+  "sandslash_alolan_shadow": {
+    "evolutions": [],
+    "normalId": "sandslash_alolan",
+    "hasEvolutionData": true
+  },
+  "sandslash_shadow": {
+    "evolutions": [],
+    "normalId": "sandslash",
+    "hasEvolutionData": true
+  },
+  "nidoran_female": {
+    "evolutions": [
+      "nidorina"
+    ],
+    "shadowId": "nidoran_female_shadow",
+    "hasEvolutionData": true
+  },
+  "nidoran_female_shadow": {
+    "evolutions": [
+      "nidorina_shadow"
+    ],
+    "normalId": "nidoran_female",
+    "hasEvolutionData": true
+  },
+  "nidorina": {
+    "evolutions": [
+      "nidoqueen"
+    ],
+    "shadowId": "nidorina_shadow",
+    "hasEvolutionData": true
+  },
+  "nidorina_shadow": {
+    "evolutions": [
+      "nidoqueen_shadow"
+    ],
+    "normalId": "nidorina",
+    "hasEvolutionData": true
+  },
+  "nidoqueen": {
+    "evolutions": [],
+    "shadowId": "nidoqueen_shadow",
+    "hasEvolutionData": true
+  },
+  "nidoqueen_shadow": {
+    "evolutions": [],
+    "normalId": "nidoqueen",
+    "hasEvolutionData": true
+  },
+  "nidoran_male": {
+    "evolutions": [
+      "nidorino"
+    ],
+    "shadowId": "nidoran_male_shadow",
+    "hasEvolutionData": true
+  },
+  "nidoran_male_shadow": {
+    "evolutions": [
+      "nidorino_shadow"
+    ],
+    "normalId": "nidoran_male",
+    "hasEvolutionData": true
+  },
+  "nidorino": {
+    "evolutions": [
+      "nidoking"
+    ],
+    "shadowId": "nidorino_shadow",
+    "hasEvolutionData": true
+  },
+  "nidorino_shadow": {
+    "evolutions": [
+      "nidoking_shadow"
+    ],
+    "normalId": "nidorino",
+    "hasEvolutionData": true
+  },
+  "nidoking": {
+    "evolutions": [],
+    "shadowId": "nidoking_shadow",
+    "hasEvolutionData": true
+  },
+  "nidoking_shadow": {
+    "evolutions": [],
+    "normalId": "nidoking",
+    "hasEvolutionData": true
+  },
+  "clefairy": {
+    "evolutions": [
+      "clefable"
+    ],
+    "hasEvolutionData": true
+  },
+  "clefable": {
+    "evolutions": [],
+    "hasEvolutionData": true
+  },
+  "vulpix": {
+    "evolutions": [
+      "ninetales"
+    ],
+    "shadowId": "vulpix_shadow",
+    "hasEvolutionData": true
+  },
+  "vulpix_alolan": {
+    "evolutions": [
+      "ninetales_alolan"
+    ],
+    "shadowId": "vulpix_alolan_shadow",
+    "hasEvolutionData": true
+  },
+  "vulpix_alolan_shadow": {
+    "evolutions": [
+      "ninetales_alolan_shadow"
+    ],
+    "normalId": "vulpix_alolan",
+    "hasEvolutionData": true
+  },
+  "vulpix_shadow": {
+    "evolutions": [
+      "ninetales_shadow"
+    ],
+    "normalId": "vulpix",
+    "hasEvolutionData": true
+  },
+  "ninetales": {
+    "evolutions": [],
+    "shadowId": "ninetales_shadow",
+    "hasEvolutionData": true
+  },
+  "ninetales_alolan": {
+    "evolutions": [],
+    "shadowId": "ninetales_alolan_shadow",
+    "hasEvolutionData": true
+  },
+  "ninetales_alolan_shadow": {
+    "evolutions": [],
+    "normalId": "ninetales_alolan",
+    "hasEvolutionData": true
+  },
+  "ninetales_shadow": {
+    "evolutions": [],
+    "normalId": "ninetales",
+    "hasEvolutionData": true
+  },
+  "jigglypuff": {
+    "evolutions": [
+      "wigglytuff"
+    ],
+    "hasEvolutionData": true
+  },
+  "wigglytuff": {
+    "evolutions": [],
+    "hasEvolutionData": true
+  },
+  "zubat": {
+    "evolutions": [
+      "golbat"
+    ],
+    "shadowId": "zubat_shadow",
+    "hasEvolutionData": true
+  },
+  "zubat_shadow": {
+    "evolutions": [
+      "golbat_shadow"
+    ],
+    "normalId": "zubat",
+    "hasEvolutionData": true
+  },
+  "golbat": {
+    "evolutions": [
+      "crobat"
+    ],
+    "shadowId": "golbat_shadow",
+    "hasEvolutionData": true
+  },
+  "golbat_shadow": {
+    "evolutions": [
+      "crobat_shadow"
+    ],
+    "normalId": "golbat",
+    "hasEvolutionData": true
+  },
+  "oddish": {
+    "evolutions": [
+      "gloom"
+    ],
+    "shadowId": "oddish_shadow",
+    "hasEvolutionData": true
+  },
+  "oddish_shadow": {
+    "evolutions": [
+      "gloom_shadow"
+    ],
+    "normalId": "oddish",
+    "hasEvolutionData": true
+  },
+  "gloom": {
+    "evolutions": [
+      "vileplume",
+      "bellossom"
+    ],
+    "shadowId": "gloom_shadow",
+    "hasEvolutionData": true
+  },
+  "gloom_shadow": {
+    "evolutions": [
+      "vileplume_shadow",
+      "bellossom_shadow"
+    ],
+    "normalId": "gloom",
+    "hasEvolutionData": true
+  },
+  "vileplume": {
+    "evolutions": [],
+    "shadowId": "vileplume_shadow",
+    "hasEvolutionData": true
+  },
+  "vileplume_shadow": {
+    "evolutions": [],
+    "normalId": "vileplume",
+    "hasEvolutionData": true
+  },
+  "paras": {
+    "evolutions": [
+      "parasect"
+    ],
+    "hasEvolutionData": true
+  },
+  "parasect": {
+    "evolutions": [],
+    "hasEvolutionData": true
+  },
+  "venonat": {
+    "evolutions": [
+      "venomoth"
+    ],
+    "shadowId": "venonat_shadow",
+    "hasEvolutionData": true
+  },
+  "venonat_shadow": {
+    "evolutions": [
+      "venomoth_shadow"
+    ],
+    "normalId": "venonat",
+    "hasEvolutionData": true
+  },
+  "venomoth": {
+    "evolutions": [],
+    "shadowId": "venomoth_shadow",
+    "hasEvolutionData": true
+  },
+  "venomoth_shadow": {
+    "evolutions": [],
+    "normalId": "venomoth",
+    "hasEvolutionData": true
+  },
+  "diglett": {
+    "evolutions": [
+      "dugtrio"
+    ],
+    "shadowId": "diglett_shadow",
+    "hasEvolutionData": true
+  },
+  "diglett_alolan": {
+    "evolutions": [
+      "dugtrio_alolan"
+    ],
+    "shadowId": "diglett_alolan_shadow",
+    "hasEvolutionData": true
+  },
+  "diglett_alolan_shadow": {
+    "evolutions": [
+      "dugtrio_alolan_shadow"
+    ],
+    "normalId": "diglett_alolan",
+    "hasEvolutionData": true
+  },
+  "diglett_shadow": {
+    "evolutions": [
+      "dugtrio_shadow"
+    ],
+    "normalId": "diglett",
+    "hasEvolutionData": true
+  },
+  "dugtrio": {
+    "evolutions": [],
+    "shadowId": "dugtrio_shadow",
+    "hasEvolutionData": true
+  },
+  "dugtrio_alolan": {
+    "evolutions": [],
+    "shadowId": "dugtrio_alolan_shadow",
+    "hasEvolutionData": true
+  },
+  "dugtrio_alolan_shadow": {
+    "evolutions": [],
+    "normalId": "dugtrio_alolan",
+    "hasEvolutionData": true
+  },
+  "dugtrio_shadow": {
+    "evolutions": [],
+    "normalId": "dugtrio",
+    "hasEvolutionData": true
+  },
+  "meowth": {
+    "evolutions": [
+      "persian"
+    ],
+    "shadowId": "meowth_shadow",
+    "hasEvolutionData": true
+  },
+  "meowth_alolan": {
+    "evolutions": [
+      "persian_alolan"
+    ],
+    "hasEvolutionData": true
+  },
+  "meowth_galarian": {
+    "evolutions": [
+      "perrserker"
+    ],
+    "hasEvolutionData": true
+  },
+  "meowth_shadow": {
+    "evolutions": [
+      "persian_shadow"
+    ],
+    "normalId": "meowth",
+    "hasEvolutionData": true
+  },
+  "persian": {
+    "evolutions": [],
+    "shadowId": "persian_shadow",
+    "hasEvolutionData": true
+  },
+  "persian_alolan": {
+    "evolutions": [],
+    "hasEvolutionData": true
+  },
+  "persian_shadow": {
+    "evolutions": [],
+    "normalId": "persian",
+    "hasEvolutionData": true
+  },
+  "psyduck": {
+    "evolutions": [
+      "golduck"
+    ],
+    "shadowId": "psyduck_shadow",
+    "hasEvolutionData": true
+  },
+  "psyduck_shadow": {
+    "evolutions": [
+      "golduck_shadow"
+    ],
+    "normalId": "psyduck",
+    "hasEvolutionData": true
+  },
+  "golduck": {
+    "evolutions": [],
+    "shadowId": "golduck_shadow",
+    "hasEvolutionData": true
+  },
+  "golduck_shadow": {
+    "evolutions": [],
+    "normalId": "golduck",
+    "hasEvolutionData": true
+  },
+  "mankey": {
+    "evolutions": [
+      "primeape"
+    ],
+    "shadowId": "mankey_shadow",
+    "hasEvolutionData": true
+  },
+  "mankey_shadow": {
+    "evolutions": [
+      "primeape_shadow"
+    ],
+    "normalId": "mankey",
+    "hasEvolutionData": true
+  },
+  "primeape": {
+    "evolutions": [
+      "annihilape"
+    ],
+    "shadowId": "primeape_shadow",
+    "hasEvolutionData": true
+  },
+  "primeape_shadow": {
+    "evolutions": [
+      "annihilape_shadow"
+    ],
+    "normalId": "primeape",
+    "hasEvolutionData": true
+  },
+  "growlithe": {
+    "evolutions": [
+      "arcanine"
+    ],
+    "shadowId": "growlithe_shadow",
+    "hasEvolutionData": true
+  },
+  "growlithe_hisuian": {
+    "evolutions": [
+      "arcanine_hisuian"
+    ],
+    "hasEvolutionData": true
+  },
+  "growlithe_shadow": {
+    "evolutions": [
+      "arcanine_shadow"
+    ],
+    "normalId": "growlithe",
+    "hasEvolutionData": true
+  },
+  "arcanine": {
+    "evolutions": [],
+    "shadowId": "arcanine_shadow",
+    "hasEvolutionData": true
+  },
+  "arcanine_hisuian": {
+    "evolutions": [],
+    "hasEvolutionData": true
+  },
+  "arcanine_shadow": {
+    "evolutions": [],
+    "normalId": "arcanine",
+    "hasEvolutionData": true
+  },
+  "poliwag": {
+    "evolutions": [
+      "poliwhirl"
+    ],
+    "shadowId": "poliwag_shadow",
+    "hasEvolutionData": true
+  },
+  "poliwag_shadow": {
+    "evolutions": [
+      "poliwhirl_shadow"
+    ],
+    "normalId": "poliwag",
+    "hasEvolutionData": true
+  },
+  "poliwhirl": {
+    "evolutions": [
+      "poliwrath",
+      "politoed"
+    ],
+    "shadowId": "poliwhirl_shadow",
+    "hasEvolutionData": true
+  },
+  "poliwhirl_shadow": {
+    "evolutions": [
+      "poliwrath_shadow",
+      "politoed_shadow"
+    ],
+    "normalId": "poliwhirl",
+    "hasEvolutionData": true
+  },
+  "poliwrath": {
+    "evolutions": [],
+    "shadowId": "poliwrath_shadow",
+    "hasEvolutionData": true
+  },
+  "poliwrath_shadow": {
+    "evolutions": [],
+    "normalId": "poliwrath",
+    "hasEvolutionData": true
+  },
+  "abra": {
+    "evolutions": [
+      "kadabra"
+    ],
+    "shadowId": "abra_shadow",
+    "hasEvolutionData": true
+  },
+  "abra_shadow": {
+    "evolutions": [
+      "kadabra_shadow"
+    ],
+    "normalId": "abra",
+    "hasEvolutionData": true
+  },
+  "kadabra": {
+    "evolutions": [
+      "alakazam"
+    ],
+    "shadowId": "kadabra_shadow",
+    "hasEvolutionData": true
+  },
+  "kadabra_shadow": {
+    "evolutions": [
+      "alakazam_shadow"
+    ],
+    "normalId": "kadabra",
+    "hasEvolutionData": true
+  },
+  "alakazam": {
+    "evolutions": [],
+    "shadowId": "alakazam_shadow",
+    "hasEvolutionData": true
+  },
+  "alakazam_shadow": {
+    "evolutions": [],
+    "normalId": "alakazam",
+    "hasEvolutionData": true
+  },
+  "machop": {
+    "evolutions": [
+      "machoke"
+    ],
+    "shadowId": "machop_shadow",
+    "hasEvolutionData": true
+  },
+  "machop_shadow": {
+    "evolutions": [
+      "machoke_shadow"
+    ],
+    "normalId": "machop",
+    "hasEvolutionData": true
+  },
+  "machoke": {
+    "evolutions": [
+      "machamp"
+    ],
+    "shadowId": "machoke_shadow",
+    "hasEvolutionData": true
+  },
+  "machoke_shadow": {
+    "evolutions": [
+      "machamp_shadow"
+    ],
+    "normalId": "machoke",
+    "hasEvolutionData": true
+  },
+  "machamp": {
+    "evolutions": [],
+    "shadowId": "machamp_shadow",
+    "hasEvolutionData": true
+  },
+  "machamp_shadow": {
+    "evolutions": [],
+    "normalId": "machamp",
+    "hasEvolutionData": true
+  },
+  "bellsprout": {
+    "evolutions": [
+      "weepinbell"
+    ],
+    "shadowId": "bellsprout_shadow",
+    "hasEvolutionData": true
+  },
+  "bellsprout_shadow": {
+    "evolutions": [
+      "weepinbell_shadow"
+    ],
+    "normalId": "bellsprout",
+    "hasEvolutionData": true
+  },
+  "weepinbell": {
+    "evolutions": [
+      "victreebel"
+    ],
+    "shadowId": "weepinbell_shadow",
+    "hasEvolutionData": true
+  },
+  "weepinbell_shadow": {
+    "evolutions": [
+      "victreebel_shadow"
+    ],
+    "normalId": "weepinbell",
+    "hasEvolutionData": true
+  },
+  "victreebel": {
+    "evolutions": [],
+    "shadowId": "victreebel_shadow",
+    "hasEvolutionData": true
+  },
+  "victreebel_shadow": {
+    "evolutions": [],
+    "normalId": "victreebel",
+    "hasEvolutionData": true
+  },
+  "tentacool": {
+    "evolutions": [
+      "tentacruel"
+    ],
+    "shadowId": "tentacool_shadow",
+    "hasEvolutionData": true
+  },
+  "tentacool_shadow": {
+    "evolutions": [
+      "tentacruel_shadow"
+    ],
+    "normalId": "tentacool",
+    "hasEvolutionData": true
+  },
+  "tentacruel": {
+    "evolutions": [],
+    "shadowId": "tentacruel_shadow",
+    "hasEvolutionData": true
+  },
+  "tentacruel_shadow": {
+    "evolutions": [],
+    "normalId": "tentacruel",
+    "hasEvolutionData": true
+  },
+  "geodude": {
+    "evolutions": [
+      "graveler"
+    ],
+    "shadowId": "geodude_shadow",
+    "hasEvolutionData": true
+  },
+  "geodude_alolan": {
+    "evolutions": [
+      "graveler_alolan"
+    ],
+    "shadowId": "geodude_alolan_shadow",
+    "hasEvolutionData": true
+  },
+  "geodude_alolan_shadow": {
+    "evolutions": [
+      "graveler_alolan_shadow"
+    ],
+    "normalId": "geodude_alolan",
+    "hasEvolutionData": true
+  },
+  "geodude_shadow": {
+    "evolutions": [
+      "graveler_shadow"
+    ],
+    "normalId": "geodude",
+    "hasEvolutionData": true
+  },
+  "graveler": {
+    "evolutions": [
+      "golem"
+    ],
+    "shadowId": "graveler_shadow",
+    "hasEvolutionData": true
+  },
+  "graveler_alolan": {
+    "evolutions": [
+      "golem_alolan"
+    ],
+    "shadowId": "graveler_alolan_shadow",
+    "hasEvolutionData": true
+  },
+  "graveler_alolan_shadow": {
+    "evolutions": [
+      "golem_alolan_shadow"
+    ],
+    "normalId": "graveler_alolan",
+    "hasEvolutionData": true
+  },
+  "graveler_shadow": {
+    "evolutions": [
+      "golem_shadow"
+    ],
+    "normalId": "graveler",
+    "hasEvolutionData": true
+  },
+  "golem": {
+    "evolutions": [],
+    "shadowId": "golem_shadow",
+    "hasEvolutionData": true
+  },
+  "golem_alolan": {
+    "evolutions": [],
+    "shadowId": "golem_alolan_shadow",
+    "hasEvolutionData": true
+  },
+  "golem_alolan_shadow": {
+    "evolutions": [],
+    "normalId": "golem_alolan",
+    "hasEvolutionData": true
+  },
+  "golem_shadow": {
+    "evolutions": [],
+    "normalId": "golem",
+    "hasEvolutionData": true
+  },
+  "ponyta": {
+    "evolutions": [
+      "rapidash"
+    ],
+    "shadowId": "ponyta_shadow",
+    "hasEvolutionData": true
+  },
+  "ponyta_galarian": {
+    "evolutions": [
+      "rapidash_galarian"
+    ],
+    "hasEvolutionData": true
+  },
+  "ponyta_shadow": {
+    "evolutions": [
+      "rapidash_shadow"
+    ],
+    "normalId": "ponyta",
+    "hasEvolutionData": true
+  },
+  "rapidash": {
+    "evolutions": [],
+    "shadowId": "rapidash_shadow",
+    "hasEvolutionData": true
+  },
+  "rapidash_galarian": {
+    "evolutions": [],
+    "hasEvolutionData": true
+  },
+  "rapidash_shadow": {
+    "evolutions": [],
+    "normalId": "rapidash",
+    "hasEvolutionData": true
+  },
+  "slowpoke": {
+    "evolutions": [
+      "slowbro",
+      "slowking"
+    ],
+    "shadowId": "slowpoke_shadow",
+    "hasEvolutionData": true
+  },
+  "slowpoke_galarian": {
+    "evolutions": [
+      "slowbro_galarian",
+      "slowking_galarian"
+    ],
+    "hasEvolutionData": true
+  },
+  "slowpoke_shadow": {
+    "evolutions": [
+      "slowbro_shadow",
+      "slowking_shadow"
+    ],
+    "normalId": "slowpoke",
+    "hasEvolutionData": true
+  },
+  "slowbro": {
+    "evolutions": [],
+    "shadowId": "slowbro_shadow",
+    "hasEvolutionData": true
+  },
+  "slowbro_galarian": {
+    "evolutions": [],
+    "hasEvolutionData": true
+  },
+  "slowbro_shadow": {
+    "evolutions": [],
+    "normalId": "slowbro",
+    "hasEvolutionData": true
+  },
+  "magnemite": {
+    "evolutions": [
+      "magneton"
+    ],
+    "shadowId": "magnemite_shadow",
+    "hasEvolutionData": true
+  },
+  "magnemite_shadow": {
+    "evolutions": [
+      "magneton_shadow"
+    ],
+    "normalId": "magnemite",
+    "hasEvolutionData": true
+  },
+  "magneton": {
+    "evolutions": [
+      "magnezone"
+    ],
+    "shadowId": "magneton_shadow",
+    "hasEvolutionData": true
+  },
+  "magneton_shadow": {
+    "evolutions": [
+      "magnezone_shadow"
+    ],
+    "normalId": "magneton",
+    "hasEvolutionData": true
+  },
+  "farfetchd": {
+    "evolutions": [],
+    "hasEvolutionData": false
+  },
+  "farfetchd_galarian": {
+    "evolutions": [
+      "sirfetchd"
+    ],
+    "hasEvolutionData": true
+  },
+  "doduo": {
+    "evolutions": [
+      "dodrio"
+    ],
+    "hasEvolutionData": true
+  },
+  "dodrio": {
+    "evolutions": [],
+    "hasEvolutionData": true
+  },
+  "seel": {
+    "evolutions": [
+      "dewgong"
+    ],
+    "shadowId": "seel_shadow",
+    "hasEvolutionData": true
+  },
+  "seel_shadow": {
+    "evolutions": [
+      "dewgong_shadow"
+    ],
+    "normalId": "seel",
+    "hasEvolutionData": true
+  },
+  "dewgong": {
+    "evolutions": [],
+    "shadowId": "dewgong_shadow",
+    "hasEvolutionData": true
+  },
+  "dewgong_shadow": {
+    "evolutions": [],
+    "normalId": "dewgong",
+    "hasEvolutionData": true
+  },
+  "grimer": {
+    "evolutions": [
+      "muk"
+    ],
+    "shadowId": "grimer_shadow",
+    "hasEvolutionData": true
+  },
+  "grimer_alolan": {
+    "evolutions": [
+      "muk_alolan"
+    ],
+    "shadowId": "grimer_alolan_shadow",
+    "hasEvolutionData": true
+  },
+  "grimer_alolan_shadow": {
+    "evolutions": [
+      "muk_alolan_shadow"
+    ],
+    "normalId": "grimer_alolan",
+    "hasEvolutionData": true
+  },
+  "grimer_shadow": {
+    "evolutions": [
+      "muk_shadow"
+    ],
+    "normalId": "grimer",
+    "hasEvolutionData": true
+  },
+  "muk": {
+    "evolutions": [],
+    "shadowId": "muk_shadow",
+    "hasEvolutionData": true
+  },
+  "muk_alolan": {
+    "evolutions": [],
+    "shadowId": "muk_alolan_shadow",
+    "hasEvolutionData": true
+  },
+  "muk_alolan_shadow": {
+    "evolutions": [],
+    "normalId": "muk_alolan",
+    "hasEvolutionData": true
+  },
+  "muk_shadow": {
+    "evolutions": [],
+    "normalId": "muk",
+    "hasEvolutionData": true
+  },
+  "shellder": {
+    "evolutions": [
+      "cloyster"
+    ],
+    "shadowId": "shellder_shadow",
+    "hasEvolutionData": true
+  },
+  "shellder_shadow": {
+    "evolutions": [
+      "cloyster_shadow"
+    ],
+    "normalId": "shellder",
+    "hasEvolutionData": true
+  },
+  "cloyster": {
+    "evolutions": [],
+    "shadowId": "cloyster_shadow",
+    "hasEvolutionData": true
+  },
+  "cloyster_shadow": {
+    "evolutions": [],
+    "normalId": "cloyster",
+    "hasEvolutionData": true
+  },
+  "gastly": {
+    "evolutions": [
+      "haunter"
+    ],
+    "shadowId": "gastly_shadow",
+    "hasEvolutionData": true
+  },
+  "gastly_shadow": {
+    "evolutions": [
+      "haunter_shadow"
+    ],
+    "normalId": "gastly",
+    "hasEvolutionData": true
+  },
+  "haunter": {
+    "evolutions": [
+      "gengar"
+    ],
+    "shadowId": "haunter_shadow",
+    "hasEvolutionData": true
+  },
+  "haunter_shadow": {
+    "evolutions": [
+      "gengar_shadow"
+    ],
+    "normalId": "haunter",
+    "hasEvolutionData": true
+  },
+  "gengar": {
+    "evolutions": [],
+    "shadowId": "gengar_shadow",
+    "hasEvolutionData": true
+  },
+  "gengar_shadow": {
+    "evolutions": [],
+    "normalId": "gengar",
+    "hasEvolutionData": true
+  },
+  "onix": {
+    "evolutions": [
+      "steelix"
+    ],
+    "shadowId": "onix_shadow",
+    "hasEvolutionData": true
+  },
+  "onix_shadow": {
+    "evolutions": [
+      "steelix_shadow"
+    ],
+    "normalId": "onix",
+    "hasEvolutionData": true
+  },
+  "drowzee": {
+    "evolutions": [
+      "hypno"
+    ],
+    "shadowId": "drowzee_shadow",
+    "hasEvolutionData": true
+  },
+  "drowzee_shadow": {
+    "evolutions": [
+      "hypno_shadow"
+    ],
+    "normalId": "drowzee",
+    "hasEvolutionData": true
+  },
+  "hypno": {
+    "evolutions": [],
+    "shadowId": "hypno_shadow",
+    "hasEvolutionData": true
+  },
+  "hypno_shadow": {
+    "evolutions": [],
+    "normalId": "hypno",
+    "hasEvolutionData": true
+  },
+  "krabby": {
+    "evolutions": [
+      "kingler"
+    ],
+    "shadowId": "krabby_shadow",
+    "hasEvolutionData": true
+  },
+  "krabby_shadow": {
+    "evolutions": [
+      "kingler_shadow"
+    ],
+    "normalId": "krabby",
+    "hasEvolutionData": true
+  },
+  "kingler": {
+    "evolutions": [],
+    "shadowId": "kingler_shadow",
+    "hasEvolutionData": true
+  },
+  "kingler_shadow": {
+    "evolutions": [],
+    "normalId": "kingler",
+    "hasEvolutionData": true
+  },
+  "voltorb": {
+    "evolutions": [
+      "electrode"
+    ],
+    "shadowId": "voltorb_shadow",
+    "hasEvolutionData": true
+  },
+  "voltorb_hisuian": {
+    "evolutions": [
+      "electrode_hisuian"
+    ],
+    "hasEvolutionData": true
+  },
+  "voltorb_shadow": {
+    "evolutions": [
+      "electrode_shadow"
+    ],
+    "normalId": "voltorb",
+    "hasEvolutionData": true
+  },
+  "electrode": {
+    "evolutions": [],
+    "shadowId": "electrode_shadow",
+    "hasEvolutionData": true
+  },
+  "electrode_hisuian": {
+    "evolutions": [],
+    "hasEvolutionData": true
+  },
+  "electrode_shadow": {
+    "evolutions": [],
+    "normalId": "electrode",
+    "hasEvolutionData": true
+  },
+  "exeggcute": {
+    "evolutions": [
+      "exeggutor"
+    ],
+    "shadowId": "exeggcute_shadow",
+    "hasEvolutionData": true
+  },
+  "exeggcute_shadow": {
+    "evolutions": [
+      "exeggutor_shadow"
+    ],
+    "normalId": "exeggcute",
+    "hasEvolutionData": true
+  },
+  "exeggutor": {
+    "evolutions": [],
+    "shadowId": "exeggutor_shadow",
+    "hasEvolutionData": true
+  },
+  "exeggutor_alolan": {
+    "evolutions": [],
+    "shadowId": "exeggutor_alolan_shadow",
+    "hasEvolutionData": true
+  },
+  "exeggutor_alolan_shadow": {
+    "evolutions": [],
+    "normalId": "exeggutor_alolan",
+    "hasEvolutionData": true
+  },
+  "exeggutor_shadow": {
+    "evolutions": [],
+    "normalId": "exeggutor",
+    "hasEvolutionData": true
+  },
+  "cubone": {
+    "evolutions": [
+      "marowak",
+      "marowak_alolan"
+    ],
+    "shadowId": "cubone_shadow",
+    "hasEvolutionData": true
+  },
+  "cubone_shadow": {
+    "evolutions": [
+      "marowak_shadow",
+      "marowak_alolan_shadow"
+    ],
+    "normalId": "cubone",
+    "hasEvolutionData": true
+  },
+  "marowak": {
+    "evolutions": [],
+    "shadowId": "marowak_shadow",
+    "hasEvolutionData": true
+  },
+  "marowak_alolan": {
+    "evolutions": [],
+    "shadowId": "marowak_alolan_shadow",
+    "hasEvolutionData": true
+  },
+  "marowak_alolan_shadow": {
+    "evolutions": [],
+    "normalId": "marowak_alolan",
+    "hasEvolutionData": true
+  },
+  "marowak_shadow": {
+    "evolutions": [],
+    "normalId": "marowak",
+    "hasEvolutionData": true
+  },
+  "hitmonlee": {
+    "evolutions": [],
+    "shadowId": "hitmonlee_shadow",
+    "hasEvolutionData": true
+  },
+  "hitmonlee_shadow": {
+    "evolutions": [],
+    "normalId": "hitmonlee",
+    "hasEvolutionData": true
+  },
+  "hitmonchan": {
+    "evolutions": [],
+    "shadowId": "hitmonchan_shadow",
+    "hasEvolutionData": true
+  },
+  "hitmonchan_shadow": {
+    "evolutions": [],
+    "normalId": "hitmonchan",
+    "hasEvolutionData": true
+  },
+  "lickitung": {
+    "evolutions": [
+      "lickilicky"
+    ],
+    "hasEvolutionData": true
+  },
+  "koffing": {
+    "evolutions": [
+      "weezing"
+    ],
+    "shadowId": "koffing_shadow",
+    "hasEvolutionData": true
+  },
+  "koffing_shadow": {
+    "evolutions": [
+      "weezing_shadow"
+    ],
+    "normalId": "koffing",
+    "hasEvolutionData": true
+  },
+  "weezing": {
+    "evolutions": [],
+    "shadowId": "weezing_shadow",
+    "hasEvolutionData": true
+  },
+  "weezing_galarian": {
+    "evolutions": [],
+    "shadowId": "weezing_galarian_shadow",
+    "hasEvolutionData": true
+  },
+  "weezing_galarian_shadow": {
+    "evolutions": [],
+    "normalId": "weezing_galarian",
+    "hasEvolutionData": true
+  },
+  "weezing_shadow": {
+    "evolutions": [],
+    "normalId": "weezing",
+    "hasEvolutionData": true
+  },
+  "rhyhorn": {
+    "evolutions": [
+      "rhydon"
+    ],
+    "shadowId": "rhyhorn_shadow",
+    "hasEvolutionData": true
+  },
+  "rhyhorn_shadow": {
+    "evolutions": [
+      "rhydon_shadow"
+    ],
+    "normalId": "rhyhorn",
+    "hasEvolutionData": true
+  },
+  "rhydon": {
+    "evolutions": [
+      "rhyperior"
+    ],
+    "shadowId": "rhydon_shadow",
+    "hasEvolutionData": true
+  },
+  "rhydon_shadow": {
+    "evolutions": [
+      "rhyperior_shadow"
+    ],
+    "normalId": "rhydon",
+    "hasEvolutionData": true
+  },
+  "chansey": {
+    "evolutions": [
+      "blissey"
+    ],
+    "hasEvolutionData": true
+  },
+  "tangela": {
+    "evolutions": [
+      "tangrowth"
+    ],
+    "shadowId": "tangela_shadow",
+    "hasEvolutionData": true
+  },
+  "tangela_shadow": {
+    "evolutions": [
+      "tangrowth_shadow"
+    ],
+    "normalId": "tangela",
+    "hasEvolutionData": true
+  },
+  "kangaskhan": {
+    "evolutions": [],
+    "hasEvolutionData": false
+  },
+  "horsea": {
+    "evolutions": [
+      "seadra"
+    ],
+    "shadowId": "horsea_shadow",
+    "hasEvolutionData": true
+  },
+  "horsea_shadow": {
+    "evolutions": [
+      "seadra_shadow"
+    ],
+    "normalId": "horsea",
+    "hasEvolutionData": true
+  },
+  "seadra": {
+    "evolutions": [
+      "kingdra"
+    ],
+    "shadowId": "seadra_shadow",
+    "hasEvolutionData": true
+  },
+  "seadra_shadow": {
+    "evolutions": [
+      "kingdra_shadow"
+    ],
+    "normalId": "seadra",
+    "hasEvolutionData": true
+  },
+  "goldeen": {
+    "evolutions": [
+      "seaking"
+    ],
+    "hasEvolutionData": true
+  },
+  "seaking": {
+    "evolutions": [],
+    "hasEvolutionData": true
+  },
+  "staryu": {
+    "evolutions": [
+      "starmie"
+    ],
+    "shadowId": "staryu_shadow",
+    "hasEvolutionData": true
+  },
+  "staryu_shadow": {
+    "evolutions": [
+      "starmie_shadow"
+    ],
+    "normalId": "staryu",
+    "hasEvolutionData": true
+  },
+  "starmie": {
+    "evolutions": [],
+    "shadowId": "starmie_shadow",
+    "hasEvolutionData": true
+  },
+  "starmie_shadow": {
+    "evolutions": [],
+    "normalId": "starmie",
+    "hasEvolutionData": true
+  },
+  "mr_mime": {
+    "evolutions": [],
+    "hasEvolutionData": true
+  },
+  "mr_mime_galarian": {
+    "evolutions": [
+      "mr_rime"
+    ],
+    "hasEvolutionData": true
+  },
+  "scyther": {
+    "evolutions": [
+      "scizor",
+      "kleavor"
+    ],
+    "shadowId": "scyther_shadow",
+    "hasEvolutionData": true
+  },
+  "scyther_shadow": {
+    "evolutions": [
+      "scizor_shadow"
+    ],
+    "normalId": "scyther",
+    "hasEvolutionData": true
+  },
+  "jynx": {
+    "evolutions": [],
+    "hasEvolutionData": true
+  },
+  "electabuzz": {
+    "evolutions": [
+      "electivire"
+    ],
+    "shadowId": "electabuzz_shadow",
+    "hasEvolutionData": true
+  },
+  "electabuzz_shadow": {
+    "evolutions": [
+      "electivire_shadow"
+    ],
+    "normalId": "electabuzz",
+    "hasEvolutionData": true
+  },
+  "magmar": {
+    "evolutions": [
+      "magmortar"
+    ],
+    "shadowId": "magmar_shadow",
+    "hasEvolutionData": true
+  },
+  "magmar_shadow": {
+    "evolutions": [
+      "magmortar_shadow"
+    ],
+    "normalId": "magmar",
+    "hasEvolutionData": true
+  },
+  "pinsir": {
+    "evolutions": [],
+    "shadowId": "pinsir_shadow",
+    "hasEvolutionData": false
+  },
+  "pinsir_shadow": {
+    "evolutions": [],
+    "normalId": "pinsir",
+    "hasEvolutionData": false
+  },
+  "tauros": {
+    "evolutions": [],
+    "hasEvolutionData": false
+  },
+  "tauros_aqua": {
+    "evolutions": [],
+    "hasEvolutionData": false
+  },
+  "tauros_blaze": {
+    "evolutions": [],
+    "hasEvolutionData": false
+  },
+  "tauros_combat": {
+    "evolutions": [],
+    "hasEvolutionData": false
+  },
+  "magikarp": {
+    "evolutions": [
+      "gyarados"
+    ],
+    "shadowId": "magikarp_shadow",
+    "hasEvolutionData": true
+  },
+  "magikarp_shadow": {
+    "evolutions": [
+      "gyarados_shadow"
+    ],
+    "normalId": "magikarp",
+    "hasEvolutionData": true
+  },
+  "gyarados": {
+    "evolutions": [],
+    "shadowId": "gyarados_shadow",
+    "hasEvolutionData": true
+  },
+  "gyarados_shadow": {
+    "evolutions": [],
+    "normalId": "gyarados",
+    "hasEvolutionData": true
+  },
+  "lapras": {
+    "evolutions": [],
+    "shadowId": "lapras_shadow",
+    "hasEvolutionData": false
+  },
+  "lapras_shadow": {
+    "evolutions": [],
+    "normalId": "lapras",
+    "hasEvolutionData": false
+  },
+  "ditto": {
+    "evolutions": [],
+    "hasEvolutionData": false
+  },
+  "eevee": {
+    "evolutions": [
+      "vaporeon",
+      "jolteon",
+      "flareon",
+      "espeon",
+      "umbreon",
+      "leafeon",
+      "glaceon",
+      "sylveon"
+    ],
+    "hasEvolutionData": true
+  },
+  "vaporeon": {
+    "evolutions": [],
+    "hasEvolutionData": true
+  },
+  "jolteon": {
+    "evolutions": [],
+    "hasEvolutionData": true
+  },
+  "flareon": {
+    "evolutions": [],
+    "hasEvolutionData": true
+  },
+  "porygon": {
+    "evolutions": [
+      "porygon2"
+    ],
+    "shadowId": "porygon_shadow",
+    "hasEvolutionData": true
+  },
+  "porygon_shadow": {
+    "evolutions": [
+      "porygon2_shadow"
+    ],
+    "normalId": "porygon",
+    "hasEvolutionData": true
+  },
+  "omanyte": {
+    "evolutions": [
+      "omastar"
+    ],
+    "shadowId": "omanyte_shadow",
+    "hasEvolutionData": true
+  },
+  "omanyte_shadow": {
+    "evolutions": [
+      "omastar_shadow"
+    ],
+    "normalId": "omanyte",
+    "hasEvolutionData": true
+  },
+  "omastar": {
+    "evolutions": [],
+    "shadowId": "omastar_shadow",
+    "hasEvolutionData": true
+  },
+  "omastar_shadow": {
+    "evolutions": [],
+    "normalId": "omastar",
+    "hasEvolutionData": true
+  },
+  "kabuto": {
+    "evolutions": [
+      "kabutops"
+    ],
+    "shadowId": "kabuto_shadow",
+    "hasEvolutionData": true
+  },
+  "kabuto_shadow": {
+    "evolutions": [
+      "kabutops_shadow"
+    ],
+    "normalId": "kabuto",
+    "hasEvolutionData": true
+  },
+  "kabutops": {
+    "evolutions": [],
+    "shadowId": "kabutops_shadow",
+    "hasEvolutionData": true
+  },
+  "kabutops_shadow": {
+    "evolutions": [],
+    "normalId": "kabutops",
+    "hasEvolutionData": true
+  },
+  "aerodactyl": {
+    "evolutions": [],
+    "shadowId": "aerodactyl_shadow",
+    "hasEvolutionData": false
+  },
+  "aerodactyl_shadow": {
+    "evolutions": [],
+    "normalId": "aerodactyl",
+    "hasEvolutionData": false
+  },
+  "snorlax": {
+    "evolutions": [],
+    "shadowId": "snorlax_shadow",
+    "hasEvolutionData": true
+  },
+  "snorlax_shadow": {
+    "evolutions": [],
+    "normalId": "snorlax",
+    "hasEvolutionData": true
+  },
+  "articuno": {
+    "evolutions": [],
+    "shadowId": "articuno_shadow",
+    "hasEvolutionData": false
+  },
+  "articuno_galarian": {
+    "evolutions": [],
+    "hasEvolutionData": false
+  },
+  "articuno_shadow": {
+    "evolutions": [],
+    "normalId": "articuno",
+    "hasEvolutionData": false
+  },
+  "zapdos": {
+    "evolutions": [],
+    "shadowId": "zapdos_shadow",
+    "hasEvolutionData": false
+  },
+  "zapdos_galarian": {
+    "evolutions": [],
+    "hasEvolutionData": false
+  },
+  "zapdos_shadow": {
+    "evolutions": [],
+    "normalId": "zapdos",
+    "hasEvolutionData": false
+  },
+  "moltres": {
+    "evolutions": [],
+    "shadowId": "moltres_shadow",
+    "hasEvolutionData": false
+  },
+  "moltres_galarian": {
+    "evolutions": [],
+    "hasEvolutionData": false
+  },
+  "moltres_shadow": {
+    "evolutions": [],
+    "normalId": "moltres",
+    "hasEvolutionData": false
+  },
+  "dratini": {
+    "evolutions": [
+      "dragonair"
+    ],
+    "shadowId": "dratini_shadow",
+    "hasEvolutionData": true
+  },
+  "dratini_shadow": {
+    "evolutions": [
+      "dragonair_shadow"
+    ],
+    "normalId": "dratini",
+    "hasEvolutionData": true
+  },
+  "dragonair": {
+    "evolutions": [
+      "dragonite"
+    ],
+    "shadowId": "dragonair_shadow",
+    "hasEvolutionData": true
+  },
+  "dragonair_shadow": {
+    "evolutions": [
+      "dragonite_shadow"
+    ],
+    "normalId": "dragonair",
+    "hasEvolutionData": true
+  },
+  "dragonite": {
+    "evolutions": [],
+    "shadowId": "dragonite_shadow",
+    "hasEvolutionData": true
+  },
+  "dragonite_shadow": {
+    "evolutions": [],
+    "normalId": "dragonite",
+    "hasEvolutionData": true
+  },
+  "mewtwo": {
+    "evolutions": [],
+    "shadowId": "mewtwo_shadow",
+    "hasEvolutionData": false
+  },
+  "mewtwo_armored": {
+    "evolutions": [],
+    "hasEvolutionData": false
+  },
+  "mewtwo_shadow": {
+    "evolutions": [],
+    "normalId": "mewtwo",
+    "hasEvolutionData": false
+  },
+  "mew": {
+    "evolutions": [],
+    "hasEvolutionData": false
+  },
+  "chikorita": {
+    "evolutions": [
+      "bayleef"
+    ],
+    "shadowId": "chikorita_shadow",
+    "hasEvolutionData": true
+  },
+  "chikorita_shadow": {
+    "evolutions": [
+      "bayleef_shadow"
+    ],
+    "normalId": "chikorita",
+    "hasEvolutionData": true
+  },
+  "bayleef": {
+    "evolutions": [
+      "meganium"
+    ],
+    "shadowId": "bayleef_shadow",
+    "hasEvolutionData": true
+  },
+  "bayleef_shadow": {
+    "evolutions": [
+      "meganium_shadow"
+    ],
+    "normalId": "bayleef",
+    "hasEvolutionData": true
+  },
+  "meganium": {
+    "evolutions": [],
+    "shadowId": "meganium_shadow",
+    "hasEvolutionData": true
+  },
+  "meganium_shadow": {
+    "evolutions": [],
+    "normalId": "meganium",
+    "hasEvolutionData": true
+  },
+  "cyndaquil": {
+    "evolutions": [
+      "quilava"
+    ],
+    "shadowId": "cyndaquil_shadow",
+    "hasEvolutionData": true
+  },
+  "cyndaquil_shadow": {
+    "evolutions": [
+      "quilava_shadow"
+    ],
+    "normalId": "cyndaquil",
+    "hasEvolutionData": true
+  },
+  "quilava": {
+    "evolutions": [
+      "typhlosion"
+    ],
+    "shadowId": "quilava_shadow",
+    "hasEvolutionData": true
+  },
+  "quilava_shadow": {
+    "evolutions": [
+      "typhlosion_shadow"
+    ],
+    "normalId": "quilava",
+    "hasEvolutionData": true
+  },
+  "typhlosion": {
+    "evolutions": [],
+    "shadowId": "typhlosion_shadow",
+    "hasEvolutionData": true
+  },
+  "typhlosion_hisuian": {
+    "evolutions": [],
+    "hasEvolutionData": true
+  },
+  "typhlosion_shadow": {
+    "evolutions": [],
+    "normalId": "typhlosion",
+    "hasEvolutionData": true
+  },
+  "totodile": {
+    "evolutions": [
+      "croconaw"
+    ],
+    "shadowId": "totodile_shadow",
+    "hasEvolutionData": true
+  },
+  "totodile_shadow": {
+    "evolutions": [
+      "croconaw_shadow"
+    ],
+    "normalId": "totodile",
+    "hasEvolutionData": true
+  },
+  "croconaw": {
+    "evolutions": [
+      "feraligatr"
+    ],
+    "shadowId": "croconaw_shadow",
+    "hasEvolutionData": true
+  },
+  "croconaw_shadow": {
+    "evolutions": [
+      "feraligatr_shadow"
+    ],
+    "normalId": "croconaw",
+    "hasEvolutionData": true
+  },
+  "feraligatr": {
+    "evolutions": [],
+    "shadowId": "feraligatr_shadow",
+    "hasEvolutionData": true
+  },
+  "feraligatr_shadow": {
+    "evolutions": [],
+    "normalId": "feraligatr",
+    "hasEvolutionData": true
+  },
+  "sentret": {
+    "evolutions": [
+      "furret"
+    ],
+    "hasEvolutionData": true
+  },
+  "furret": {
+    "evolutions": [],
+    "hasEvolutionData": true
+  },
+  "hoothoot": {
+    "evolutions": [
+      "noctowl"
+    ],
+    "shadowId": "hoothoot_shadow",
+    "hasEvolutionData": true
+  },
+  "hoothoot_shadow": {
+    "evolutions": [
+      "noctowl_shadow"
+    ],
+    "normalId": "hoothoot",
+    "hasEvolutionData": true
+  },
+  "noctowl": {
+    "evolutions": [],
+    "shadowId": "noctowl_shadow",
+    "hasEvolutionData": true
+  },
+  "noctowl_shadow": {
+    "evolutions": [],
+    "normalId": "noctowl",
+    "hasEvolutionData": true
+  },
+  "ledyba": {
+    "evolutions": [
+      "ledian"
+    ],
+    "shadowId": "ledyba_shadow",
+    "hasEvolutionData": true
+  },
+  "ledyba_shadow": {
+    "evolutions": [
+      "ledian_shadow"
+    ],
+    "normalId": "ledyba",
+    "hasEvolutionData": true
+  },
+  "ledian": {
+    "evolutions": [],
+    "shadowId": "ledian_shadow",
+    "hasEvolutionData": true
+  },
+  "ledian_shadow": {
+    "evolutions": [],
+    "normalId": "ledian",
+    "hasEvolutionData": true
+  },
+  "spinarak": {
+    "evolutions": [
+      "ariados"
+    ],
+    "hasEvolutionData": true
+  },
+  "ariados": {
+    "evolutions": [],
+    "hasEvolutionData": true
+  },
+  "crobat": {
+    "evolutions": [],
+    "shadowId": "crobat_shadow",
+    "hasEvolutionData": true
+  },
+  "crobat_shadow": {
+    "evolutions": [],
+    "normalId": "crobat",
+    "hasEvolutionData": true
+  },
+  "chinchou": {
+    "evolutions": [
+      "lanturn"
+    ],
+    "hasEvolutionData": true
+  },
+  "lanturn": {
+    "evolutions": [],
+    "hasEvolutionData": true
+  },
+  "lanturnw": {
+    "evolutions": [],
+    "hasEvolutionData": true
+  },
+  "pichu": {
+    "evolutions": [
+      "pikachu"
+    ],
+    "hasEvolutionData": true
+  },
+  "cleffa": {
+    "evolutions": [
+      "clefairy"
+    ],
+    "hasEvolutionData": true
+  },
+  "igglybuff": {
+    "evolutions": [
+      "jigglypuff"
+    ],
+    "hasEvolutionData": true
+  },
+  "togepi": {
+    "evolutions": [
+      "togetic"
+    ],
+    "hasEvolutionData": true
+  },
+  "togetic": {
+    "evolutions": [
+      "togekiss"
+    ],
+    "hasEvolutionData": true
+  },
+  "natu": {
+    "evolutions": [
+      "xatu"
+    ],
+    "shadowId": "natu_shadow",
+    "hasEvolutionData": true
+  },
+  "natu_shadow": {
+    "evolutions": [
+      "xatu_shadow"
+    ],
+    "normalId": "natu",
+    "hasEvolutionData": true
+  },
+  "xatu": {
+    "evolutions": [],
+    "shadowId": "xatu_shadow",
+    "hasEvolutionData": true
+  },
+  "xatu_shadow": {
+    "evolutions": [],
+    "normalId": "xatu",
+    "hasEvolutionData": true
+  },
+  "mareep": {
+    "evolutions": [
+      "flaaffy"
+    ],
+    "shadowId": "mareep_shadow",
+    "hasEvolutionData": true
+  },
+  "mareep_shadow": {
+    "evolutions": [
+      "flaaffy_shadow"
+    ],
+    "normalId": "mareep",
+    "hasEvolutionData": true
+  },
+  "flaaffy": {
+    "evolutions": [
+      "ampharos"
+    ],
+    "shadowId": "flaaffy_shadow",
+    "hasEvolutionData": true
+  },
+  "flaaffy_shadow": {
+    "evolutions": [
+      "ampharos_shadow"
+    ],
+    "normalId": "flaaffy",
+    "hasEvolutionData": true
+  },
+  "ampharos": {
+    "evolutions": [],
+    "shadowId": "ampharos_shadow",
+    "hasEvolutionData": true
+  },
+  "ampharos_shadow": {
+    "evolutions": [],
+    "normalId": "ampharos",
+    "hasEvolutionData": true
+  },
+  "bellossom": {
+    "evolutions": [],
+    "shadowId": "bellossom_shadow",
+    "hasEvolutionData": true
+  },
+  "bellossom_shadow": {
+    "evolutions": [],
+    "normalId": "bellossom",
+    "hasEvolutionData": true
+  },
+  "marill": {
+    "evolutions": [
+      "azumarill"
+    ],
+    "hasEvolutionData": true
+  },
+  "azumarill": {
+    "evolutions": [],
+    "hasEvolutionData": true
+  },
+  "sudowoodo": {
+    "evolutions": [],
+    "shadowId": "sudowoodo_shadow",
+    "hasEvolutionData": true
+  },
+  "sudowoodo_shadow": {
+    "evolutions": [],
+    "normalId": "sudowoodo",
+    "hasEvolutionData": true
+  },
+  "politoed": {
+    "evolutions": [],
+    "shadowId": "politoed_shadow",
+    "hasEvolutionData": true
+  },
+  "politoed_shadow": {
+    "evolutions": [],
+    "normalId": "politoed",
+    "hasEvolutionData": true
+  },
+  "hoppip": {
+    "evolutions": [
+      "skiploom"
+    ],
+    "shadowId": "hoppip_shadow",
+    "hasEvolutionData": true
+  },
+  "hoppip_shadow": {
+    "evolutions": [
+      "skiploom_shadow"
+    ],
+    "normalId": "hoppip",
+    "hasEvolutionData": true
+  },
+  "skiploom": {
+    "evolutions": [
+      "jumpluff"
+    ],
+    "shadowId": "skiploom_shadow",
+    "hasEvolutionData": true
+  },
+  "skiploom_shadow": {
+    "evolutions": [
+      "jumpluff_shadow"
+    ],
+    "normalId": "skiploom",
+    "hasEvolutionData": true
+  },
+  "jumpluff": {
+    "evolutions": [],
+    "shadowId": "jumpluff_shadow",
+    "hasEvolutionData": true
+  },
+  "jumpluff_shadow": {
+    "evolutions": [],
+    "normalId": "jumpluff",
+    "hasEvolutionData": true
+  },
+  "aipom": {
+    "evolutions": [
+      "ambipom"
+    ],
+    "shadowId": "aipom_shadow",
+    "hasEvolutionData": true
+  },
+  "aipom_shadow": {
+    "evolutions": [
+      "ambipom_shadow"
+    ],
+    "normalId": "aipom",
+    "hasEvolutionData": true
+  },
+  "sunkern": {
+    "evolutions": [
+      "sunflora"
+    ],
+    "hasEvolutionData": true
+  },
+  "sunflora": {
+    "evolutions": [],
+    "hasEvolutionData": true
+  },
+  "yanma": {
+    "evolutions": [
+      "yanmega"
+    ],
+    "hasEvolutionData": true
+  },
+  "wooper": {
+    "evolutions": [
+      "quagsire"
+    ],
+    "shadowId": "wooper_shadow",
+    "hasEvolutionData": true
+  },
+  "wooper_paldean": {
+    "evolutions": [
+      "clodsire"
+    ],
+    "hasEvolutionData": true
+  },
+  "wooper_shadow": {
+    "evolutions": [
+      "quagsire_shadow"
+    ],
+    "normalId": "wooper",
+    "hasEvolutionData": true
+  },
+  "quagsire": {
+    "evolutions": [],
+    "shadowId": "quagsire_shadow",
+    "hasEvolutionData": true
+  },
+  "quagsire_shadow": {
+    "evolutions": [],
+    "normalId": "quagsire",
+    "hasEvolutionData": true
+  },
+  "espeon": {
+    "evolutions": [],
+    "hasEvolutionData": true
+  },
+  "umbreon": {
+    "evolutions": [],
+    "hasEvolutionData": true
+  },
+  "murkrow": {
+    "evolutions": [
+      "honchkrow"
+    ],
+    "shadowId": "murkrow_shadow",
+    "hasEvolutionData": true
+  },
+  "murkrow_shadow": {
+    "evolutions": [
+      "honchkrow_shadow"
+    ],
+    "normalId": "murkrow",
+    "hasEvolutionData": true
+  },
+  "slowking": {
+    "evolutions": [],
+    "shadowId": "slowking_shadow",
+    "hasEvolutionData": true
+  },
+  "slowking_galarian": {
+    "evolutions": [],
+    "hasEvolutionData": true
+  },
+  "slowking_shadow": {
+    "evolutions": [],
+    "normalId": "slowking",
+    "hasEvolutionData": true
+  },
+  "misdreavus": {
+    "evolutions": [
+      "mismagius"
+    ],
+    "shadowId": "misdreavus_shadow",
+    "hasEvolutionData": true
+  },
+  "misdreavus_shadow": {
+    "evolutions": [
+      "mismagius_shadow"
+    ],
+    "normalId": "misdreavus",
+    "hasEvolutionData": true
+  },
+  "unown": {
+    "evolutions": [],
+    "hasEvolutionData": false
+  },
+  "wobbuffet": {
+    "evolutions": [],
+    "shadowId": "wobbuffet_shadow",
+    "hasEvolutionData": true
+  },
+  "wobbuffet_shadow": {
+    "evolutions": [],
+    "normalId": "wobbuffet",
+    "hasEvolutionData": true
+  },
+  "girafarig": {
+    "evolutions": [
+      "farigiraf"
+    ],
+    "shadowId": "girafarig_shadow",
+    "hasEvolutionData": true
+  },
+  "girafarig_shadow": {
+    "evolutions": [],
+    "normalId": "girafarig",
+    "hasEvolutionData": true
+  },
+  "pineco": {
+    "evolutions": [
+      "forretress"
+    ],
+    "shadowId": "pineco_shadow",
+    "hasEvolutionData": true
+  },
+  "pineco_shadow": {
+    "evolutions": [
+      "forretress_shadow"
+    ],
+    "normalId": "pineco",
+    "hasEvolutionData": true
+  },
+  "forretress": {
+    "evolutions": [],
+    "shadowId": "forretress_shadow",
+    "hasEvolutionData": true
+  },
+  "forretress_shadow": {
+    "evolutions": [],
+    "normalId": "forretress",
+    "hasEvolutionData": true
+  },
+  "dunsparce": {
+    "evolutions": [
+      "dudunsparce"
+    ],
+    "hasEvolutionData": true
+  },
+  "gligar": {
+    "evolutions": [
+      "gliscor"
+    ],
+    "shadowId": "gligar_shadow",
+    "hasEvolutionData": true
+  },
+  "gligar_shadow": {
+    "evolutions": [
+      "gliscor_shadow"
+    ],
+    "normalId": "gligar",
+    "hasEvolutionData": true
+  },
+  "steelix": {
+    "evolutions": [],
+    "shadowId": "steelix_shadow",
+    "hasEvolutionData": true
+  },
+  "steelix_shadow": {
+    "evolutions": [],
+    "normalId": "steelix",
+    "hasEvolutionData": true
+  },
+  "snubbull": {
+    "evolutions": [
+      "granbull"
+    ],
+    "shadowId": "snubbull_shadow",
+    "hasEvolutionData": true
+  },
+  "snubbull_shadow": {
+    "evolutions": [
+      "granbull_shadow"
+    ],
+    "normalId": "snubbull",
+    "hasEvolutionData": true
+  },
+  "granbull": {
+    "evolutions": [],
+    "shadowId": "granbull_shadow",
+    "hasEvolutionData": true
+  },
+  "granbull_shadow": {
+    "evolutions": [],
+    "normalId": "granbull",
+    "hasEvolutionData": true
+  },
+  "qwilfish": {
+    "evolutions": [],
+    "shadowId": "qwilfish_shadow",
+    "hasEvolutionData": false
+  },
+  "qwilfish_hisuian": {
+    "evolutions": [
+      "overqwil"
+    ],
+    "hasEvolutionData": true
+  },
+  "qwilfish_shadow": {
+    "evolutions": [],
+    "normalId": "qwilfish",
+    "hasEvolutionData": false
+  },
+  "scizor": {
+    "evolutions": [],
+    "shadowId": "scizor_shadow",
+    "hasEvolutionData": true
+  },
+  "scizor_shadow": {
+    "evolutions": [],
+    "normalId": "scizor",
+    "hasEvolutionData": true
+  },
+  "shuckle": {
+    "evolutions": [],
+    "shadowId": "shuckle_shadow",
+    "hasEvolutionData": false
+  },
+  "shuckle_shadow": {
+    "evolutions": [],
+    "normalId": "shuckle",
+    "hasEvolutionData": false
+  },
+  "heracross": {
+    "evolutions": [],
+    "hasEvolutionData": false
+  },
+  "sneasel": {
+    "evolutions": [
+      "weavile"
+    ],
+    "shadowId": "sneasel_shadow",
+    "hasEvolutionData": true
+  },
+  "sneasel_hisuian": {
+    "evolutions": [
+      "sneasler"
+    ],
+    "shadowId": "sneasel_hisuian_shadow",
+    "hasEvolutionData": true
+  },
+  "sneasel_hisuian_shadow": {
+    "evolutions": [
+      "sneasler_shadow"
+    ],
+    "normalId": "sneasel_hisuian",
+    "hasEvolutionData": true
+  },
+  "sneasel_shadow": {
+    "evolutions": [
+      "weavile_shadow"
+    ],
+    "normalId": "sneasel",
+    "hasEvolutionData": true
+  },
+  "teddiursa": {
+    "evolutions": [
+      "ursaring"
+    ],
+    "shadowId": "teddiursa_shadow",
+    "hasEvolutionData": true
+  },
+  "teddiursa_shadow": {
+    "evolutions": [
+      "ursaring_shadow"
+    ],
+    "normalId": "teddiursa",
+    "hasEvolutionData": true
+  },
+  "ursaring": {
+    "evolutions": [
+      "ursaluna"
+    ],
+    "shadowId": "ursaring_shadow",
+    "hasEvolutionData": true
+  },
+  "ursaring_shadow": {
+    "evolutions": [
+      "ursaluna_shadow"
+    ],
+    "normalId": "ursaring",
+    "hasEvolutionData": true
+  },
+  "slugma": {
+    "evolutions": [
+      "magcargo"
+    ],
+    "hasEvolutionData": true
+  },
+  "magcargo": {
+    "evolutions": [],
+    "hasEvolutionData": true
+  },
+  "swinub": {
+    "evolutions": [
+      "piloswine"
+    ],
+    "shadowId": "swinub_shadow",
+    "hasEvolutionData": true
+  },
+  "swinub_shadow": {
+    "evolutions": [
+      "piloswine_shadow"
+    ],
+    "normalId": "swinub",
+    "hasEvolutionData": true
+  },
+  "piloswine": {
+    "evolutions": [
+      "mamoswine"
+    ],
+    "shadowId": "piloswine_shadow",
+    "hasEvolutionData": true
+  },
+  "piloswine_shadow": {
+    "evolutions": [
+      "mamoswine_shadow"
+    ],
+    "normalId": "piloswine",
+    "hasEvolutionData": true
+  },
+  "corsola": {
+    "evolutions": [],
+    "hasEvolutionData": false
+  },
+  "corsola_galarian": {
+    "evolutions": [],
+    "hasEvolutionData": false
+  },
+  "remoraid": {
+    "evolutions": [
+      "octillery"
+    ],
+    "hasEvolutionData": true
+  },
+  "octillery": {
+    "evolutions": [],
+    "hasEvolutionData": true
+  },
+  "delibird": {
+    "evolutions": [],
+    "shadowId": "delibird_shadow",
+    "hasEvolutionData": false
+  },
+  "delibird_shadow": {
+    "evolutions": [],
+    "normalId": "delibird",
+    "hasEvolutionData": false
+  },
+  "mantine": {
+    "evolutions": [],
+    "hasEvolutionData": true
+  },
+  "skarmory": {
+    "evolutions": [],
+    "shadowId": "skarmory_shadow",
+    "hasEvolutionData": false
+  },
+  "skarmory_shadow": {
+    "evolutions": [],
+    "normalId": "skarmory",
+    "hasEvolutionData": false
+  },
+  "houndour": {
+    "evolutions": [
+      "houndoom"
+    ],
+    "shadowId": "houndour_shadow",
+    "hasEvolutionData": true
+  },
+  "houndour_shadow": {
+    "evolutions": [
+      "houndoom_shadow"
+    ],
+    "normalId": "houndour",
+    "hasEvolutionData": true
+  },
+  "houndoom": {
+    "evolutions": [],
+    "shadowId": "houndoom_shadow",
+    "hasEvolutionData": true
+  },
+  "houndoom_shadow": {
+    "evolutions": [],
+    "normalId": "houndoom",
+    "hasEvolutionData": true
+  },
+  "kingdra": {
+    "evolutions": [],
+    "shadowId": "kingdra_shadow",
+    "hasEvolutionData": true
+  },
+  "kingdra_shadow": {
+    "evolutions": [],
+    "normalId": "kingdra",
+    "hasEvolutionData": true
+  },
+  "phanpy": {
+    "evolutions": [
+      "donphan"
+    ],
+    "shadowId": "phanpy_shadow",
+    "hasEvolutionData": true
+  },
+  "phanpy_shadow": {
+    "evolutions": [
+      "donphan_shadow"
+    ],
+    "normalId": "phanpy",
+    "hasEvolutionData": true
+  },
+  "donphan": {
+    "evolutions": [],
+    "shadowId": "donphan_shadow",
+    "hasEvolutionData": true
+  },
+  "donphan_shadow": {
+    "evolutions": [],
+    "normalId": "donphan",
+    "hasEvolutionData": true
+  },
+  "porygon2": {
+    "evolutions": [
+      "porygon_z"
+    ],
+    "shadowId": "porygon2_shadow",
+    "hasEvolutionData": true
+  },
+  "porygon2_shadow": {
+    "evolutions": [
+      "porygon_z_shadow"
+    ],
+    "normalId": "porygon2",
+    "hasEvolutionData": true
+  },
+  "stantler": {
+    "evolutions": [
+      "wyrdeer"
+    ],
+    "shadowId": "stantler_shadow",
+    "hasEvolutionData": true
+  },
+  "stantler_shadow": {
+    "evolutions": [],
+    "normalId": "stantler",
+    "hasEvolutionData": true
+  },
+  "smeargle": {
+    "evolutions": [],
+    "hasEvolutionData": false
+  },
+  "tyrogue": {
+    "evolutions": [
+      "hitmonlee",
+      "hitmonchan",
+      "hitmontop"
+    ],
+    "hasEvolutionData": true
+  },
+  "hitmontop": {
+    "evolutions": [],
+    "shadowId": "hitmontop_shadow",
+    "hasEvolutionData": true
+  },
+  "hitmontop_shadow": {
+    "evolutions": [],
+    "normalId": "hitmontop",
+    "hasEvolutionData": true
+  },
+  "smoochum": {
+    "evolutions": [
+      "jynx"
+    ],
+    "hasEvolutionData": true
+  },
+  "elekid": {
+    "evolutions": [
+      "electabuzz"
+    ],
+    "hasEvolutionData": true
+  },
+  "magby": {
+    "evolutions": [
+      "magmar"
+    ],
+    "hasEvolutionData": true
+  },
+  "miltank": {
+    "evolutions": [],
+    "hasEvolutionData": false
+  },
+  "blissey": {
+    "evolutions": [],
+    "hasEvolutionData": true
+  },
+  "raikou": {
+    "evolutions": [],
+    "shadowId": "raikou_shadow",
+    "hasEvolutionData": false
+  },
+  "raikou_shadow": {
+    "evolutions": [],
+    "normalId": "raikou",
+    "hasEvolutionData": false
+  },
+  "entei": {
+    "evolutions": [],
+    "shadowId": "entei_shadow",
+    "hasEvolutionData": false
+  },
+  "entei_shadow": {
+    "evolutions": [],
+    "normalId": "entei",
+    "hasEvolutionData": false
+  },
+  "suicune": {
+    "evolutions": [],
+    "shadowId": "suicune_shadow",
+    "hasEvolutionData": false
+  },
+  "suicune_shadow": {
+    "evolutions": [],
+    "normalId": "suicune",
+    "hasEvolutionData": false
+  },
+  "larvitar": {
+    "evolutions": [
+      "pupitar"
+    ],
+    "shadowId": "larvitar_shadow",
+    "hasEvolutionData": true
+  },
+  "larvitar_shadow": {
+    "evolutions": [
+      "pupitar_shadow"
+    ],
+    "normalId": "larvitar",
+    "hasEvolutionData": true
+  },
+  "pupitar": {
+    "evolutions": [
+      "tyranitar"
+    ],
+    "shadowId": "pupitar_shadow",
+    "hasEvolutionData": true
+  },
+  "pupitar_shadow": {
+    "evolutions": [
+      "tyranitar_shadow"
+    ],
+    "normalId": "pupitar",
+    "hasEvolutionData": true
+  },
+  "tyranitar": {
+    "evolutions": [],
+    "shadowId": "tyranitar_shadow",
+    "hasEvolutionData": true
+  },
+  "tyranitar_shadow": {
+    "evolutions": [],
+    "normalId": "tyranitar",
+    "hasEvolutionData": true
+  },
+  "lugia": {
+    "evolutions": [],
+    "shadowId": "lugia_shadow",
+    "hasEvolutionData": false
+  },
+  "lugia_shadow": {
+    "evolutions": [],
+    "normalId": "lugia",
+    "hasEvolutionData": false
+  },
+  "ho_oh": {
+    "evolutions": [],
+    "shadowId": "ho_oh_shadow",
+    "hasEvolutionData": false
+  },
+  "ho_oh_shadow": {
+    "evolutions": [],
+    "normalId": "ho_oh",
+    "hasEvolutionData": false
+  },
+  "celebi": {
+    "evolutions": [],
+    "hasEvolutionData": false
+  },
+  "treecko": {
+    "evolutions": [
+      "grovyle"
+    ],
+    "shadowId": "treecko_shadow",
+    "hasEvolutionData": true
+  },
+  "treecko_shadow": {
+    "evolutions": [
+      "grovyle_shadow"
+    ],
+    "normalId": "treecko",
+    "hasEvolutionData": true
+  },
+  "grovyle": {
+    "evolutions": [
+      "sceptile"
+    ],
+    "shadowId": "grovyle_shadow",
+    "hasEvolutionData": true
+  },
+  "grovyle_shadow": {
+    "evolutions": [
+      "sceptile_shadow"
+    ],
+    "normalId": "grovyle",
+    "hasEvolutionData": true
+  },
+  "sceptile": {
+    "evolutions": [],
+    "shadowId": "sceptile_shadow",
+    "hasEvolutionData": true
+  },
+  "sceptile_shadow": {
+    "evolutions": [],
+    "normalId": "sceptile",
+    "hasEvolutionData": true
+  },
+  "torchic": {
+    "evolutions": [
+      "combusken"
+    ],
+    "shadowId": "torchic_shadow",
+    "hasEvolutionData": true
+  },
+  "torchic_shadow": {
+    "evolutions": [
+      "combusken_shadow"
+    ],
+    "normalId": "torchic",
+    "hasEvolutionData": true
+  },
+  "combusken": {
+    "evolutions": [
+      "blaziken"
+    ],
+    "shadowId": "combusken_shadow",
+    "hasEvolutionData": true
+  },
+  "combusken_shadow": {
+    "evolutions": [
+      "blaziken_shadow"
+    ],
+    "normalId": "combusken",
+    "hasEvolutionData": true
+  },
+  "blaziken": {
+    "evolutions": [],
+    "shadowId": "blaziken_shadow",
+    "hasEvolutionData": true
+  },
+  "blaziken_shadow": {
+    "evolutions": [],
+    "normalId": "blaziken",
+    "hasEvolutionData": true
+  },
+  "mudkip": {
+    "evolutions": [
+      "marshtomp"
+    ],
+    "shadowId": "mudkip_shadow",
+    "hasEvolutionData": true
+  },
+  "mudkip_shadow": {
+    "evolutions": [
+      "marshtomp_shadow"
+    ],
+    "normalId": "mudkip",
+    "hasEvolutionData": true
+  },
+  "marshtomp": {
+    "evolutions": [
+      "swampert"
+    ],
+    "shadowId": "marshtomp_shadow",
+    "hasEvolutionData": true
+  },
+  "marshtomp_shadow": {
+    "evolutions": [
+      "swampert_shadow"
+    ],
+    "normalId": "marshtomp",
+    "hasEvolutionData": true
+  },
+  "swampert": {
+    "evolutions": [],
+    "shadowId": "swampert_shadow",
+    "hasEvolutionData": true
+  },
+  "swampert_shadow": {
+    "evolutions": [],
+    "normalId": "swampert",
+    "hasEvolutionData": true
+  },
+  "poochyena": {
+    "evolutions": [
+      "mightyena"
+    ],
+    "shadowId": "poochyena_shadow",
+    "hasEvolutionData": true
+  },
+  "poochyena_shadow": {
+    "evolutions": [
+      "mightyena_shadow"
+    ],
+    "normalId": "poochyena",
+    "hasEvolutionData": true
+  },
+  "mightyena": {
+    "evolutions": [],
+    "shadowId": "mightyena_shadow",
+    "hasEvolutionData": true
+  },
+  "mightyena_shadow": {
+    "evolutions": [],
+    "normalId": "mightyena",
+    "hasEvolutionData": true
+  },
+  "zigzagoon": {
+    "evolutions": [
+      "linoone"
+    ],
+    "hasEvolutionData": true
+  },
+  "zigzagoon_galarian": {
+    "evolutions": [
+      "linoone_galarian"
+    ],
+    "shadowId": "zigzagoon_galarian_shadow",
+    "hasEvolutionData": true
+  },
+  "zigzagoon_galarian_shadow": {
+    "evolutions": [
+      "linoone_galarian_shadow"
+    ],
+    "normalId": "zigzagoon_galarian",
+    "hasEvolutionData": true
+  },
+  "linoone": {
+    "evolutions": [],
+    "hasEvolutionData": true
+  },
+  "linoone_galarian": {
+    "evolutions": [
+      "obstagoon"
+    ],
+    "shadowId": "linoone_galarian_shadow",
+    "hasEvolutionData": true
+  },
+  "linoone_galarian_shadow": {
+    "evolutions": [
+      "obstagoon_shadow"
+    ],
+    "normalId": "linoone_galarian",
+    "hasEvolutionData": true
+  },
+  "wurmple": {
+    "evolutions": [
+      "silcoon",
+      "cascoon"
+    ],
+    "hasEvolutionData": true
+  },
+  "silcoon": {
+    "evolutions": [
+      "beautifly"
+    ],
+    "hasEvolutionData": true
+  },
+  "beautifly": {
+    "evolutions": [],
+    "hasEvolutionData": true
+  },
+  "cascoon": {
+    "evolutions": [
+      "dustox"
+    ],
+    "hasEvolutionData": true
+  },
+  "dustox": {
+    "evolutions": [],
+    "hasEvolutionData": true
+  },
+  "lotad": {
+    "evolutions": [
+      "lombre"
+    ],
+    "hasEvolutionData": true
+  },
+  "lombre": {
+    "evolutions": [
+      "ludicolo"
+    ],
+    "hasEvolutionData": true
+  },
+  "ludicolo": {
+    "evolutions": [],
+    "hasEvolutionData": true
+  },
+  "seedot": {
+    "evolutions": [
+      "nuzleaf"
+    ],
+    "shadowId": "seedot_shadow",
+    "hasEvolutionData": true
+  },
+  "seedot_shadow": {
+    "evolutions": [
+      "nuzleaf_shadow"
+    ],
+    "normalId": "seedot",
+    "hasEvolutionData": true
+  },
+  "nuzleaf": {
+    "evolutions": [
+      "shiftry"
+    ],
+    "shadowId": "nuzleaf_shadow",
+    "hasEvolutionData": true
+  },
+  "nuzleaf_shadow": {
+    "evolutions": [
+      "shiftry_shadow"
+    ],
+    "normalId": "nuzleaf",
+    "hasEvolutionData": true
+  },
+  "shiftry": {
+    "evolutions": [],
+    "shadowId": "shiftry_shadow",
+    "hasEvolutionData": true
+  },
+  "shiftry_shadow": {
+    "evolutions": [],
+    "normalId": "shiftry",
+    "hasEvolutionData": true
+  },
+  "taillow": {
+    "evolutions": [
+      "swellow"
+    ],
+    "shadowId": "taillow_shadow",
+    "hasEvolutionData": true
+  },
+  "taillow_shadow": {
+    "evolutions": [
+      "swellow_shadow"
+    ],
+    "normalId": "taillow",
+    "hasEvolutionData": true
+  },
+  "swellow": {
+    "evolutions": [],
+    "shadowId": "swellow_shadow",
+    "hasEvolutionData": true
+  },
+  "swellow_shadow": {
+    "evolutions": [],
+    "normalId": "swellow",
+    "hasEvolutionData": true
+  },
+  "wingull": {
+    "evolutions": [
+      "pelipper"
+    ],
+    "hasEvolutionData": true
+  },
+  "pelipper": {
+    "evolutions": [],
+    "hasEvolutionData": true
+  },
+  "ralts": {
+    "evolutions": [
+      "kirlia"
+    ],
+    "shadowId": "ralts_shadow",
+    "hasEvolutionData": true
+  },
+  "ralts_shadow": {
+    "evolutions": [
+      "kirlia_shadow"
+    ],
+    "normalId": "ralts",
+    "hasEvolutionData": true
+  },
+  "kirlia": {
+    "evolutions": [
+      "gallade",
+      "gardevoir"
+    ],
+    "shadowId": "kirlia_shadow",
+    "hasEvolutionData": true
+  },
+  "kirlia_shadow": {
+    "evolutions": [
+      "gallade_shadow",
+      "gardevoir_shadow"
+    ],
+    "normalId": "kirlia",
+    "hasEvolutionData": true
+  },
+  "gardevoir": {
+    "evolutions": [],
+    "shadowId": "gardevoir_shadow",
+    "hasEvolutionData": true
+  },
+  "gardevoir_shadow": {
+    "evolutions": [],
+    "normalId": "gardevoir",
+    "hasEvolutionData": true
+  },
+  "surskit": {
+    "evolutions": [
+      "masquerain"
+    ],
+    "hasEvolutionData": true
+  },
+  "masquerain": {
+    "evolutions": [],
+    "hasEvolutionData": true
+  },
+  "shroomish": {
+    "evolutions": [
+      "breloom"
+    ],
+    "hasEvolutionData": true
+  },
+  "breloom": {
+    "evolutions": [],
+    "hasEvolutionData": true
+  },
+  "slakoth": {
+    "evolutions": [
+      "vigoroth"
+    ],
+    "shadowId": "slakoth_shadow",
+    "hasEvolutionData": true
+  },
+  "slakoth_shadow": {
+    "evolutions": [
+      "vigoroth_shadow"
+    ],
+    "normalId": "slakoth",
+    "hasEvolutionData": true
+  },
+  "vigoroth": {
+    "evolutions": [
+      "slaking"
+    ],
+    "shadowId": "vigoroth_shadow",
+    "hasEvolutionData": true
+  },
+  "vigoroth_shadow": {
+    "evolutions": [
+      "slaking_shadow"
+    ],
+    "normalId": "vigoroth",
+    "hasEvolutionData": true
+  },
+  "slaking": {
+    "evolutions": [],
+    "shadowId": "slaking_shadow",
+    "hasEvolutionData": true
+  },
+  "slaking_shadow": {
+    "evolutions": [],
+    "normalId": "slaking",
+    "hasEvolutionData": true
+  },
+  "nincada": {
+    "evolutions": [
+      "ninjask"
+    ],
+    "hasEvolutionData": true
+  },
+  "ninjask": {
+    "evolutions": [],
+    "hasEvolutionData": true
+  },
+  "shedinja": {
+    "evolutions": [],
+    "hasEvolutionData": true
+  },
+  "whismur": {
+    "evolutions": [
+      "loudred"
+    ],
+    "shadowId": "whismur_shadow",
+    "hasEvolutionData": true
+  },
+  "whismur_shadow": {
+    "evolutions": [
+      "loudred_shadow"
+    ],
+    "normalId": "whismur",
+    "hasEvolutionData": true
+  },
+  "loudred": {
+    "evolutions": [
+      "exploud"
+    ],
+    "shadowId": "loudred_shadow",
+    "hasEvolutionData": true
+  },
+  "loudred_shadow": {
+    "evolutions": [
+      "exploud_shadow"
+    ],
+    "normalId": "loudred",
+    "hasEvolutionData": true
+  },
+  "exploud": {
+    "evolutions": [],
+    "shadowId": "exploud_shadow",
+    "hasEvolutionData": true
+  },
+  "exploud_shadow": {
+    "evolutions": [],
+    "normalId": "exploud",
+    "hasEvolutionData": true
+  },
+  "makuhita": {
+    "evolutions": [
+      "hariyama"
+    ],
+    "shadowId": "makuhita_shadow",
+    "hasEvolutionData": true
+  },
+  "makuhita_shadow": {
+    "evolutions": [
+      "hariyama_shadow"
+    ],
+    "normalId": "makuhita",
+    "hasEvolutionData": true
+  },
+  "hariyama": {
+    "evolutions": [],
+    "shadowId": "hariyama_shadow",
+    "hasEvolutionData": true
+  },
+  "hariyama_shadow": {
+    "evolutions": [],
+    "normalId": "hariyama",
+    "hasEvolutionData": true
+  },
+  "azurill": {
+    "evolutions": [
+      "marill"
+    ],
+    "hasEvolutionData": true
+  },
+  "nosepass": {
+    "evolutions": [
+      "probopass"
+    ],
+    "shadowId": "nosepass_shadow",
+    "hasEvolutionData": true
+  },
+  "nosepass_shadow": {
+    "evolutions": [
+      "probopass_shadow"
+    ],
+    "normalId": "nosepass",
+    "hasEvolutionData": true
+  },
+  "skitty": {
+    "evolutions": [
+      "delcatty"
+    ],
+    "hasEvolutionData": true
+  },
+  "delcatty": {
+    "evolutions": [],
+    "hasEvolutionData": true
+  },
+  "sableye": {
+    "evolutions": [],
+    "shadowId": "sableye_shadow",
+    "hasEvolutionData": false
+  },
+  "sableye_shadow": {
+    "evolutions": [],
+    "normalId": "sableye",
+    "hasEvolutionData": false
+  },
+  "mawile": {
+    "evolutions": [],
+    "shadowId": "mawile_shadow",
+    "hasEvolutionData": false
+  },
+  "mawile_shadow": {
+    "evolutions": [],
+    "normalId": "mawile",
+    "hasEvolutionData": false
+  },
+  "aron": {
+    "evolutions": [
+      "lairon"
+    ],
+    "shadowId": "aron_shadow",
+    "hasEvolutionData": true
+  },
+  "aron_shadow": {
+    "evolutions": [
+      "lairon_shadow"
+    ],
+    "normalId": "aron",
+    "hasEvolutionData": true
+  },
+  "lairon": {
+    "evolutions": [
+      "aggron"
+    ],
+    "shadowId": "lairon_shadow",
+    "hasEvolutionData": true
+  },
+  "lairon_shadow": {
+    "evolutions": [
+      "aggron_shadow"
+    ],
+    "normalId": "lairon",
+    "hasEvolutionData": true
+  },
+  "aggron": {
+    "evolutions": [],
+    "shadowId": "aggron_shadow",
+    "hasEvolutionData": true
+  },
+  "aggron_shadow": {
+    "evolutions": [],
+    "normalId": "aggron",
+    "hasEvolutionData": true
+  },
+  "meditite": {
+    "evolutions": [
+      "medicham"
+    ],
+    "hasEvolutionData": true
+  },
+  "medicham": {
+    "evolutions": [],
+    "hasEvolutionData": true
+  },
+  "electrike": {
+    "evolutions": [
+      "manectric"
+    ],
+    "shadowId": "electrike_shadow",
+    "hasEvolutionData": true
+  },
+  "electrike_shadow": {
+    "evolutions": [
+      "manectric_shadow"
+    ],
+    "normalId": "electrike",
+    "hasEvolutionData": true
+  },
+  "manectric": {
+    "evolutions": [],
+    "shadowId": "manectric_shadow",
+    "hasEvolutionData": true
+  },
+  "manectric_shadow": {
+    "evolutions": [],
+    "normalId": "manectric",
+    "hasEvolutionData": true
+  },
+  "plusle": {
+    "evolutions": [],
+    "hasEvolutionData": false
+  },
+  "minun": {
+    "evolutions": [],
+    "hasEvolutionData": false
+  },
+  "volbeat": {
+    "evolutions": [],
+    "hasEvolutionData": false
+  },
+  "illumise": {
+    "evolutions": [],
+    "hasEvolutionData": false
+  },
+  "roselia": {
+    "evolutions": [
+      "roserade"
+    ],
+    "hasEvolutionData": true
+  },
+  "gulpin": {
+    "evolutions": [
+      "swalot"
+    ],
+    "hasEvolutionData": true
+  },
+  "swalot": {
+    "evolutions": [],
+    "hasEvolutionData": true
+  },
+  "carvanha": {
+    "evolutions": [
+      "sharpedo"
+    ],
+    "shadowId": "carvanha_shadow",
+    "hasEvolutionData": true
+  },
+  "carvanha_shadow": {
+    "evolutions": [
+      "sharpedo_shadow"
+    ],
+    "normalId": "carvanha",
+    "hasEvolutionData": true
+  },
+  "sharpedo": {
+    "evolutions": [],
+    "shadowId": "sharpedo_shadow",
+    "hasEvolutionData": true
+  },
+  "sharpedo_shadow": {
+    "evolutions": [],
+    "normalId": "sharpedo",
+    "hasEvolutionData": true
+  },
+  "wailmer": {
+    "evolutions": [
+      "wailord"
+    ],
+    "shadowId": "wailmer_shadow",
+    "hasEvolutionData": true
+  },
+  "wailmer_shadow": {
+    "evolutions": [
+      "wailord_shadow"
+    ],
+    "normalId": "wailmer",
+    "hasEvolutionData": true
+  },
+  "wailord": {
+    "evolutions": [],
+    "shadowId": "wailord_shadow",
+    "hasEvolutionData": true
+  },
+  "wailord_shadow": {
+    "evolutions": [],
+    "normalId": "wailord",
+    "hasEvolutionData": true
+  },
+  "numel": {
+    "evolutions": [
+      "camerupt"
+    ],
+    "shadowId": "numel_shadow",
+    "hasEvolutionData": true
+  },
+  "numel_shadow": {
+    "evolutions": [
+      "camerupt_shadow"
+    ],
+    "normalId": "numel",
+    "hasEvolutionData": true
+  },
+  "camerupt": {
+    "evolutions": [],
+    "shadowId": "camerupt_shadow",
+    "hasEvolutionData": true
+  },
+  "camerupt_shadow": {
+    "evolutions": [],
+    "normalId": "camerupt",
+    "hasEvolutionData": true
+  },
+  "torkoal": {
+    "evolutions": [],
+    "hasEvolutionData": false
+  },
+  "spoink": {
+    "evolutions": [
+      "grumpig"
+    ],
+    "shadowId": "spoink_shadow",
+    "hasEvolutionData": true
+  },
+  "spoink_shadow": {
+    "evolutions": [
+      "grumpig_shadow"
+    ],
+    "normalId": "spoink",
+    "hasEvolutionData": true
+  },
+  "grumpig": {
+    "evolutions": [],
+    "shadowId": "grumpig_shadow",
+    "hasEvolutionData": true
+  },
+  "grumpig_shadow": {
+    "evolutions": [],
+    "normalId": "grumpig",
+    "hasEvolutionData": true
+  },
+  "spinda": {
+    "evolutions": [],
+    "hasEvolutionData": false
+  },
+  "trapinch": {
+    "evolutions": [
+      "vibrava"
+    ],
+    "shadowId": "trapinch_shadow",
+    "hasEvolutionData": true
+  },
+  "trapinch_shadow": {
+    "evolutions": [
+      "vibrava_shadow"
+    ],
+    "normalId": "trapinch",
+    "hasEvolutionData": true
+  },
+  "vibrava": {
+    "evolutions": [
+      "flygon"
+    ],
+    "shadowId": "vibrava_shadow",
+    "hasEvolutionData": true
+  },
+  "vibrava_shadow": {
+    "evolutions": [
+      "flygon_shadow"
+    ],
+    "normalId": "vibrava",
+    "hasEvolutionData": true
+  },
+  "flygon": {
+    "evolutions": [],
+    "shadowId": "flygon_shadow",
+    "hasEvolutionData": true
+  },
+  "flygon_shadow": {
+    "evolutions": [],
+    "normalId": "flygon",
+    "hasEvolutionData": true
+  },
+  "cacnea": {
+    "evolutions": [
+      "cacturne"
+    ],
+    "shadowId": "cacnea_shadow",
+    "hasEvolutionData": true
+  },
+  "cacnea_shadow": {
+    "evolutions": [
+      "cacturne_shadow"
+    ],
+    "normalId": "cacnea",
+    "hasEvolutionData": true
+  },
+  "cacturne": {
+    "evolutions": [],
+    "shadowId": "cacturne_shadow",
+    "hasEvolutionData": true
+  },
+  "cacturne_shadow": {
+    "evolutions": [],
+    "normalId": "cacturne",
+    "hasEvolutionData": true
+  },
+  "swablu": {
+    "evolutions": [
+      "altaria"
+    ],
+    "shadowId": "swablu_shadow",
+    "hasEvolutionData": true
+  },
+  "swablu_shadow": {
+    "evolutions": [
+      "altaria_shadow"
+    ],
+    "normalId": "swablu",
+    "hasEvolutionData": true
+  },
+  "altaria": {
+    "evolutions": [],
+    "shadowId": "altaria_shadow",
+    "hasEvolutionData": true
+  },
+  "altaria_shadow": {
+    "evolutions": [],
+    "normalId": "altaria",
+    "hasEvolutionData": true
+  },
+  "zangoose": {
+    "evolutions": [],
+    "hasEvolutionData": false
+  },
+  "seviper": {
+    "evolutions": [],
+    "hasEvolutionData": false
+  },
+  "lunatone": {
+    "evolutions": [],
+    "hasEvolutionData": false
+  },
+  "solrock": {
+    "evolutions": [],
+    "hasEvolutionData": false
+  },
+  "barboach": {
+    "evolutions": [
+      "whiscash"
+    ],
+    "shadowId": "barboach_shadow",
+    "hasEvolutionData": true
+  },
+  "barboach_shadow": {
+    "evolutions": [
+      "whiscash_shadow"
+    ],
+    "normalId": "barboach",
+    "hasEvolutionData": true
+  },
+  "whiscash": {
+    "evolutions": [],
+    "shadowId": "whiscash_shadow",
+    "hasEvolutionData": true
+  },
+  "whiscash_shadow": {
+    "evolutions": [],
+    "normalId": "whiscash",
+    "hasEvolutionData": true
+  },
+  "corphish": {
+    "evolutions": [
+      "crawdaunt"
+    ],
+    "shadowId": "corphish_shadow",
+    "hasEvolutionData": true
+  },
+  "corphish_shadow": {
+    "evolutions": [
+      "crawdaunt_shadow"
+    ],
+    "normalId": "corphish",
+    "hasEvolutionData": true
+  },
+  "crawdaunt": {
+    "evolutions": [],
+    "shadowId": "crawdaunt_shadow",
+    "hasEvolutionData": true
+  },
+  "crawdaunt_shadow": {
+    "evolutions": [],
+    "normalId": "crawdaunt",
+    "hasEvolutionData": true
+  },
+  "baltoy": {
+    "evolutions": [
+      "claydol"
+    ],
+    "shadowId": "baltoy_shadow",
+    "hasEvolutionData": true
+  },
+  "baltoy_shadow": {
+    "evolutions": [
+      "claydol_shadow"
+    ],
+    "normalId": "baltoy",
+    "hasEvolutionData": true
+  },
+  "claydol": {
+    "evolutions": [],
+    "shadowId": "claydol_shadow",
+    "hasEvolutionData": true
+  },
+  "claydol_shadow": {
+    "evolutions": [],
+    "normalId": "claydol",
+    "hasEvolutionData": true
+  },
+  "lileep": {
+    "evolutions": [
+      "cradily"
+    ],
+    "shadowId": "lileep_shadow",
+    "hasEvolutionData": true
+  },
+  "lileep_shadow": {
+    "evolutions": [
+      "cradily_shadow"
+    ],
+    "normalId": "lileep",
+    "hasEvolutionData": true
+  },
+  "cradily": {
+    "evolutions": [],
+    "shadowId": "cradily_shadow",
+    "hasEvolutionData": true
+  },
+  "cradily_b": {
+    "evolutions": [],
+    "hasEvolutionData": true
+  },
+  "cradily_shadow": {
+    "evolutions": [],
+    "normalId": "cradily",
+    "hasEvolutionData": true
+  },
+  "anorith": {
+    "evolutions": [
+      "armaldo"
+    ],
+    "shadowId": "anorith_shadow",
+    "hasEvolutionData": true
+  },
+  "anorith_shadow": {
+    "evolutions": [
+      "armaldo_shadow"
+    ],
+    "normalId": "anorith",
+    "hasEvolutionData": true
+  },
+  "armaldo": {
+    "evolutions": [],
+    "shadowId": "armaldo_shadow",
+    "hasEvolutionData": true
+  },
+  "armaldo_shadow": {
+    "evolutions": [],
+    "normalId": "armaldo",
+    "hasEvolutionData": true
+  },
+  "feebas": {
+    "evolutions": [
+      "milotic"
+    ],
+    "shadowId": "feebas_shadow",
+    "hasEvolutionData": true
+  },
+  "feebas_shadow": {
+    "evolutions": [
+      "milotic_shadow"
+    ],
+    "normalId": "feebas",
+    "hasEvolutionData": true
+  },
+  "milotic": {
+    "evolutions": [],
+    "shadowId": "milotic_shadow",
+    "hasEvolutionData": true
+  },
+  "milotic_shadow": {
+    "evolutions": [],
+    "normalId": "milotic",
+    "hasEvolutionData": true
+  },
+  "castform": {
+    "evolutions": [],
+    "hasEvolutionData": false
+  },
+  "castform_rainy": {
+    "evolutions": [],
+    "hasEvolutionData": false
+  },
+  "castform_snowy": {
+    "evolutions": [],
+    "hasEvolutionData": false
+  },
+  "castform_sunny": {
+    "evolutions": [],
+    "hasEvolutionData": false
+  },
+  "kecleon": {
+    "evolutions": [],
+    "hasEvolutionData": false
+  },
+  "shuppet": {
+    "evolutions": [
+      "banette"
+    ],
+    "shadowId": "shuppet_shadow",
+    "hasEvolutionData": true
+  },
+  "shuppet_shadow": {
+    "evolutions": [
+      "banette_shadow"
+    ],
+    "normalId": "shuppet",
+    "hasEvolutionData": true
+  },
+  "banette": {
+    "evolutions": [],
+    "shadowId": "banette_shadow",
+    "hasEvolutionData": true
+  },
+  "banette_shadow": {
+    "evolutions": [],
+    "normalId": "banette",
+    "hasEvolutionData": true
+  },
+  "duskull": {
+    "evolutions": [
+      "dusclops"
+    ],
+    "shadowId": "duskull_shadow",
+    "hasEvolutionData": true
+  },
+  "duskull_shadow": {
+    "evolutions": [
+      "dusclops_shadow"
+    ],
+    "normalId": "duskull",
+    "hasEvolutionData": true
+  },
+  "dusclops": {
+    "evolutions": [
+      "dusknoir"
+    ],
+    "shadowId": "dusclops_shadow",
+    "hasEvolutionData": true
+  },
+  "dusclops_shadow": {
+    "evolutions": [
+      "dusknoir_shadow"
+    ],
+    "normalId": "dusclops",
+    "hasEvolutionData": true
+  },
+  "tropius": {
+    "evolutions": [],
+    "hasEvolutionData": false
+  },
+  "chimecho": {
+    "evolutions": [],
+    "hasEvolutionData": true
+  },
+  "absol": {
+    "evolutions": [],
+    "shadowId": "absol_shadow",
+    "hasEvolutionData": false
+  },
+  "absol_shadow": {
+    "evolutions": [],
+    "normalId": "absol",
+    "hasEvolutionData": false
+  },
+  "wynaut": {
+    "evolutions": [
+      "wobbuffet"
+    ],
+    "hasEvolutionData": true
+  },
+  "snorunt": {
+    "evolutions": [
+      "froslass",
+      "glalie"
+    ],
+    "shadowId": "snorunt_shadow",
+    "hasEvolutionData": true
+  },
+  "snorunt_shadow": {
+    "evolutions": [
+      "froslass_shadow",
+      "glalie_shadow"
+    ],
+    "normalId": "snorunt",
+    "hasEvolutionData": true
+  },
+  "glalie": {
+    "evolutions": [],
+    "shadowId": "glalie_shadow",
+    "hasEvolutionData": true
+  },
+  "glalie_shadow": {
+    "evolutions": [],
+    "normalId": "glalie",
+    "hasEvolutionData": true
+  },
+  "spheal": {
+    "evolutions": [
+      "sealeo"
+    ],
+    "shadowId": "spheal_shadow",
+    "hasEvolutionData": true
+  },
+  "spheal_shadow": {
+    "evolutions": [
+      "sealeo_shadow"
+    ],
+    "normalId": "spheal",
+    "hasEvolutionData": true
+  },
+  "sealeo": {
+    "evolutions": [
+      "walrein"
+    ],
+    "shadowId": "sealeo_shadow",
+    "hasEvolutionData": true
+  },
+  "sealeo_shadow": {
+    "evolutions": [
+      "walrein_shadow"
+    ],
+    "normalId": "sealeo",
+    "hasEvolutionData": true
+  },
+  "walrein": {
+    "evolutions": [],
+    "shadowId": "walrein_shadow",
+    "hasEvolutionData": true
+  },
+  "walrein_shadow": {
+    "evolutions": [],
+    "normalId": "walrein",
+    "hasEvolutionData": true
+  },
+  "clamperl": {
+    "evolutions": [
+      "huntail",
+      "gorebyss"
+    ],
+    "hasEvolutionData": true
+  },
+  "huntail": {
+    "evolutions": [],
+    "hasEvolutionData": true
+  },
+  "gorebyss": {
+    "evolutions": [],
+    "hasEvolutionData": true
+  },
+  "relicanth": {
+    "evolutions": [],
+    "hasEvolutionData": false
+  },
+  "luvdisc": {
+    "evolutions": [],
+    "hasEvolutionData": false
+  },
+  "bagon": {
+    "evolutions": [
+      "shelgon"
+    ],
+    "shadowId": "bagon_shadow",
+    "hasEvolutionData": true
+  },
+  "bagon_shadow": {
+    "evolutions": [
+      "shelgon_shadow"
+    ],
+    "normalId": "bagon",
+    "hasEvolutionData": true
+  },
+  "shelgon": {
+    "evolutions": [
+      "salamence"
+    ],
+    "shadowId": "shelgon_shadow",
+    "hasEvolutionData": true
+  },
+  "shelgon_shadow": {
+    "evolutions": [
+      "salamence_shadow"
+    ],
+    "normalId": "shelgon",
+    "hasEvolutionData": true
+  },
+  "salamence": {
+    "evolutions": [],
+    "shadowId": "salamence_shadow",
+    "hasEvolutionData": true
+  },
+  "salamence_shadow": {
+    "evolutions": [],
+    "normalId": "salamence",
+    "hasEvolutionData": true
+  },
+  "beldum": {
+    "evolutions": [
+      "metang"
+    ],
+    "shadowId": "beldum_shadow",
+    "hasEvolutionData": true
+  },
+  "beldum_shadow": {
+    "evolutions": [
+      "metang_shadow"
+    ],
+    "normalId": "beldum",
+    "hasEvolutionData": true
+  },
+  "metang": {
+    "evolutions": [
+      "metagross"
+    ],
+    "shadowId": "metang_shadow",
+    "hasEvolutionData": true
+  },
+  "metang_shadow": {
+    "evolutions": [
+      "metagross_shadow"
+    ],
+    "normalId": "metang",
+    "hasEvolutionData": true
+  },
+  "metagross": {
+    "evolutions": [],
+    "shadowId": "metagross_shadow",
+    "hasEvolutionData": true
+  },
+  "metagross_shadow": {
+    "evolutions": [],
+    "normalId": "metagross",
+    "hasEvolutionData": true
+  },
+  "regirock": {
+    "evolutions": [],
+    "shadowId": "regirock_shadow",
+    "hasEvolutionData": false
+  },
+  "regirock_shadow": {
+    "evolutions": [],
+    "normalId": "regirock",
+    "hasEvolutionData": false
+  },
+  "regice": {
+    "evolutions": [],
+    "shadowId": "regice_shadow",
+    "hasEvolutionData": false
+  },
+  "regice_shadow": {
+    "evolutions": [],
+    "normalId": "regice",
+    "hasEvolutionData": false
+  },
+  "registeel": {
+    "evolutions": [],
+    "shadowId": "registeel_shadow",
+    "hasEvolutionData": false
+  },
+  "registeel_shadow": {
+    "evolutions": [],
+    "normalId": "registeel",
+    "hasEvolutionData": false
+  },
+  "latias": {
+    "evolutions": [],
+    "shadowId": "latias_shadow",
+    "hasEvolutionData": false
+  },
+  "latias_shadow": {
+    "evolutions": [],
+    "normalId": "latias",
+    "hasEvolutionData": false
+  },
+  "latios": {
+    "evolutions": [],
+    "shadowId": "latios_shadow",
+    "hasEvolutionData": false
+  },
+  "latios_shadow": {
+    "evolutions": [],
+    "normalId": "latios",
+    "hasEvolutionData": false
+  },
+  "kyogre": {
+    "evolutions": [],
+    "shadowId": "kyogre_shadow",
+    "hasEvolutionData": false
+  },
+  "kyogre_shadow": {
+    "evolutions": [],
+    "normalId": "kyogre",
+    "hasEvolutionData": false
+  },
+  "groudon": {
+    "evolutions": [],
+    "shadowId": "groudon_shadow",
+    "hasEvolutionData": false
+  },
+  "groudon_shadow": {
+    "evolutions": [],
+    "normalId": "groudon",
+    "hasEvolutionData": false
+  },
+  "rayquaza": {
+    "evolutions": [],
+    "hasEvolutionData": false
+  },
+  "jirachi": {
+    "evolutions": [],
+    "hasEvolutionData": false
+  },
+  "deoxys": {
+    "evolutions": [],
+    "hasEvolutionData": false
+  },
+  "deoxys_attack": {
+    "evolutions": [],
+    "hasEvolutionData": false
+  },
+  "deoxys_defense": {
+    "evolutions": [],
+    "hasEvolutionData": false
+  },
+  "deoxys_speed": {
+    "evolutions": [],
+    "hasEvolutionData": false
+  },
+  "turtwig": {
+    "evolutions": [
+      "grotle"
+    ],
+    "shadowId": "turtwig_shadow",
+    "hasEvolutionData": true
+  },
+  "turtwig_shadow": {
+    "evolutions": [
+      "grotle_shadow"
+    ],
+    "normalId": "turtwig",
+    "hasEvolutionData": true
+  },
+  "grotle": {
+    "evolutions": [
+      "torterra"
+    ],
+    "shadowId": "grotle_shadow",
+    "hasEvolutionData": true
+  },
+  "grotle_shadow": {
+    "evolutions": [
+      "torterra_shadow"
+    ],
+    "normalId": "grotle",
+    "hasEvolutionData": true
+  },
+  "torterra": {
+    "evolutions": [],
+    "shadowId": "torterra_shadow",
+    "hasEvolutionData": true
+  },
+  "torterra_shadow": {
+    "evolutions": [],
+    "normalId": "torterra",
+    "hasEvolutionData": true
+  },
+  "chimchar": {
+    "evolutions": [
+      "monferno"
+    ],
+    "shadowId": "chimchar_shadow",
+    "hasEvolutionData": true
+  },
+  "chimchar_shadow": {
+    "evolutions": [
+      "monferno_shadow"
+    ],
+    "normalId": "chimchar",
+    "hasEvolutionData": true
+  },
+  "monferno": {
+    "evolutions": [
+      "infernape"
+    ],
+    "shadowId": "monferno_shadow",
+    "hasEvolutionData": true
+  },
+  "monferno_shadow": {
+    "evolutions": [
+      "infernape_shadow"
+    ],
+    "normalId": "monferno",
+    "hasEvolutionData": true
+  },
+  "infernape": {
+    "evolutions": [],
+    "shadowId": "infernape_shadow",
+    "hasEvolutionData": true
+  },
+  "infernape_shadow": {
+    "evolutions": [],
+    "normalId": "infernape",
+    "hasEvolutionData": true
+  },
+  "piplup": {
+    "evolutions": [
+      "prinplup"
+    ],
+    "shadowId": "piplup_shadow",
+    "hasEvolutionData": true
+  },
+  "piplup_shadow": {
+    "evolutions": [
+      "prinplup_shadow"
+    ],
+    "normalId": "piplup",
+    "hasEvolutionData": true
+  },
+  "prinplup": {
+    "evolutions": [
+      "empoleon"
+    ],
+    "shadowId": "prinplup_shadow",
+    "hasEvolutionData": true
+  },
+  "prinplup_shadow": {
+    "evolutions": [
+      "empoleon_shadow"
+    ],
+    "normalId": "prinplup",
+    "hasEvolutionData": true
+  },
+  "empoleon": {
+    "evolutions": [],
+    "shadowId": "empoleon_shadow",
+    "hasEvolutionData": true
+  },
+  "empoleon_shadow": {
+    "evolutions": [],
+    "normalId": "empoleon",
+    "hasEvolutionData": true
+  },
+  "starly": {
+    "evolutions": [
+      "staravia"
+    ],
+    "shadowId": "starly_shadow",
+    "hasEvolutionData": true
+  },
+  "starly_shadow": {
+    "evolutions": [
+      "staravia_shadow"
+    ],
+    "normalId": "starly",
+    "hasEvolutionData": true
+  },
+  "staravia": {
+    "evolutions": [
+      "staraptor"
+    ],
+    "shadowId": "staravia_shadow",
+    "hasEvolutionData": true
+  },
+  "staravia_shadow": {
+    "evolutions": [
+      "staraptor_shadow"
+    ],
+    "normalId": "staravia",
+    "hasEvolutionData": true
+  },
+  "staraptor": {
+    "evolutions": [],
+    "shadowId": "staraptor_shadow",
+    "hasEvolutionData": true
+  },
+  "staraptor_shadow": {
+    "evolutions": [],
+    "normalId": "staraptor",
+    "hasEvolutionData": true
+  },
+  "bidoof": {
+    "evolutions": [
+      "bibarel"
+    ],
+    "shadowId": "bidoof_shadow",
+    "hasEvolutionData": true
+  },
+  "bidoof_shadow": {
+    "evolutions": [
+      "bibarel_shadow"
+    ],
+    "normalId": "bidoof",
+    "hasEvolutionData": true
+  },
+  "bibarel": {
+    "evolutions": [],
+    "shadowId": "bibarel_shadow",
+    "hasEvolutionData": true
+  },
+  "bibarel_shadow": {
+    "evolutions": [],
+    "normalId": "bibarel",
+    "hasEvolutionData": true
+  },
+  "kricketot": {
+    "evolutions": [
+      "kricketune"
+    ],
+    "hasEvolutionData": true
+  },
+  "kricketune": {
+    "evolutions": [],
+    "hasEvolutionData": true
+  },
+  "shinx": {
+    "evolutions": [
+      "luxio"
+    ],
+    "shadowId": "shinx_shadow",
+    "hasEvolutionData": true
+  },
+  "shinx_shadow": {
+    "evolutions": [
+      "luxio_shadow"
+    ],
+    "normalId": "shinx",
+    "hasEvolutionData": true
+  },
+  "luxio": {
+    "evolutions": [
+      "luxray"
+    ],
+    "shadowId": "luxio_shadow",
+    "hasEvolutionData": true
+  },
+  "luxio_shadow": {
+    "evolutions": [
+      "luxray_shadow"
+    ],
+    "normalId": "luxio",
+    "hasEvolutionData": true
+  },
+  "luxray": {
+    "evolutions": [],
+    "shadowId": "luxray_shadow",
+    "hasEvolutionData": true
+  },
+  "luxray_shadow": {
+    "evolutions": [],
+    "normalId": "luxray",
+    "hasEvolutionData": true
+  },
+  "budew": {
+    "evolutions": [
+      "roselia"
+    ],
+    "hasEvolutionData": true
+  },
+  "roserade": {
+    "evolutions": [],
+    "hasEvolutionData": true
+  },
+  "cranidos": {
+    "evolutions": [
+      "rampardos"
+    ],
+    "shadowId": "cranidos_shadow",
+    "hasEvolutionData": true
+  },
+  "cranidos_shadow": {
+    "evolutions": [
+      "rampardos_shadow"
+    ],
+    "normalId": "cranidos",
+    "hasEvolutionData": true
+  },
+  "rampardos": {
+    "evolutions": [],
+    "shadowId": "rampardos_shadow",
+    "hasEvolutionData": true
+  },
+  "rampardos_shadow": {
+    "evolutions": [],
+    "normalId": "rampardos",
+    "hasEvolutionData": true
+  },
+  "shieldon": {
+    "evolutions": [
+      "bastiodon"
+    ],
+    "shadowId": "shieldon_shadow",
+    "hasEvolutionData": true
+  },
+  "shieldon_shadow": {
+    "evolutions": [
+      "bastiodon_shadow"
+    ],
+    "normalId": "shieldon",
+    "hasEvolutionData": true
+  },
+  "bastiodon": {
+    "evolutions": [],
+    "shadowId": "bastiodon_shadow",
+    "hasEvolutionData": true
+  },
+  "bastiodon_shadow": {
+    "evolutions": [],
+    "normalId": "bastiodon",
+    "hasEvolutionData": true
+  },
+  "burmy_plant": {
+    "evolutions": [
+      "wormadam_plant",
+      "mothim"
+    ],
+    "hasEvolutionData": true
+  },
+  "burmy_sandy": {
+    "evolutions": [
+      "wormadam_sandy",
+      "mothim"
+    ],
+    "hasEvolutionData": true
+  },
+  "burmy_trash": {
+    "evolutions": [
+      "wormadam_trash",
+      "mothim"
+    ],
+    "hasEvolutionData": true
+  },
+  "wormadam_plant": {
+    "evolutions": [],
+    "hasEvolutionData": true
+  },
+  "wormadam_sandy": {
+    "evolutions": [],
+    "hasEvolutionData": true
+  },
+  "wormadam_trash": {
+    "evolutions": [],
+    "hasEvolutionData": true
+  },
+  "mothim": {
+    "evolutions": [],
+    "hasEvolutionData": true
+  },
+  "combee": {
+    "evolutions": [
+      "vespiquen"
+    ],
+    "hasEvolutionData": true
+  },
+  "vespiquen": {
+    "evolutions": [],
+    "hasEvolutionData": true
+  },
+  "pachirisu": {
+    "evolutions": [],
+    "hasEvolutionData": false
+  },
+  "buizel": {
+    "evolutions": [
+      "floatzel"
+    ],
+    "hasEvolutionData": true
+  },
+  "floatzel": {
+    "evolutions": [],
+    "hasEvolutionData": true
+  },
+  "cherubi": {
+    "evolutions": [
+      "cherrim_overcast",
+      "cherrim_sunny"
+    ],
+    "hasEvolutionData": true
+  },
+  "cherrim_overcast": {
+    "evolutions": [],
+    "hasEvolutionData": true
+  },
+  "cherrim_sunny": {
+    "evolutions": [],
+    "hasEvolutionData": true
+  },
+  "shellos": {
+    "evolutions": [
+      "gastrodon"
+    ],
+    "hasEvolutionData": true
+  },
+  "gastrodon": {
+    "evolutions": [],
+    "hasEvolutionData": false
+  },
+  "ambipom": {
+    "evolutions": [],
+    "shadowId": "ambipom_shadow",
+    "hasEvolutionData": true
+  },
+  "ambipom_shadow": {
+    "evolutions": [],
+    "normalId": "ambipom",
+    "hasEvolutionData": true
+  },
+  "drifloon": {
+    "evolutions": [
+      "drifblim"
+    ],
+    "shadowId": "drifloon_shadow",
+    "hasEvolutionData": true
+  },
+  "drifloon_shadow": {
+    "evolutions": [
+      "drifblim_shadow"
+    ],
+    "normalId": "drifloon",
+    "hasEvolutionData": true
+  },
+  "drifblim": {
+    "evolutions": [],
+    "shadowId": "drifblim_shadow",
+    "hasEvolutionData": true
+  },
+  "drifblim_shadow": {
+    "evolutions": [],
+    "normalId": "drifblim",
+    "hasEvolutionData": true
+  },
+  "buneary": {
+    "evolutions": [
+      "lopunny"
+    ],
+    "hasEvolutionData": true
+  },
+  "lopunny": {
+    "evolutions": [],
+    "hasEvolutionData": true
+  },
+  "mismagius": {
+    "evolutions": [],
+    "shadowId": "mismagius_shadow",
+    "hasEvolutionData": true
+  },
+  "mismagius_shadow": {
+    "evolutions": [],
+    "normalId": "mismagius",
+    "hasEvolutionData": true
+  },
+  "honchkrow": {
+    "evolutions": [],
+    "shadowId": "honchkrow_shadow",
+    "hasEvolutionData": true
+  },
+  "honchkrow_shadow": {
+    "evolutions": [],
+    "normalId": "honchkrow",
+    "hasEvolutionData": true
+  },
+  "glameow": {
+    "evolutions": [
+      "purugly"
+    ],
+    "shadowId": "glameow_shadow",
+    "hasEvolutionData": true
+  },
+  "glameow_shadow": {
+    "evolutions": [
+      "purugly_shadow"
+    ],
+    "normalId": "glameow",
+    "hasEvolutionData": true
+  },
+  "purugly": {
+    "evolutions": [],
+    "shadowId": "purugly_shadow",
+    "hasEvolutionData": true
+  },
+  "purugly_shadow": {
+    "evolutions": [],
+    "normalId": "purugly",
+    "hasEvolutionData": true
+  },
+  "chingling": {
+    "evolutions": [
+      "chimecho"
+    ],
+    "hasEvolutionData": true
+  },
+  "stunky": {
+    "evolutions": [
+      "skuntank"
+    ],
+    "shadowId": "stunky_shadow",
+    "hasEvolutionData": true
+  },
+  "stunky_shadow": {
+    "evolutions": [
+      "skuntank_shadow"
+    ],
+    "normalId": "stunky",
+    "hasEvolutionData": true
+  },
+  "skuntank": {
+    "evolutions": [],
+    "shadowId": "skuntank_shadow",
+    "hasEvolutionData": true
+  },
+  "skuntank_shadow": {
+    "evolutions": [],
+    "normalId": "skuntank",
+    "hasEvolutionData": true
+  },
+  "bronzor": {
+    "evolutions": [
+      "bronzong"
+    ],
+    "hasEvolutionData": true
+  },
+  "bronzong": {
+    "evolutions": [],
+    "hasEvolutionData": true
+  },
+  "bonsly": {
+    "evolutions": [
+      "sudowoodo"
+    ],
+    "hasEvolutionData": true
+  },
+  "mime_jr": {
+    "evolutions": [
+      "mr_mime"
+    ],
+    "hasEvolutionData": true
+  },
+  "happiny": {
+    "evolutions": [
+      "chansey"
+    ],
+    "hasEvolutionData": true
+  },
+  "chatot": {
+    "evolutions": [],
+    "hasEvolutionData": false
+  },
+  "spiritomb": {
+    "evolutions": [],
+    "hasEvolutionData": false
+  },
+  "gible": {
+    "evolutions": [
+      "gabite"
+    ],
+    "shadowId": "gible_shadow",
+    "hasEvolutionData": true
+  },
+  "gible_shadow": {
+    "evolutions": [
+      "gabite_shadow"
+    ],
+    "normalId": "gible",
+    "hasEvolutionData": true
+  },
+  "gabite": {
+    "evolutions": [
+      "garchomp"
+    ],
+    "shadowId": "gabite_shadow",
+    "hasEvolutionData": true
+  },
+  "gabite_shadow": {
+    "evolutions": [
+      "garchomp_shadow"
+    ],
+    "normalId": "gabite",
+    "hasEvolutionData": true
+  },
+  "garchomp": {
+    "evolutions": [],
+    "shadowId": "garchomp_shadow",
+    "hasEvolutionData": true
+  },
+  "garchomp_shadow": {
+    "evolutions": [],
+    "normalId": "garchomp",
+    "hasEvolutionData": true
+  },
+  "munchlax": {
+    "evolutions": [
+      "snorlax"
+    ],
+    "hasEvolutionData": true
+  },
+  "riolu": {
+    "evolutions": [
+      "lucario"
+    ],
+    "hasEvolutionData": true
+  },
+  "lucario": {
+    "evolutions": [],
+    "hasEvolutionData": true
+  },
+  "hippopotas": {
+    "evolutions": [
+      "hippowdon"
+    ],
+    "shadowId": "hippopotas_shadow",
+    "hasEvolutionData": true
+  },
+  "hippopotas_shadow": {
+    "evolutions": [
+      "hippowdon_shadow"
+    ],
+    "normalId": "hippopotas",
+    "hasEvolutionData": true
+  },
+  "hippowdon": {
+    "evolutions": [],
+    "shadowId": "hippowdon_shadow",
+    "hasEvolutionData": true
+  },
+  "hippowdon_shadow": {
+    "evolutions": [],
+    "normalId": "hippowdon",
+    "hasEvolutionData": true
+  },
+  "skorupi": {
+    "evolutions": [
+      "drapion"
+    ],
+    "shadowId": "skorupi_shadow",
+    "hasEvolutionData": true
+  },
+  "skorupi_shadow": {
+    "evolutions": [
+      "drapion_shadow"
+    ],
+    "normalId": "skorupi",
+    "hasEvolutionData": true
+  },
+  "drapion": {
+    "evolutions": [],
+    "shadowId": "drapion_shadow",
+    "hasEvolutionData": true
+  },
+  "drapion_shadow": {
+    "evolutions": [],
+    "normalId": "drapion",
+    "hasEvolutionData": true
+  },
+  "croagunk": {
+    "evolutions": [
+      "toxicroak"
+    ],
+    "shadowId": "croagunk_shadow",
+    "hasEvolutionData": true
+  },
+  "croagunk_shadow": {
+    "evolutions": [
+      "toxicroak_shadow"
+    ],
+    "normalId": "croagunk",
+    "hasEvolutionData": true
+  },
+  "toxicroak": {
+    "evolutions": [],
+    "shadowId": "toxicroak_shadow",
+    "hasEvolutionData": true
+  },
+  "toxicroak_shadow": {
+    "evolutions": [],
+    "normalId": "toxicroak",
+    "hasEvolutionData": true
+  },
+  "carnivine": {
+    "evolutions": [],
+    "hasEvolutionData": false
+  },
+  "finneon": {
+    "evolutions": [
+      "lumineon"
+    ],
+    "hasEvolutionData": true
+  },
+  "lumineon": {
+    "evolutions": [],
+    "hasEvolutionData": true
+  },
+  "mantyke": {
+    "evolutions": [
+      "mantine"
+    ],
+    "hasEvolutionData": true
+  },
+  "snover": {
+    "evolutions": [
+      "abomasnow"
+    ],
+    "shadowId": "snover_shadow",
+    "hasEvolutionData": true
+  },
+  "snover_shadow": {
+    "evolutions": [
+      "abomasnow_shadow"
+    ],
+    "normalId": "snover",
+    "hasEvolutionData": true
+  },
+  "abomasnow": {
+    "evolutions": [],
+    "shadowId": "abomasnow_shadow",
+    "hasEvolutionData": true
+  },
+  "abomasnow_shadow": {
+    "evolutions": [],
+    "normalId": "abomasnow",
+    "hasEvolutionData": true
+  },
+  "weavile": {
+    "evolutions": [],
+    "shadowId": "weavile_shadow",
+    "hasEvolutionData": true
+  },
+  "weavile_shadow": {
+    "evolutions": [],
+    "normalId": "weavile",
+    "hasEvolutionData": true
+  },
+  "magnezone": {
+    "evolutions": [],
+    "shadowId": "magnezone_shadow",
+    "hasEvolutionData": true
+  },
+  "magnezone_shadow": {
+    "evolutions": [],
+    "normalId": "magnezone",
+    "hasEvolutionData": true
+  },
+  "lickilicky": {
+    "evolutions": [],
+    "hasEvolutionData": true
+  },
+  "rhyperior": {
+    "evolutions": [],
+    "shadowId": "rhyperior_shadow",
+    "hasEvolutionData": true
+  },
+  "rhyperior_shadow": {
+    "evolutions": [],
+    "normalId": "rhyperior",
+    "hasEvolutionData": true
+  },
+  "tangrowth": {
+    "evolutions": [],
+    "shadowId": "tangrowth_shadow",
+    "hasEvolutionData": true
+  },
+  "tangrowth_shadow": {
+    "evolutions": [],
+    "normalId": "tangrowth",
+    "hasEvolutionData": true
+  },
+  "electivire": {
+    "evolutions": [],
+    "shadowId": "electivire_shadow",
+    "hasEvolutionData": true
+  },
+  "electivire_shadow": {
+    "evolutions": [],
+    "normalId": "electivire",
+    "hasEvolutionData": true
+  },
+  "magmortar": {
+    "evolutions": [],
+    "shadowId": "magmortar_shadow",
+    "hasEvolutionData": true
+  },
+  "magmortar_shadow": {
+    "evolutions": [],
+    "normalId": "magmortar",
+    "hasEvolutionData": true
+  },
+  "togekiss": {
+    "evolutions": [],
+    "hasEvolutionData": true
+  },
+  "yanmega": {
+    "evolutions": [],
+    "hasEvolutionData": true
+  },
+  "leafeon": {
+    "evolutions": [],
+    "hasEvolutionData": true
+  },
+  "glaceon": {
+    "evolutions": [],
+    "hasEvolutionData": true
+  },
+  "gliscor": {
+    "evolutions": [],
+    "shadowId": "gliscor_shadow",
+    "hasEvolutionData": true
+  },
+  "gliscor_shadow": {
+    "evolutions": [],
+    "normalId": "gliscor",
+    "hasEvolutionData": true
+  },
+  "mamoswine": {
+    "evolutions": [],
+    "shadowId": "mamoswine_shadow",
+    "hasEvolutionData": true
+  },
+  "mamoswine_shadow": {
+    "evolutions": [],
+    "normalId": "mamoswine",
+    "hasEvolutionData": true
+  },
+  "porygon_z": {
+    "evolutions": [],
+    "shadowId": "porygon_z_shadow",
+    "hasEvolutionData": true
+  },
+  "porygon_z_shadow": {
+    "evolutions": [],
+    "normalId": "porygon_z",
+    "hasEvolutionData": true
+  },
+  "gallade": {
+    "evolutions": [],
+    "shadowId": "gallade_shadow",
+    "hasEvolutionData": true
+  },
+  "gallade_shadow": {
+    "evolutions": [],
+    "normalId": "gallade",
+    "hasEvolutionData": true
+  },
+  "probopass": {
+    "evolutions": [],
+    "shadowId": "probopass_shadow",
+    "hasEvolutionData": true
+  },
+  "probopass_shadow": {
+    "evolutions": [],
+    "normalId": "probopass",
+    "hasEvolutionData": true
+  },
+  "dusknoir": {
+    "evolutions": [],
+    "shadowId": "dusknoir_shadow",
+    "hasEvolutionData": true
+  },
+  "dusknoir_shadow": {
+    "evolutions": [],
+    "normalId": "dusknoir",
+    "hasEvolutionData": true
+  },
+  "froslass": {
+    "evolutions": [],
+    "shadowId": "froslass_shadow",
+    "hasEvolutionData": true
+  },
+  "froslass_shadow": {
+    "evolutions": [],
+    "normalId": "froslass",
+    "hasEvolutionData": true
+  },
+  "rotom": {
+    "evolutions": [],
+    "hasEvolutionData": false
+  },
+  "rotom_fan": {
+    "evolutions": [],
+    "hasEvolutionData": false
+  },
+  "rotom_frost": {
+    "evolutions": [],
+    "hasEvolutionData": false
+  },
+  "rotom_heat": {
+    "evolutions": [],
+    "hasEvolutionData": false
+  },
+  "rotom_mow": {
+    "evolutions": [],
+    "hasEvolutionData": false
+  },
+  "rotom_wash": {
+    "evolutions": [],
+    "hasEvolutionData": false
+  },
+  "uxie": {
+    "evolutions": [],
+    "hasEvolutionData": false
+  },
+  "mesprit": {
+    "evolutions": [],
+    "hasEvolutionData": false
+  },
+  "azelf": {
+    "evolutions": [],
+    "hasEvolutionData": false
+  },
+  "dialga": {
+    "evolutions": [],
+    "shadowId": "dialga_shadow",
+    "hasEvolutionData": false
+  },
+  "dialga_origin": {
+    "evolutions": [],
+    "hasEvolutionData": false
+  },
+  "dialga_shadow": {
+    "evolutions": [],
+    "normalId": "dialga",
+    "hasEvolutionData": false
+  },
+  "palkia": {
+    "evolutions": [],
+    "shadowId": "palkia_shadow",
+    "hasEvolutionData": false
+  },
+  "palkia_origin": {
+    "evolutions": [],
+    "hasEvolutionData": false
+  },
+  "palkia_shadow": {
+    "evolutions": [],
+    "normalId": "palkia",
+    "hasEvolutionData": false
+  },
+  "heatran": {
+    "evolutions": [],
+    "shadowId": "heatran_shadow",
+    "hasEvolutionData": false
+  },
+  "heatran_shadow": {
+    "evolutions": [],
+    "normalId": "heatran",
+    "hasEvolutionData": false
+  },
+  "regigigas": {
+    "evolutions": [],
+    "shadowId": "regigigas_shadow",
+    "hasEvolutionData": false
+  },
+  "regigigas_shadow": {
+    "evolutions": [],
+    "normalId": "regigigas",
+    "hasEvolutionData": false
+  },
+  "giratina_altered": {
+    "evolutions": [],
+    "shadowId": "giratina_altered_shadow",
+    "hasEvolutionData": false
+  },
+  "giratina_altered_shadow": {
+    "evolutions": [],
+    "normalId": "giratina_altered",
+    "hasEvolutionData": false
+  },
+  "giratina_origin": {
+    "evolutions": [],
+    "hasEvolutionData": false
+  },
+  "cresselia": {
+    "evolutions": [],
+    "shadowId": "cresselia_shadow",
+    "hasEvolutionData": false
+  },
+  "cresselia_shadow": {
+    "evolutions": [],
+    "normalId": "cresselia",
+    "hasEvolutionData": false
+  },
+  "phione": {
+    "evolutions": [],
+    "hasEvolutionData": false
+  },
+  "manaphy": {
+    "evolutions": [],
+    "hasEvolutionData": true
+  },
+  "darkrai": {
+    "evolutions": [],
+    "shadowId": "darkrai_shadow",
+    "hasEvolutionData": false
+  },
+  "darkrai_shadow": {
+    "evolutions": [],
+    "normalId": "darkrai",
+    "hasEvolutionData": false
+  },
+  "shaymin_land": {
+    "evolutions": [],
+    "hasEvolutionData": false
+  },
+  "shaymin_sky": {
+    "evolutions": [],
+    "hasEvolutionData": false
+  },
+  "arceus": {
+    "evolutions": [],
+    "hasEvolutionData": false
+  },
+  "arceus_bug": {
+    "evolutions": [],
+    "hasEvolutionData": false
+  },
+  "arceus_dark": {
+    "evolutions": [],
+    "hasEvolutionData": false
+  },
+  "arceus_dragon": {
+    "evolutions": [],
+    "hasEvolutionData": false
+  },
+  "arceus_electric": {
+    "evolutions": [],
+    "hasEvolutionData": false
+  },
+  "arceus_fairy": {
+    "evolutions": [],
+    "hasEvolutionData": false
+  },
+  "arceus_fighting": {
+    "evolutions": [],
+    "hasEvolutionData": false
+  },
+  "arceus_fire": {
+    "evolutions": [],
+    "hasEvolutionData": false
+  },
+  "arceus_flying": {
+    "evolutions": [],
+    "hasEvolutionData": false
+  },
+  "arceus_ghost": {
+    "evolutions": [],
+    "hasEvolutionData": false
+  },
+  "arceus_grass": {
+    "evolutions": [],
+    "hasEvolutionData": false
+  },
+  "arceus_ground": {
+    "evolutions": [],
+    "hasEvolutionData": false
+  },
+  "arceus_ice": {
+    "evolutions": [],
+    "hasEvolutionData": false
+  },
+  "arceus_poison": {
+    "evolutions": [],
+    "hasEvolutionData": false
+  },
+  "arceus_psychic": {
+    "evolutions": [],
+    "hasEvolutionData": false
+  },
+  "arceus_rock": {
+    "evolutions": [],
+    "hasEvolutionData": false
+  },
+  "arceus_steel": {
+    "evolutions": [],
+    "hasEvolutionData": false
+  },
+  "arceus_water": {
+    "evolutions": [],
+    "hasEvolutionData": false
+  },
+  "victini": {
+    "evolutions": [],
+    "hasEvolutionData": false
+  },
+  "snivy": {
+    "evolutions": [
+      "servine"
+    ],
+    "shadowId": "snivy_shadow",
+    "hasEvolutionData": true
+  },
+  "snivy_shadow": {
+    "evolutions": [
+      "servine_shadow"
+    ],
+    "normalId": "snivy",
+    "hasEvolutionData": true
+  },
+  "servine": {
+    "evolutions": [
+      "serperior"
+    ],
+    "shadowId": "servine_shadow",
+    "hasEvolutionData": true
+  },
+  "servine_shadow": {
+    "evolutions": [
+      "serperior_shadow"
+    ],
+    "normalId": "servine",
+    "hasEvolutionData": true
+  },
+  "serperior": {
+    "evolutions": [],
+    "shadowId": "serperior_shadow",
+    "hasEvolutionData": true
+  },
+  "serperior_shadow": {
+    "evolutions": [],
+    "normalId": "serperior",
+    "hasEvolutionData": true
+  },
+  "tepig": {
+    "evolutions": [
+      "pignite"
+    ],
+    "shadowId": "tepig_shadow",
+    "hasEvolutionData": true
+  },
+  "tepig_shadow": {
+    "evolutions": [
+      "pignite_shadow"
+    ],
+    "normalId": "tepig",
+    "hasEvolutionData": true
+  },
+  "pignite": {
+    "evolutions": [
+      "emboar"
+    ],
+    "shadowId": "pignite_shadow",
+    "hasEvolutionData": true
+  },
+  "pignite_shadow": {
+    "evolutions": [
+      "emboar_shadow"
+    ],
+    "normalId": "pignite",
+    "hasEvolutionData": true
+  },
+  "emboar": {
+    "evolutions": [],
+    "shadowId": "emboar_shadow",
+    "hasEvolutionData": true
+  },
+  "emboar_shadow": {
+    "evolutions": [],
+    "normalId": "emboar",
+    "hasEvolutionData": true
+  },
+  "oshawott": {
+    "evolutions": [
+      "dewott"
+    ],
+    "shadowId": "oshawott_shadow",
+    "hasEvolutionData": true
+  },
+  "oshawott_shadow": {
+    "evolutions": [
+      "dewott_shadow"
+    ],
+    "normalId": "oshawott",
+    "hasEvolutionData": true
+  },
+  "dewott": {
+    "evolutions": [
+      "samurott"
+    ],
+    "shadowId": "dewott_shadow",
+    "hasEvolutionData": true
+  },
+  "dewott_shadow": {
+    "evolutions": [
+      "samurott_shadow"
+    ],
+    "normalId": "dewott",
+    "hasEvolutionData": true
+  },
+  "samurott": {
+    "evolutions": [],
+    "shadowId": "samurott_shadow",
+    "hasEvolutionData": true
+  },
+  "samurott_hisuian": {
+    "evolutions": [],
+    "hasEvolutionData": true
+  },
+  "samurott_shadow": {
+    "evolutions": [],
+    "normalId": "samurott",
+    "hasEvolutionData": true
+  },
+  "patrat": {
+    "evolutions": [
+      "watchog"
+    ],
+    "shadowId": "patrat_shadow",
+    "hasEvolutionData": true
+  },
+  "patrat_shadow": {
+    "evolutions": [
+      "watchog_shadow"
+    ],
+    "normalId": "patrat",
+    "hasEvolutionData": true
+  },
+  "watchog": {
+    "evolutions": [],
+    "shadowId": "watchog_shadow",
+    "hasEvolutionData": true
+  },
+  "watchog_shadow": {
+    "evolutions": [],
+    "normalId": "watchog",
+    "hasEvolutionData": true
+  },
+  "lillipup": {
+    "evolutions": [
+      "herdier"
+    ],
+    "hasEvolutionData": true
+  },
+  "herdier": {
+    "evolutions": [
+      "stoutland"
+    ],
+    "hasEvolutionData": true
+  },
+  "stoutland": {
+    "evolutions": [],
+    "hasEvolutionData": true
+  },
+  "purrloin": {
+    "evolutions": [
+      "liepard"
+    ],
+    "shadowId": "purrloin_shadow",
+    "hasEvolutionData": true
+  },
+  "purrloin_shadow": {
+    "evolutions": [
+      "liepard_shadow"
+    ],
+    "normalId": "purrloin",
+    "hasEvolutionData": true
+  },
+  "liepard": {
+    "evolutions": [],
+    "shadowId": "liepard_shadow",
+    "hasEvolutionData": true
+  },
+  "liepard_shadow": {
+    "evolutions": [],
+    "normalId": "liepard",
+    "hasEvolutionData": true
+  },
+  "pansage": {
+    "evolutions": [
+      "simisage"
+    ],
+    "hasEvolutionData": true
+  },
+  "simisage": {
+    "evolutions": [],
+    "hasEvolutionData": true
+  },
+  "pansear": {
+    "evolutions": [
+      "simisear"
+    ],
+    "hasEvolutionData": true
+  },
+  "simisear": {
+    "evolutions": [],
+    "hasEvolutionData": true
+  },
+  "panpour": {
+    "evolutions": [
+      "simipour"
+    ],
+    "hasEvolutionData": true
+  },
+  "simipour": {
+    "evolutions": [],
+    "hasEvolutionData": true
+  },
+  "munna": {
+    "evolutions": [
+      "musharna"
+    ],
+    "hasEvolutionData": true
+  },
+  "musharna": {
+    "evolutions": [],
+    "hasEvolutionData": true
+  },
+  "pidove": {
+    "evolutions": [
+      "tranquill"
+    ],
+    "shadowId": "pidove_shadow",
+    "hasEvolutionData": true
+  },
+  "pidove_shadow": {
+    "evolutions": [
+      "tranquill_shadow"
+    ],
+    "normalId": "pidove",
+    "hasEvolutionData": true
+  },
+  "tranquill": {
+    "evolutions": [
+      "unfezant"
+    ],
+    "shadowId": "tranquill_shadow",
+    "hasEvolutionData": true
+  },
+  "tranquill_shadow": {
+    "evolutions": [
+      "unfezant_shadow"
+    ],
+    "normalId": "tranquill",
+    "hasEvolutionData": true
+  },
+  "unfezant": {
+    "evolutions": [],
+    "shadowId": "unfezant_shadow",
+    "hasEvolutionData": true
+  },
+  "unfezant_shadow": {
+    "evolutions": [],
+    "normalId": "unfezant",
+    "hasEvolutionData": true
+  },
+  "blitzle": {
+    "evolutions": [
+      "zebstrika"
+    ],
+    "shadowId": "blitzle_shadow",
+    "hasEvolutionData": true
+  },
+  "blitzle_shadow": {
+    "evolutions": [
+      "zebstrika_shadow"
+    ],
+    "normalId": "blitzle",
+    "hasEvolutionData": true
+  },
+  "zebstrika": {
+    "evolutions": [],
+    "shadowId": "zebstrika_shadow",
+    "hasEvolutionData": true
+  },
+  "zebstrika_shadow": {
+    "evolutions": [],
+    "normalId": "zebstrika",
+    "hasEvolutionData": true
+  },
+  "roggenrola": {
+    "evolutions": [
+      "boldore"
+    ],
+    "shadowId": "roggenrola_shadow",
+    "hasEvolutionData": true
+  },
+  "roggenrola_shadow": {
+    "evolutions": [
+      "boldore_shadow"
+    ],
+    "normalId": "roggenrola",
+    "hasEvolutionData": true
+  },
+  "boldore": {
+    "evolutions": [
+      "gigalith"
+    ],
+    "shadowId": "boldore_shadow",
+    "hasEvolutionData": true
+  },
+  "boldore_shadow": {
+    "evolutions": [
+      "gigalith_shadow"
+    ],
+    "normalId": "boldore",
+    "hasEvolutionData": true
+  },
+  "gigalith": {
+    "evolutions": [],
+    "shadowId": "gigalith_shadow",
+    "hasEvolutionData": true
+  },
+  "gigalith_shadow": {
+    "evolutions": [],
+    "normalId": "gigalith",
+    "hasEvolutionData": true
+  },
+  "woobat": {
+    "evolutions": [
+      "swoobat"
+    ],
+    "hasEvolutionData": true
+  },
+  "swoobat": {
+    "evolutions": [],
+    "hasEvolutionData": true
+  },
+  "drilbur": {
+    "evolutions": [
+      "excadrill"
+    ],
+    "shadowId": "drilbur_shadow",
+    "hasEvolutionData": true
+  },
+  "drilbur_shadow": {
+    "evolutions": [
+      "excadrill_shadow"
+    ],
+    "normalId": "drilbur",
+    "hasEvolutionData": true
+  },
+  "excadrill": {
+    "evolutions": [],
+    "shadowId": "excadrill_shadow",
+    "hasEvolutionData": true
+  },
+  "excadrill_shadow": {
+    "evolutions": [],
+    "normalId": "excadrill",
+    "hasEvolutionData": true
+  },
+  "audino": {
+    "evolutions": [],
+    "hasEvolutionData": false
+  },
+  "timburr": {
+    "evolutions": [
+      "gurdurr"
+    ],
+    "shadowId": "timburr_shadow",
+    "hasEvolutionData": true
+  },
+  "timburr_shadow": {
+    "evolutions": [
+      "gurdurr_shadow"
+    ],
+    "normalId": "timburr",
+    "hasEvolutionData": true
+  },
+  "gurdurr": {
+    "evolutions": [
+      "conkeldurr"
+    ],
+    "shadowId": "gurdurr_shadow",
+    "hasEvolutionData": true
+  },
+  "gurdurr_shadow": {
+    "evolutions": [
+      "conkeldurr_shadow"
+    ],
+    "normalId": "gurdurr",
+    "hasEvolutionData": true
+  },
+  "conkeldurr": {
+    "evolutions": [],
+    "shadowId": "conkeldurr_shadow",
+    "hasEvolutionData": true
+  },
+  "conkeldurr_shadow": {
+    "evolutions": [],
+    "normalId": "conkeldurr",
+    "hasEvolutionData": true
+  },
+  "tympole": {
+    "evolutions": [
+      "palpitoad"
+    ],
+    "hasEvolutionData": true
+  },
+  "palpitoad": {
+    "evolutions": [
+      "seismitoad"
+    ],
+    "hasEvolutionData": true
+  },
+  "seismitoad": {
+    "evolutions": [],
+    "hasEvolutionData": true
+  },
+  "throh": {
+    "evolutions": [],
+    "shadowId": "throh_shadow",
+    "hasEvolutionData": false
+  },
+  "throh_shadow": {
+    "evolutions": [],
+    "normalId": "throh",
+    "hasEvolutionData": false
+  },
+  "sawk": {
+    "evolutions": [],
+    "shadowId": "sawk_shadow",
+    "hasEvolutionData": false
+  },
+  "sawk_shadow": {
+    "evolutions": [],
+    "normalId": "sawk",
+    "hasEvolutionData": false
+  },
+  "sewaddle": {
+    "evolutions": [
+      "swadloon"
+    ],
+    "hasEvolutionData": true
+  },
+  "swadloon": {
+    "evolutions": [
+      "leavanny"
+    ],
+    "hasEvolutionData": true
+  },
+  "leavanny": {
+    "evolutions": [],
+    "hasEvolutionData": true
+  },
+  "venipede": {
+    "evolutions": [
+      "whirlipede"
+    ],
+    "shadowId": "venipede_shadow",
+    "hasEvolutionData": true
+  },
+  "venipede_shadow": {
+    "evolutions": [
+      "whirlipede_shadow"
+    ],
+    "normalId": "venipede",
+    "hasEvolutionData": true
+  },
+  "whirlipede": {
+    "evolutions": [
+      "scolipede"
+    ],
+    "shadowId": "whirlipede_shadow",
+    "hasEvolutionData": true
+  },
+  "whirlipede_shadow": {
+    "evolutions": [
+      "scolipede_shadow"
+    ],
+    "normalId": "whirlipede",
+    "hasEvolutionData": true
+  },
+  "scolipede": {
+    "evolutions": [],
+    "shadowId": "scolipede_shadow",
+    "hasEvolutionData": true
+  },
+  "scolipede_shadow": {
+    "evolutions": [],
+    "normalId": "scolipede",
+    "hasEvolutionData": true
+  },
+  "cottonee": {
+    "evolutions": [
+      "whimsicott"
+    ],
+    "hasEvolutionData": true
+  },
+  "whimsicott": {
+    "evolutions": [],
+    "hasEvolutionData": true
+  },
+  "petilil": {
+    "evolutions": [
+      "lilligant"
+    ],
+    "hasEvolutionData": true
+  },
+  "lilligant": {
+    "evolutions": [],
+    "hasEvolutionData": true
+  },
+  "lilligant_hisuian": {
+    "evolutions": [],
+    "hasEvolutionData": true
+  },
+  "basculin": {
+    "evolutions": [
+      "basculegion_female",
+      "basculegion_male"
+    ],
+    "hasEvolutionData": true
+  },
+  "sandile": {
+    "evolutions": [
+      "krokorok"
+    ],
+    "hasEvolutionData": true
+  },
+  "krokorok": {
+    "evolutions": [
+      "krookodile"
+    ],
+    "hasEvolutionData": true
+  },
+  "krookodile": {
+    "evolutions": [],
+    "hasEvolutionData": true
+  },
+  "darumaka": {
+    "evolutions": [
+      "darmanitan_standard"
+    ],
+    "shadowId": "darumaka_shadow",
+    "hasEvolutionData": true
+  },
+  "darumaka_galarian": {
+    "evolutions": [
+      "darmanitan_galarian_standard"
+    ],
+    "hasEvolutionData": true
+  },
+  "darumaka_shadow": {
+    "evolutions": [
+      "darmanitan_standard_shadow"
+    ],
+    "normalId": "darumaka",
+    "hasEvolutionData": true
+  },
+  "darmanitan_galarian_zen": {
+    "evolutions": [],
+    "hasEvolutionData": true
+  },
+  "darmanitan_galarian_standard": {
+    "evolutions": [],
+    "hasEvolutionData": true
+  },
+  "darmanitan_standard": {
+    "evolutions": [],
+    "shadowId": "darmanitan_standard_shadow",
+    "hasEvolutionData": true
+  },
+  "darmanitan_standard_shadow": {
+    "evolutions": [],
+    "normalId": "darmanitan_standard",
+    "hasEvolutionData": true
+  },
+  "darmanitan_zen": {
+    "evolutions": [],
+    "hasEvolutionData": true
+  },
+  "maractus": {
+    "evolutions": [],
+    "hasEvolutionData": false
+  },
+  "dwebble": {
+    "evolutions": [
+      "crustle"
+    ],
+    "shadowId": "dwebble_shadow",
+    "hasEvolutionData": true
+  },
+  "dwebble_shadow": {
+    "evolutions": [
+      "crustle_shadow"
+    ],
+    "normalId": "dwebble",
+    "hasEvolutionData": true
+  },
+  "crustle": {
+    "evolutions": [],
+    "shadowId": "crustle_shadow",
+    "hasEvolutionData": true
+  },
+  "crustle_shadow": {
+    "evolutions": [],
+    "normalId": "crustle",
+    "hasEvolutionData": true
+  },
+  "scraggy": {
+    "evolutions": [
+      "scrafty"
+    ],
+    "hasEvolutionData": true
+  },
+  "scrafty": {
+    "evolutions": [],
+    "hasEvolutionData": true
+  },
+  "sigilyph": {
+    "evolutions": [],
+    "hasEvolutionData": false
+  },
+  "yamask": {
+    "evolutions": [
+      "cofagrigus"
+    ],
+    "shadowId": "yamask_shadow",
+    "hasEvolutionData": true
+  },
+  "yamask_galarian": {
+    "evolutions": [
+      "runerigus"
+    ],
+    "hasEvolutionData": true
+  },
+  "yamask_shadow": {
+    "evolutions": [
+      "cofagrigus_shadow"
+    ],
+    "normalId": "yamask",
+    "hasEvolutionData": true
+  },
+  "cofagrigus": {
+    "evolutions": [],
+    "shadowId": "cofagrigus_shadow",
+    "hasEvolutionData": true
+  },
+  "cofagrigus_shadow": {
+    "evolutions": [],
+    "normalId": "cofagrigus",
+    "hasEvolutionData": true
+  },
+  "tirtouga": {
+    "evolutions": [
+      "carracosta"
+    ],
+    "shadowId": "tirtouga_shadow",
+    "hasEvolutionData": true
+  },
+  "tirtouga_shadow": {
+    "evolutions": [
+      "carracosta_shadow"
+    ],
+    "normalId": "tirtouga",
+    "hasEvolutionData": true
+  },
+  "carracosta": {
+    "evolutions": [],
+    "shadowId": "carracosta_shadow",
+    "hasEvolutionData": true
+  },
+  "carracosta_shadow": {
+    "evolutions": [],
+    "normalId": "carracosta",
+    "hasEvolutionData": true
+  },
+  "archen": {
+    "evolutions": [
+      "archeops"
+    ],
+    "shadowId": "archen_shadow",
+    "hasEvolutionData": true
+  },
+  "archen_shadow": {
+    "evolutions": [
+      "archeops_shadow"
+    ],
+    "normalId": "archen",
+    "hasEvolutionData": true
+  },
+  "archeops": {
+    "evolutions": [],
+    "shadowId": "archeops_shadow",
+    "hasEvolutionData": true
+  },
+  "archeops_shadow": {
+    "evolutions": [],
+    "normalId": "archeops",
+    "hasEvolutionData": true
+  },
+  "trubbish": {
+    "evolutions": [
+      "garbodor"
+    ],
+    "shadowId": "trubbish_shadow",
+    "hasEvolutionData": true
+  },
+  "trubbish_shadow": {
+    "evolutions": [
+      "garbodor_shadow"
+    ],
+    "normalId": "trubbish",
+    "hasEvolutionData": true
+  },
+  "garbodor": {
+    "evolutions": [],
+    "shadowId": "garbodor_shadow",
+    "hasEvolutionData": true
+  },
+  "garbodor_shadow": {
+    "evolutions": [],
+    "normalId": "garbodor",
+    "hasEvolutionData": true
+  },
+  "zorua": {
+    "evolutions": [
+      "zoroark"
+    ],
+    "hasEvolutionData": true
+  },
+  "zorua_hisuian": {
+    "evolutions": [
+      "zoroark_hisuian"
+    ],
+    "hasEvolutionData": true
+  },
+  "zoroark": {
+    "evolutions": [],
+    "hasEvolutionData": true
+  },
+  "zoroark_hisuian": {
+    "evolutions": [],
+    "hasEvolutionData": true
+  },
+  "minccino": {
+    "evolutions": [
+      "cinccino"
+    ],
+    "hasEvolutionData": true
+  },
+  "cinccino": {
+    "evolutions": [],
+    "hasEvolutionData": true
+  },
+  "gothita": {
+    "evolutions": [
+      "gothorita"
+    ],
+    "shadowId": "gothita_shadow",
+    "hasEvolutionData": true
+  },
+  "gothita_shadow": {
+    "evolutions": [
+      "gothorita_shadow"
+    ],
+    "normalId": "gothita",
+    "hasEvolutionData": true
+  },
+  "gothorita": {
+    "evolutions": [
+      "gothitelle"
+    ],
+    "shadowId": "gothorita_shadow",
+    "hasEvolutionData": true
+  },
+  "gothorita_shadow": {
+    "evolutions": [
+      "gothitelle_shadow"
+    ],
+    "normalId": "gothorita",
+    "hasEvolutionData": true
+  },
+  "gothitelle": {
+    "evolutions": [],
+    "shadowId": "gothitelle_shadow",
+    "hasEvolutionData": true
+  },
+  "gothitelle_shadow": {
+    "evolutions": [],
+    "normalId": "gothitelle",
+    "hasEvolutionData": true
+  },
+  "solosis": {
+    "evolutions": [
+      "duosion"
+    ],
+    "shadowId": "solosis_shadow",
+    "hasEvolutionData": true
+  },
+  "solosis_shadow": {
+    "evolutions": [
+      "duosion_shadow"
+    ],
+    "normalId": "solosis",
+    "hasEvolutionData": true
+  },
+  "duosion": {
+    "evolutions": [
+      "reuniclus"
+    ],
+    "shadowId": "duosion_shadow",
+    "hasEvolutionData": true
+  },
+  "duosion_shadow": {
+    "evolutions": [
+      "reuniclus_shadow"
+    ],
+    "normalId": "duosion",
+    "hasEvolutionData": true
+  },
+  "reuniclus": {
+    "evolutions": [],
+    "shadowId": "reuniclus_shadow",
+    "hasEvolutionData": true
+  },
+  "reuniclus_shadow": {
+    "evolutions": [],
+    "normalId": "reuniclus",
+    "hasEvolutionData": true
+  },
+  "ducklett": {
+    "evolutions": [
+      "swanna"
+    ],
+    "shadowId": "ducklett_shadow",
+    "hasEvolutionData": true
+  },
+  "ducklett_shadow": {
+    "evolutions": [
+      "swanna_shadow"
+    ],
+    "normalId": "ducklett",
+    "hasEvolutionData": true
+  },
+  "swanna": {
+    "evolutions": [],
+    "shadowId": "swanna_shadow",
+    "hasEvolutionData": true
+  },
+  "swanna_shadow": {
+    "evolutions": [],
+    "normalId": "swanna",
+    "hasEvolutionData": true
+  },
+  "vanillite": {
+    "evolutions": [
+      "vanillish"
+    ],
+    "hasEvolutionData": true
+  },
+  "vanillish": {
+    "evolutions": [
+      "vanilluxe"
+    ],
+    "hasEvolutionData": true
+  },
+  "vanilluxe": {
+    "evolutions": [],
+    "hasEvolutionData": true
+  },
+  "deerling": {
+    "evolutions": [
+      "sawsbuck"
+    ],
+    "hasEvolutionData": true
+  },
+  "sawsbuck": {
+    "evolutions": [],
+    "hasEvolutionData": true
+  },
+  "emolga": {
+    "evolutions": [],
+    "hasEvolutionData": false
+  },
+  "karrablast": {
+    "evolutions": [
+      "escavalier"
+    ],
+    "shadowId": "karrablast_shadow",
+    "hasEvolutionData": true
+  },
+  "karrablast_shadow": {
+    "evolutions": [
+      "escavalier_shadow"
+    ],
+    "normalId": "karrablast",
+    "hasEvolutionData": true
+  },
+  "escavalier": {
+    "evolutions": [],
+    "shadowId": "escavalier_shadow",
+    "hasEvolutionData": true
+  },
+  "escavalier_shadow": {
+    "evolutions": [],
+    "normalId": "escavalier",
+    "hasEvolutionData": true
+  },
+  "foongus": {
+    "evolutions": [
+      "amoonguss"
+    ],
+    "shadowId": "foongus_shadow",
+    "hasEvolutionData": true
+  },
+  "foongus_shadow": {
+    "evolutions": [
+      "amoonguss_shadow"
+    ],
+    "normalId": "foongus",
+    "hasEvolutionData": true
+  },
+  "amoonguss": {
+    "evolutions": [],
+    "shadowId": "amoonguss_shadow",
+    "hasEvolutionData": true
+  },
+  "amoonguss_shadow": {
+    "evolutions": [],
+    "normalId": "amoonguss",
+    "hasEvolutionData": true
+  },
+  "frillish": {
+    "evolutions": [
+      "jellicent"
+    ],
+    "hasEvolutionData": true
+  },
+  "jellicent": {
+    "evolutions": [],
+    "hasEvolutionData": true
+  },
+  "alomomola": {
+    "evolutions": [],
+    "hasEvolutionData": false
+  },
+  "joltik": {
+    "evolutions": [
+      "galvantula"
+    ],
+    "shadowId": "joltik_shadow",
+    "hasEvolutionData": true
+  },
+  "joltik_shadow": {
+    "evolutions": [
+      "galvantula_shadow"
+    ],
+    "normalId": "joltik",
+    "hasEvolutionData": true
+  },
+  "galvantula": {
+    "evolutions": [],
+    "shadowId": "galvantula_shadow",
+    "hasEvolutionData": true
+  },
+  "galvantula_shadow": {
+    "evolutions": [],
+    "normalId": "galvantula",
+    "hasEvolutionData": true
+  },
+  "ferroseed": {
+    "evolutions": [
+      "ferrothorn"
+    ],
+    "shadowId": "ferroseed_shadow",
+    "hasEvolutionData": true
+  },
+  "ferroseed_shadow": {
+    "evolutions": [
+      "ferrothorn_shadow"
+    ],
+    "normalId": "ferroseed",
+    "hasEvolutionData": true
+  },
+  "ferrothorn": {
+    "evolutions": [],
+    "shadowId": "ferrothorn_shadow",
+    "hasEvolutionData": true
+  },
+  "ferrothorn_shadow": {
+    "evolutions": [],
+    "normalId": "ferrothorn",
+    "hasEvolutionData": true
+  },
+  "klink": {
+    "evolutions": [
+      "klang"
+    ],
+    "hasEvolutionData": true
+  },
+  "klang": {
+    "evolutions": [
+      "klinklang"
+    ],
+    "hasEvolutionData": true
+  },
+  "klinklang": {
+    "evolutions": [],
+    "hasEvolutionData": true
+  },
+  "tynamo": {
+    "evolutions": [
+      "eelektrik"
+    ],
+    "hasEvolutionData": true
+  },
+  "eelektrik": {
+    "evolutions": [
+      "eelektross"
+    ],
+    "hasEvolutionData": true
+  },
+  "eelektross": {
+    "evolutions": [],
+    "hasEvolutionData": true
+  },
+  "elgyem": {
+    "evolutions": [
+      "beheeyem"
+    ],
+    "hasEvolutionData": true
+  },
+  "beheeyem": {
+    "evolutions": [],
+    "hasEvolutionData": true
+  },
+  "litwick": {
+    "evolutions": [
+      "lampent"
+    ],
+    "shadowId": "litwick_shadow",
+    "hasEvolutionData": true
+  },
+  "litwick_shadow": {
+    "evolutions": [
+      "lampent_shadow"
+    ],
+    "normalId": "litwick",
+    "hasEvolutionData": true
+  },
+  "lampent": {
+    "evolutions": [
+      "chandelure"
+    ],
+    "shadowId": "lampent_shadow",
+    "hasEvolutionData": true
+  },
+  "lampent_shadow": {
+    "evolutions": [
+      "chandelure_shadow"
+    ],
+    "normalId": "lampent",
+    "hasEvolutionData": true
+  },
+  "chandelure": {
+    "evolutions": [],
+    "shadowId": "chandelure_shadow",
+    "hasEvolutionData": true
+  },
+  "chandelure_shadow": {
+    "evolutions": [],
+    "normalId": "chandelure",
+    "hasEvolutionData": true
+  },
+  "axew": {
+    "evolutions": [
+      "fraxure"
+    ],
+    "shadowId": "axew_shadow",
+    "hasEvolutionData": true
+  },
+  "axew_shadow": {
+    "evolutions": [
+      "fraxure_shadow"
+    ],
+    "normalId": "axew",
+    "hasEvolutionData": true
+  },
+  "fraxure": {
+    "evolutions": [
+      "haxorus"
+    ],
+    "shadowId": "fraxure_shadow",
+    "hasEvolutionData": true
+  },
+  "fraxure_shadow": {
+    "evolutions": [
+      "haxorus_shadow"
+    ],
+    "normalId": "fraxure",
+    "hasEvolutionData": true
+  },
+  "haxorus": {
+    "evolutions": [],
+    "shadowId": "haxorus_shadow",
+    "hasEvolutionData": true
+  },
+  "haxorus_shadow": {
+    "evolutions": [],
+    "normalId": "haxorus",
+    "hasEvolutionData": true
+  },
+  "cubchoo": {
+    "evolutions": [
+      "beartic"
+    ],
+    "hasEvolutionData": true
+  },
+  "beartic": {
+    "evolutions": [],
+    "hasEvolutionData": true
+  },
+  "cryogonal": {
+    "evolutions": [],
+    "hasEvolutionData": false
+  },
+  "shelmet": {
+    "evolutions": [
+      "accelgor"
+    ],
+    "shadowId": "shelmet_shadow",
+    "hasEvolutionData": true
+  },
+  "shelmet_shadow": {
+    "evolutions": [
+      "accelgor_shadow"
+    ],
+    "normalId": "shelmet",
+    "hasEvolutionData": true
+  },
+  "accelgor": {
+    "evolutions": [],
+    "shadowId": "accelgor_shadow",
+    "hasEvolutionData": true
+  },
+  "accelgor_shadow": {
+    "evolutions": [],
+    "normalId": "accelgor",
+    "hasEvolutionData": true
+  },
+  "stunfisk": {
+    "evolutions": [],
+    "hasEvolutionData": false
+  },
+  "stunfisk_galarian": {
+    "evolutions": [],
+    "hasEvolutionData": false
+  },
+  "mienfoo": {
+    "evolutions": [
+      "mienshao"
+    ],
+    "hasEvolutionData": true
+  },
+  "mienshao": {
+    "evolutions": [],
+    "hasEvolutionData": true
+  },
+  "druddigon": {
+    "evolutions": [],
+    "hasEvolutionData": false
+  },
+  "golett": {
+    "evolutions": [
+      "golurk"
+    ],
+    "shadowId": "golett_shadow",
+    "hasEvolutionData": true
+  },
+  "golett_shadow": {
+    "evolutions": [
+      "golurk_shadow"
+    ],
+    "normalId": "golett",
+    "hasEvolutionData": true
+  },
+  "golurk": {
+    "evolutions": [],
+    "shadowId": "golurk_shadow",
+    "hasEvolutionData": true
+  },
+  "golurk_shadow": {
+    "evolutions": [],
+    "normalId": "golurk",
+    "hasEvolutionData": true
+  },
+  "pawniard": {
+    "evolutions": [
+      "bisharp"
+    ],
+    "hasEvolutionData": true
+  },
+  "bisharp": {
+    "evolutions": [
+      "kingambit"
+    ],
+    "hasEvolutionData": true
+  },
+  "bouffalant": {
+    "evolutions": [],
+    "hasEvolutionData": false
+  },
+  "rufflet": {
+    "evolutions": [
+      "braviary"
+    ],
+    "hasEvolutionData": true
+  },
+  "braviary": {
+    "evolutions": [],
+    "hasEvolutionData": true
+  },
+  "braviary_hisuian": {
+    "evolutions": [],
+    "hasEvolutionData": true
+  },
+  "vullaby": {
+    "evolutions": [
+      "mandibuzz"
+    ],
+    "hasEvolutionData": true
+  },
+  "mandibuzz": {
+    "evolutions": [],
+    "hasEvolutionData": true
+  },
+  "heatmor": {
+    "evolutions": [],
+    "hasEvolutionData": false
+  },
+  "durant": {
+    "evolutions": [],
+    "hasEvolutionData": false
+  },
+  "deino": {
+    "evolutions": [
+      "zweilous"
+    ],
+    "shadowId": "deino_shadow",
+    "hasEvolutionData": true
+  },
+  "deino_shadow": {
+    "evolutions": [
+      "zweilous_shadow"
+    ],
+    "normalId": "deino",
+    "hasEvolutionData": true
+  },
+  "zweilous": {
+    "evolutions": [
+      "hydreigon"
+    ],
+    "shadowId": "zweilous_shadow",
+    "hasEvolutionData": true
+  },
+  "zweilous_shadow": {
+    "evolutions": [
+      "hydreigon_shadow"
+    ],
+    "normalId": "zweilous",
+    "hasEvolutionData": true
+  },
+  "hydreigon": {
+    "evolutions": [],
+    "shadowId": "hydreigon_shadow",
+    "hasEvolutionData": true
+  },
+  "hydreigon_shadow": {
+    "evolutions": [],
+    "normalId": "hydreigon",
+    "hasEvolutionData": true
+  },
+  "larvesta": {
+    "evolutions": [
+      "volcarona"
+    ],
+    "hasEvolutionData": true
+  },
+  "volcarona": {
+    "evolutions": [],
+    "hasEvolutionData": true
+  },
+  "cobalion": {
+    "evolutions": [],
+    "hasEvolutionData": false
+  },
+  "terrakion": {
+    "evolutions": [],
+    "hasEvolutionData": false
+  },
+  "virizion": {
+    "evolutions": [],
+    "hasEvolutionData": false
+  },
+  "tornadus_incarnate": {
+    "evolutions": [],
+    "shadowId": "tornadus_incarnate_shadow",
+    "hasEvolutionData": false
+  },
+  "tornadus_incarnate_shadow": {
+    "evolutions": [],
+    "normalId": "tornadus_incarnate",
+    "hasEvolutionData": false
+  },
+  "tornadus_therian": {
+    "evolutions": [],
+    "hasEvolutionData": false
+  },
+  "thundurus_incarnate": {
+    "evolutions": [],
+    "shadowId": "thundurus_incarnate_shadow",
+    "hasEvolutionData": false
+  },
+  "thundurus_incarnate_shadow": {
+    "evolutions": [],
+    "normalId": "thundurus_incarnate",
+    "hasEvolutionData": false
+  },
+  "thundurus_therian": {
+    "evolutions": [],
+    "hasEvolutionData": false
+  },
+  "reshiram": {
+    "evolutions": [],
+    "shadowId": "reshiram_shadow",
+    "hasEvolutionData": false
+  },
+  "reshiram_shadow": {
+    "evolutions": [],
+    "normalId": "reshiram",
+    "hasEvolutionData": false
+  },
+  "zekrom": {
+    "evolutions": [],
+    "hasEvolutionData": false
+  },
+  "landorus_incarnate": {
+    "evolutions": [],
+    "shadowId": "landorus_incarnate_shadow",
+    "hasEvolutionData": false
+  },
+  "landorus_incarnate_shadow": {
+    "evolutions": [],
+    "normalId": "landorus_incarnate",
+    "hasEvolutionData": false
+  },
+  "landorus_therian": {
+    "evolutions": [],
+    "hasEvolutionData": false
+  },
+  "kyurem": {
+    "evolutions": [],
+    "hasEvolutionData": false
+  },
+  "kyurem_black": {
+    "evolutions": [],
+    "hasEvolutionData": false
+  },
+  "kyurem_white": {
+    "evolutions": [],
+    "hasEvolutionData": false
+  },
+  "keldeo_ordinary": {
+    "evolutions": [],
+    "hasEvolutionData": false
+  },
+  "keldeo_resolute": {
+    "evolutions": [],
+    "hasEvolutionData": false
+  },
+  "meloetta_aria": {
+    "evolutions": [],
+    "hasEvolutionData": false
+  },
+  "meloetta_pirouette": {
+    "evolutions": [],
+    "hasEvolutionData": false
+  },
+  "genesect": {
+    "evolutions": [],
+    "hasEvolutionData": false
+  },
+  "genesect_burn": {
+    "evolutions": [],
+    "hasEvolutionData": false
+  },
+  "genesect_chill": {
+    "evolutions": [],
+    "hasEvolutionData": false
+  },
+  "genesect_douse": {
+    "evolutions": [],
+    "hasEvolutionData": false
+  },
+  "genesect_shock": {
+    "evolutions": [],
+    "hasEvolutionData": false
+  },
+  "chespin": {
+    "evolutions": [
+      "quilladin"
+    ],
+    "shadowId": "chespin_shadow",
+    "hasEvolutionData": true
+  },
+  "chespin_shadow": {
+    "evolutions": [
+      "quilladin_shadow"
+    ],
+    "normalId": "chespin",
+    "hasEvolutionData": true
+  },
+  "quilladin": {
+    "evolutions": [
+      "chesnaught"
+    ],
+    "shadowId": "quilladin_shadow",
+    "hasEvolutionData": true
+  },
+  "quilladin_shadow": {
+    "evolutions": [
+      "chesnaught_shadow"
+    ],
+    "normalId": "quilladin",
+    "hasEvolutionData": true
+  },
+  "chesnaught": {
+    "evolutions": [],
+    "shadowId": "chesnaught_shadow",
+    "hasEvolutionData": true
+  },
+  "chesnaught_shadow": {
+    "evolutions": [],
+    "normalId": "chesnaught",
+    "hasEvolutionData": true
+  },
+  "fennekin": {
+    "evolutions": [
+      "braixen"
+    ],
+    "shadowId": "fennekin_shadow",
+    "hasEvolutionData": true
+  },
+  "fennekin_shadow": {
+    "evolutions": [
+      "braixen_shadow"
+    ],
+    "normalId": "fennekin",
+    "hasEvolutionData": true
+  },
+  "braixen": {
+    "evolutions": [
+      "delphox"
+    ],
+    "shadowId": "braixen_shadow",
+    "hasEvolutionData": true
+  },
+  "braixen_shadow": {
+    "evolutions": [
+      "delphox_shadow"
+    ],
+    "normalId": "braixen",
+    "hasEvolutionData": true
+  },
+  "delphox": {
+    "evolutions": [],
+    "shadowId": "delphox_shadow",
+    "hasEvolutionData": true
+  },
+  "delphox_shadow": {
+    "evolutions": [],
+    "normalId": "delphox",
+    "hasEvolutionData": true
+  },
+  "froakie": {
+    "evolutions": [
+      "frogadier"
+    ],
+    "shadowId": "froakie_shadow",
+    "hasEvolutionData": true
+  },
+  "froakie_shadow": {
+    "evolutions": [
+      "frogadier_shadow"
+    ],
+    "normalId": "froakie",
+    "hasEvolutionData": true
+  },
+  "frogadier": {
+    "evolutions": [
+      "greninja"
+    ],
+    "shadowId": "frogadier_shadow",
+    "hasEvolutionData": true
+  },
+  "frogadier_shadow": {
+    "evolutions": [
+      "greninja_shadow"
+    ],
+    "normalId": "frogadier",
+    "hasEvolutionData": true
+  },
+  "greninja": {
+    "evolutions": [],
+    "shadowId": "greninja_shadow",
+    "hasEvolutionData": true
+  },
+  "greninja_shadow": {
+    "evolutions": [],
+    "normalId": "greninja",
+    "hasEvolutionData": true
+  },
+  "bunnelby": {
+    "evolutions": [
+      "diggersby"
+    ],
+    "shadowId": "bunnelby_shadow",
+    "hasEvolutionData": true
+  },
+  "bunnelby_shadow": {
+    "evolutions": [
+      "diggersby_shadow"
+    ],
+    "normalId": "bunnelby",
+    "hasEvolutionData": true
+  },
+  "diggersby": {
+    "evolutions": [],
+    "shadowId": "diggersby_shadow",
+    "hasEvolutionData": true
+  },
+  "diggersby_shadow": {
+    "evolutions": [],
+    "normalId": "diggersby",
+    "hasEvolutionData": true
+  },
+  "fletchling": {
+    "evolutions": [
+      "fletchinder"
+    ],
+    "shadowId": "fletchling_shadow",
+    "hasEvolutionData": true
+  },
+  "fletchling_shadow": {
+    "evolutions": [
+      "fletchinder_shadow"
+    ],
+    "normalId": "fletchling",
+    "hasEvolutionData": true
+  },
+  "fletchinder": {
+    "evolutions": [
+      "talonflame"
+    ],
+    "shadowId": "fletchinder_shadow",
+    "hasEvolutionData": true
+  },
+  "fletchinder_shadow": {
+    "evolutions": [
+      "talonflame_shadow"
+    ],
+    "normalId": "fletchinder",
+    "hasEvolutionData": true
+  },
+  "talonflame": {
+    "evolutions": [],
+    "shadowId": "talonflame_shadow",
+    "hasEvolutionData": true
+  },
+  "talonflame_shadow": {
+    "evolutions": [],
+    "normalId": "talonflame",
+    "hasEvolutionData": true
+  },
+  "scatterbug": {
+    "evolutions": [
+      "spewpa"
+    ],
+    "hasEvolutionData": true
+  },
+  "spewpa": {
+    "evolutions": [
+      "vivillon"
+    ],
+    "hasEvolutionData": true
+  },
+  "vivillon": {
+    "evolutions": [],
+    "hasEvolutionData": true
+  },
+  "litleo": {
+    "evolutions": [
+      "pyroar"
+    ],
+    "hasEvolutionData": true
+  },
+  "pyroar": {
+    "evolutions": [],
+    "hasEvolutionData": true
+  },
+  "flabebe": {
+    "evolutions": [
+      "floette"
+    ],
+    "hasEvolutionData": true
+  },
+  "floette": {
+    "evolutions": [
+      "florges"
+    ],
+    "hasEvolutionData": true
+  },
+  "florges": {
+    "evolutions": [],
+    "hasEvolutionData": true
+  },
+  "skiddo": {
+    "evolutions": [
+      "gogoat"
+    ],
+    "hasEvolutionData": true
+  },
+  "gogoat": {
+    "evolutions": [],
+    "hasEvolutionData": true
+  },
+  "pancham": {
+    "evolutions": [
+      "pangoro"
+    ],
+    "hasEvolutionData": true
+  },
+  "pangoro": {
+    "evolutions": [],
+    "hasEvolutionData": true
+  },
+  "furfrou": {
+    "evolutions": [],
+    "hasEvolutionData": false
+  },
+  "espurr": {
+    "evolutions": [
+      "meowstic"
+    ],
+    "hasEvolutionData": true
+  },
+  "meowstic_female": {
+    "evolutions": [],
+    "hasEvolutionData": true
+  },
+  "meowstic": {
+    "evolutions": [],
+    "hasEvolutionData": true
+  },
+  "honedge": {
+    "evolutions": [
+      "doublade"
+    ],
+    "hasEvolutionData": true
+  },
+  "doublade": {
+    "evolutions": [
+      "aegislash_shield"
+    ],
+    "hasEvolutionData": true
+  },
+  "aegislash_blade": {
+    "evolutions": [],
+    "hasEvolutionData": true
+  },
+  "aegislash_shield": {
+    "evolutions": [],
+    "hasEvolutionData": true
+  },
+  "spritzee": {
+    "evolutions": [
+      "aromatisse"
+    ],
+    "hasEvolutionData": true
+  },
+  "aromatisse": {
+    "evolutions": [],
+    "hasEvolutionData": true
+  },
+  "swirlix": {
+    "evolutions": [
+      "slurpuff"
+    ],
+    "hasEvolutionData": true
+  },
+  "slurpuff": {
+    "evolutions": [],
+    "hasEvolutionData": true
+  },
+  "inkay": {
+    "evolutions": [
+      "malamar"
+    ],
+    "shadowId": "inkay_shadow",
+    "hasEvolutionData": true
+  },
+  "inkay_shadow": {
+    "evolutions": [
+      "malamar_shadow"
+    ],
+    "normalId": "inkay",
+    "hasEvolutionData": true
+  },
+  "malamar": {
+    "evolutions": [],
+    "shadowId": "malamar_shadow",
+    "hasEvolutionData": true
+  },
+  "malamar_shadow": {
+    "evolutions": [],
+    "normalId": "malamar",
+    "hasEvolutionData": true
+  },
+  "binacle": {
+    "evolutions": [
+      "barbaracle"
+    ],
+    "hasEvolutionData": true
+  },
+  "barbaracle": {
+    "evolutions": [],
+    "hasEvolutionData": true
+  },
+  "skrelp": {
+    "evolutions": [
+      "dragalge"
+    ],
+    "hasEvolutionData": true
+  },
+  "dragalge": {
+    "evolutions": [],
+    "hasEvolutionData": true
+  },
+  "clauncher": {
+    "evolutions": [
+      "clawitzer"
+    ],
+    "hasEvolutionData": true
+  },
+  "clawitzer": {
+    "evolutions": [],
+    "hasEvolutionData": true
+  },
+  "helioptile": {
+    "evolutions": [
+      "heliolisk"
+    ],
+    "shadowId": "helioptile_shadow",
+    "hasEvolutionData": true
+  },
+  "helioptile_shadow": {
+    "evolutions": [
+      "heliolisk_shadow"
+    ],
+    "normalId": "helioptile",
+    "hasEvolutionData": true
+  },
+  "heliolisk": {
+    "evolutions": [],
+    "shadowId": "heliolisk_shadow",
+    "hasEvolutionData": true
+  },
+  "heliolisk_shadow": {
+    "evolutions": [],
+    "normalId": "heliolisk",
+    "hasEvolutionData": true
+  },
+  "tyrunt": {
+    "evolutions": [
+      "tyrantrum"
+    ],
+    "shadowId": "tyrunt_shadow",
+    "hasEvolutionData": true
+  },
+  "tyrunt_shadow": {
+    "evolutions": [
+      "tyrantrum_shadow"
+    ],
+    "normalId": "tyrunt",
+    "hasEvolutionData": true
+  },
+  "tyrantrum": {
+    "evolutions": [],
+    "shadowId": "tyrantrum_shadow",
+    "hasEvolutionData": true
+  },
+  "tyrantrum_shadow": {
+    "evolutions": [],
+    "normalId": "tyrantrum",
+    "hasEvolutionData": true
+  },
+  "amaura": {
+    "evolutions": [
+      "aurorus"
+    ],
+    "shadowId": "amaura_shadow",
+    "hasEvolutionData": true
+  },
+  "amaura_shadow": {
+    "evolutions": [
+      "aurorus_shadow"
+    ],
+    "normalId": "amaura",
+    "hasEvolutionData": true
+  },
+  "aurorus": {
+    "evolutions": [],
+    "shadowId": "aurorus_shadow",
+    "hasEvolutionData": true
+  },
+  "aurorus_shadow": {
+    "evolutions": [],
+    "normalId": "aurorus",
+    "hasEvolutionData": true
+  },
+  "sylveon": {
+    "evolutions": [],
+    "hasEvolutionData": true
+  },
+  "hawlucha": {
+    "evolutions": [],
+    "hasEvolutionData": false
+  },
+  "dedenne": {
+    "evolutions": [],
+    "hasEvolutionData": false
+  },
+  "carbink": {
+    "evolutions": [],
+    "hasEvolutionData": false
+  },
+  "goomy": {
+    "evolutions": [
+      "sliggoo"
+    ],
+    "hasEvolutionData": true
+  },
+  "sliggoo": {
+    "evolutions": [
+      "goodra"
+    ],
+    "hasEvolutionData": true
+  },
+  "goodra": {
+    "evolutions": [],
+    "hasEvolutionData": true
+  },
+  "klefki": {
+    "evolutions": [],
+    "hasEvolutionData": false
+  },
+  "phantump": {
+    "evolutions": [
+      "trevenant"
+    ],
+    "shadowId": "phantump_shadow",
+    "hasEvolutionData": true
+  },
+  "phantump_shadow": {
+    "evolutions": [
+      "trevenant_shadow"
+    ],
+    "normalId": "phantump",
+    "hasEvolutionData": true
+  },
+  "trevenant": {
+    "evolutions": [],
+    "shadowId": "trevenant_shadow",
+    "hasEvolutionData": true
+  },
+  "trevenant_shadow": {
+    "evolutions": [],
+    "normalId": "trevenant",
+    "hasEvolutionData": true
+  },
+  "pumpkaboo_average": {
+    "evolutions": [
+      "gourgeist_average"
+    ],
+    "hasEvolutionData": true
+  },
+  "pumpkaboo_large": {
+    "evolutions": [
+      "gourgeist_large"
+    ],
+    "hasEvolutionData": true
+  },
+  "pumpkaboo_small": {
+    "evolutions": [
+      "gourgeist_small"
+    ],
+    "hasEvolutionData": true
+  },
+  "pumpkaboo_super": {
+    "evolutions": [
+      "gourgeist_super"
+    ],
+    "hasEvolutionData": true
+  },
+  "gourgeist_average": {
+    "evolutions": [],
+    "hasEvolutionData": true
+  },
+  "gourgeist_large": {
+    "evolutions": [],
+    "hasEvolutionData": true
+  },
+  "gourgeist_small": {
+    "evolutions": [],
+    "hasEvolutionData": true
+  },
+  "gourgeist_super": {
+    "evolutions": [],
+    "hasEvolutionData": true
+  },
+  "bergmite": {
+    "evolutions": [
+      "avalugg"
+    ],
+    "hasEvolutionData": true
+  },
+  "avalugg": {
+    "evolutions": [],
+    "hasEvolutionData": true
+  },
+  "avalugg_hisuian": {
+    "evolutions": [],
+    "hasEvolutionData": true
+  },
+  "noibat": {
+    "evolutions": [
+      "noivern"
+    ],
+    "shadowId": "noibat_shadow",
+    "hasEvolutionData": true
+  },
+  "noibat_shadow": {
+    "evolutions": [
+      "noivern_shadow"
+    ],
+    "normalId": "noibat",
+    "hasEvolutionData": true
+  },
+  "noivern": {
+    "evolutions": [],
+    "shadowId": "noivern_shadow",
+    "hasEvolutionData": true
+  },
+  "noivern_shadow": {
+    "evolutions": [],
+    "normalId": "noivern",
+    "hasEvolutionData": true
+  },
+  "xerneas": {
+    "evolutions": [],
+    "hasEvolutionData": false
+  },
+  "yveltal": {
+    "evolutions": [],
+    "hasEvolutionData": false
+  },
+  "zygarde_10": {
+    "evolutions": [],
+    "hasEvolutionData": false
+  },
+  "zygarde": {
+    "evolutions": [],
+    "hasEvolutionData": false
+  },
+  "zygarde_complete": {
+    "evolutions": [],
+    "hasEvolutionData": false
+  },
+  "diancie": {
+    "evolutions": [],
+    "hasEvolutionData": false
+  },
+  "hoopa": {
+    "evolutions": [],
+    "hasEvolutionData": false
+  },
+  "hoopa_confined": {
+    "evolutions": [],
+    "hasEvolutionData": false
+  },
+  "hoopa_unbound": {
+    "evolutions": [],
+    "hasEvolutionData": false
+  },
+  "volcanion": {
+    "evolutions": [],
+    "hasEvolutionData": false
+  },
+  "rowlet": {
+    "evolutions": [
+      "dartrix"
+    ],
+    "hasEvolutionData": true
+  },
+  "dartrix": {
+    "evolutions": [
+      "decidueye"
+    ],
+    "hasEvolutionData": true
+  },
+  "decidueye": {
+    "evolutions": [],
+    "hasEvolutionData": true
+  },
+  "decidueye_hisuian": {
+    "evolutions": [],
+    "hasEvolutionData": true
+  },
+  "litten": {
+    "evolutions": [
+      "torracat"
+    ],
+    "hasEvolutionData": true
+  },
+  "torracat": {
+    "evolutions": [
+      "incineroar"
+    ],
+    "hasEvolutionData": true
+  },
+  "incineroar": {
+    "evolutions": [],
+    "hasEvolutionData": true
+  },
+  "popplio": {
+    "evolutions": [
+      "brionne"
+    ],
+    "hasEvolutionData": true
+  },
+  "brionne": {
+    "evolutions": [
+      "primarina"
+    ],
+    "hasEvolutionData": true
+  },
+  "primarina": {
+    "evolutions": [],
+    "hasEvolutionData": true
+  },
+  "pikipek": {
+    "evolutions": [
+      "trumbeak"
+    ],
+    "shadowId": "pikipek_shadow",
+    "hasEvolutionData": true
+  },
+  "pikipek_shadow": {
+    "evolutions": [
+      "trumbeak_shadow"
+    ],
+    "normalId": "pikipek",
+    "hasEvolutionData": true
+  },
+  "trumbeak": {
+    "evolutions": [
+      "toucannon"
+    ],
+    "shadowId": "trumbeak_shadow",
+    "hasEvolutionData": true
+  },
+  "trumbeak_shadow": {
+    "evolutions": [
+      "toucannon_shadow"
+    ],
+    "normalId": "trumbeak",
+    "hasEvolutionData": true
+  },
+  "toucannon": {
+    "evolutions": [],
+    "shadowId": "toucannon_shadow",
+    "hasEvolutionData": true
+  },
+  "toucannon_shadow": {
+    "evolutions": [],
+    "normalId": "toucannon",
+    "hasEvolutionData": true
+  },
+  "yungoos": {
+    "evolutions": [
+      "gumshoos"
+    ],
+    "hasEvolutionData": true
+  },
+  "gumshoos": {
+    "evolutions": [],
+    "hasEvolutionData": true
+  },
+  "grubbin": {
+    "evolutions": [
+      "charjabug"
+    ],
+    "shadowId": "grubbin_shadow",
+    "hasEvolutionData": true
+  },
+  "grubbin_shadow": {
+    "evolutions": [
+      "charjabug_shadow"
+    ],
+    "normalId": "grubbin",
+    "hasEvolutionData": true
+  },
+  "charjabug": {
+    "evolutions": [
+      "vikavolt"
+    ],
+    "shadowId": "charjabug_shadow",
+    "hasEvolutionData": true
+  },
+  "charjabug_shadow": {
+    "evolutions": [
+      "vikavolt_shadow"
+    ],
+    "normalId": "charjabug",
+    "hasEvolutionData": true
+  },
+  "vikavolt": {
+    "evolutions": [],
+    "shadowId": "vikavolt_shadow",
+    "hasEvolutionData": true
+  },
+  "vikavolt_shadow": {
+    "evolutions": [],
+    "normalId": "vikavolt",
+    "hasEvolutionData": true
+  },
+  "crabrawler": {
+    "evolutions": [
+      "crabominable"
+    ],
+    "hasEvolutionData": true
+  },
+  "crabominable": {
+    "evolutions": [],
+    "hasEvolutionData": true
+  },
+  "oricorio_baile": {
+    "evolutions": [],
+    "hasEvolutionData": false
+  },
+  "oricorio_pau": {
+    "evolutions": [],
+    "hasEvolutionData": false
+  },
+  "oricorio_pom_pom": {
+    "evolutions": [],
+    "hasEvolutionData": false
+  },
+  "oricorio_sensu": {
+    "evolutions": [],
+    "hasEvolutionData": false
+  },
+  "cutiefly": {
+    "evolutions": [
+      "ribombee"
+    ],
+    "hasEvolutionData": true
+  },
+  "ribombee": {
+    "evolutions": [],
+    "hasEvolutionData": true
+  },
+  "rockruff": {
+    "evolutions": [
+      "lycanroc_midnight",
+      "lycanroc_midday",
+      "lycanroc_dusk"
+    ],
+    "hasEvolutionData": true
+  },
+  "lycanroc_dusk": {
+    "evolutions": [],
+    "hasEvolutionData": true
+  },
+  "lycanroc_midday": {
+    "evolutions": [],
+    "hasEvolutionData": true
+  },
+  "lycanroc_midnight": {
+    "evolutions": [],
+    "hasEvolutionData": true
+  },
+  "wishiwashi": {
+    "evolutions": [],
+    "hasEvolutionData": false
+  },
+  "wishiwashi_school": {
+    "evolutions": [],
+    "hasEvolutionData": false
+  },
+  "wishiwashi_solo": {
+    "evolutions": [],
+    "hasEvolutionData": false
+  },
+  "mareanie": {
+    "evolutions": [
+      "toxapex"
+    ],
+    "hasEvolutionData": true
+  },
+  "toxapex": {
+    "evolutions": [],
+    "hasEvolutionData": true
+  },
+  "mudbray": {
+    "evolutions": [
+      "mudsdale"
+    ],
+    "hasEvolutionData": true
+  },
+  "mudsdale": {
+    "evolutions": [],
+    "hasEvolutionData": true
+  },
+  "dewpider": {
+    "evolutions": [
+      "araquanid"
+    ],
+    "shadowId": "dewpider_shadow",
+    "hasEvolutionData": true
+  },
+  "dewpider_shadow": {
+    "evolutions": [
+      "araquanid_shadow"
+    ],
+    "normalId": "dewpider",
+    "hasEvolutionData": true
+  },
+  "araquanid": {
+    "evolutions": [],
+    "shadowId": "araquanid_shadow",
+    "hasEvolutionData": true
+  },
+  "araquanid_shadow": {
+    "evolutions": [],
+    "normalId": "araquanid",
+    "hasEvolutionData": true
+  },
+  "fomantis": {
+    "evolutions": [
+      "lurantis"
+    ],
+    "hasEvolutionData": true
+  },
+  "lurantis": {
+    "evolutions": [],
+    "hasEvolutionData": true
+  },
+  "morelull": {
+    "evolutions": [
+      "shiinotic"
+    ],
+    "hasEvolutionData": true
+  },
+  "shiinotic": {
+    "evolutions": [],
+    "shadowId": "shiinotic_shadow",
+    "hasEvolutionData": true
+  },
+  "shiinotic_shadow": {
+    "evolutions": [],
+    "normalId": "shiinotic",
+    "hasEvolutionData": true
+  },
+  "salandit": {
+    "evolutions": [
+      "salazzle"
+    ],
+    "hasEvolutionData": true
+  },
+  "salazzle": {
+    "evolutions": [],
+    "hasEvolutionData": true
+  },
+  "stufful": {
+    "evolutions": [
+      "bewear"
+    ],
+    "shadowId": "stufful_shadow",
+    "hasEvolutionData": true
+  },
+  "stufful_shadow": {
+    "evolutions": [
+      "bewear_shadow"
+    ],
+    "normalId": "stufful",
+    "hasEvolutionData": true
+  },
+  "bewear": {
+    "evolutions": [],
+    "shadowId": "bewear_shadow",
+    "hasEvolutionData": true
+  },
+  "bewear_shadow": {
+    "evolutions": [],
+    "normalId": "bewear",
+    "hasEvolutionData": true
+  },
+  "bounsweet": {
+    "evolutions": [
+      "steenee"
+    ],
+    "hasEvolutionData": true
+  },
+  "steenee": {
+    "evolutions": [
+      "tsareena"
+    ],
+    "hasEvolutionData": true
+  },
+  "tsareena": {
+    "evolutions": [],
+    "hasEvolutionData": true
+  },
+  "comfey": {
+    "evolutions": [],
+    "hasEvolutionData": false
+  },
+  "oranguru": {
+    "evolutions": [],
+    "hasEvolutionData": false
+  },
+  "passimian": {
+    "evolutions": [],
+    "hasEvolutionData": false
+  },
+  "wimpod": {
+    "evolutions": [
+      "golisopod"
+    ],
+    "hasEvolutionData": true
+  },
+  "golisopod": {
+    "evolutions": [],
+    "hasEvolutionData": true
+  },
+  "golisopodsh": {
+    "evolutions": [],
+    "hasEvolutionData": true
+  },
+  "sandygast": {
+    "evolutions": [
+      "palossand"
+    ],
+    "hasEvolutionData": true
+  },
+  "palossand": {
+    "evolutions": [],
+    "hasEvolutionData": true
+  },
+  "pyukumuku": {
+    "evolutions": [],
+    "hasEvolutionData": false
+  },
+  "type_null": {
+    "evolutions": [
+      "silvally"
+    ],
+    "hasEvolutionData": true
+  },
+  "silvally": {
+    "evolutions": [],
+    "hasEvolutionData": false
+  },
+  "silvally_bug": {
+    "evolutions": [],
+    "hasEvolutionData": false
+  },
+  "silvally_dark": {
+    "evolutions": [],
+    "hasEvolutionData": false
+  },
+  "silvally_dragon": {
+    "evolutions": [],
+    "hasEvolutionData": false
+  },
+  "silvally_electric": {
+    "evolutions": [],
+    "hasEvolutionData": false
+  },
+  "silvally_fairy": {
+    "evolutions": [],
+    "hasEvolutionData": false
+  },
+  "silvally_fighting": {
+    "evolutions": [],
+    "hasEvolutionData": false
+  },
+  "silvally_fire": {
+    "evolutions": [],
+    "hasEvolutionData": false
+  },
+  "silvally_flying": {
+    "evolutions": [],
+    "hasEvolutionData": false
+  },
+  "silvally_ghost": {
+    "evolutions": [],
+    "hasEvolutionData": false
+  },
+  "silvally_grass": {
+    "evolutions": [],
+    "hasEvolutionData": false
+  },
+  "silvally_ground": {
+    "evolutions": [],
+    "hasEvolutionData": false
+  },
+  "silvally_ice": {
+    "evolutions": [],
+    "hasEvolutionData": false
+  },
+  "silvally_poison": {
+    "evolutions": [],
+    "hasEvolutionData": false
+  },
+  "silvally_psychic": {
+    "evolutions": [],
+    "hasEvolutionData": false
+  },
+  "silvally_rock": {
+    "evolutions": [],
+    "hasEvolutionData": false
+  },
+  "silvally_steel": {
+    "evolutions": [],
+    "hasEvolutionData": false
+  },
+  "silvally_water": {
+    "evolutions": [],
+    "hasEvolutionData": false
+  },
+  "minior_core": {
+    "evolutions": [],
+    "hasEvolutionData": false
+  },
+  "minior_meteor": {
+    "evolutions": [],
+    "hasEvolutionData": false
+  },
+  "komala": {
+    "evolutions": [],
+    "hasEvolutionData": false
+  },
+  "turtonator": {
+    "evolutions": [],
+    "hasEvolutionData": false
+  },
+  "togedemaru": {
+    "evolutions": [],
+    "hasEvolutionData": false
+  },
+  "mimikyu": {
+    "evolutions": [],
+    "hasEvolutionData": false
+  },
+  "mimikyu_busted": {
+    "evolutions": [],
+    "hasEvolutionData": false
+  },
+  "bruxish": {
+    "evolutions": [],
+    "hasEvolutionData": false
+  },
+  "drampa": {
+    "evolutions": [],
+    "hasEvolutionData": false
+  },
+  "dhelmise": {
+    "evolutions": [],
+    "hasEvolutionData": false
+  },
+  "jangmo_o": {
+    "evolutions": [
+      "hakamo_o"
+    ],
+    "hasEvolutionData": true
+  },
+  "hakamo_o": {
+    "evolutions": [
+      "kommo_o"
+    ],
+    "hasEvolutionData": true
+  },
+  "kommo_o": {
+    "evolutions": [],
+    "hasEvolutionData": true
+  },
+  "tapu_koko": {
+    "evolutions": [],
+    "hasEvolutionData": false
+  },
+  "tapu_lele": {
+    "evolutions": [],
+    "hasEvolutionData": false
+  },
+  "tapu_bulu": {
+    "evolutions": [],
+    "hasEvolutionData": false
+  },
+  "tapu_fini": {
+    "evolutions": [],
+    "hasEvolutionData": false
+  },
+  "cosmog": {
+    "evolutions": [
+      "cosmoem"
+    ],
+    "hasEvolutionData": true
+  },
+  "cosmoem": {
+    "evolutions": [
+      "solgaleo",
+      "lunala"
+    ],
+    "hasEvolutionData": true
+  },
+  "solgaleo": {
+    "evolutions": [],
+    "hasEvolutionData": true
+  },
+  "lunala": {
+    "evolutions": [],
+    "hasEvolutionData": true
+  },
+  "nihilego": {
+    "evolutions": [],
+    "hasEvolutionData": false
+  },
+  "buzzwole": {
+    "evolutions": [],
+    "hasEvolutionData": false
+  },
+  "pheromosa": {
+    "evolutions": [],
+    "hasEvolutionData": false
+  },
+  "xurkitree": {
+    "evolutions": [],
+    "hasEvolutionData": false
+  },
+  "celesteela": {
+    "evolutions": [],
+    "hasEvolutionData": false
+  },
+  "kartana": {
+    "evolutions": [],
+    "hasEvolutionData": false
+  },
+  "guzzlord": {
+    "evolutions": [],
+    "hasEvolutionData": false
+  },
+  "necrozma": {
+    "evolutions": [],
+    "hasEvolutionData": false
+  },
+  "necrozma_dawn_wings": {
+    "evolutions": [],
+    "hasEvolutionData": false
+  },
+  "necrozma_dusk_mane": {
+    "evolutions": [],
+    "hasEvolutionData": false
+  },
+  "necrozma_ultra": {
+    "evolutions": [],
+    "hasEvolutionData": false
+  },
+  "magearna": {
+    "evolutions": [],
+    "hasEvolutionData": false
+  },
+  "marshadow": {
+    "evolutions": [],
+    "hasEvolutionData": false
+  },
+  "poipole": {
+    "evolutions": [
+      "naganadel"
+    ],
+    "hasEvolutionData": true
+  },
+  "naganadel": {
+    "evolutions": [],
+    "hasEvolutionData": true
+  },
+  "stakataka": {
+    "evolutions": [],
+    "hasEvolutionData": false
+  },
+  "blacephalon": {
+    "evolutions": [],
+    "hasEvolutionData": false
+  },
+  "zeraora": {
+    "evolutions": [],
+    "hasEvolutionData": false
+  },
+  "meltan": {
+    "evolutions": [
+      "melmetal"
+    ],
+    "hasEvolutionData": true
+  },
+  "melmetal": {
+    "evolutions": [],
+    "hasEvolutionData": true
+  },
+  "grookey": {
+    "evolutions": [
+      "thwackey"
+    ],
+    "hasEvolutionData": true
+  },
+  "thwackey": {
+    "evolutions": [
+      "rillaboom"
+    ],
+    "hasEvolutionData": true
+  },
+  "rillaboom": {
+    "evolutions": [],
+    "hasEvolutionData": true
+  },
+  "scorbunny": {
+    "evolutions": [
+      "raboot"
+    ],
+    "hasEvolutionData": true
+  },
+  "raboot": {
+    "evolutions": [
+      "cinderace"
+    ],
+    "hasEvolutionData": true
+  },
+  "cinderace": {
+    "evolutions": [],
+    "hasEvolutionData": true
+  },
+  "sobble": {
+    "evolutions": [
+      "drizzile"
+    ],
+    "hasEvolutionData": true
+  },
+  "drizzile": {
+    "evolutions": [
+      "inteleon"
+    ],
+    "hasEvolutionData": true
+  },
+  "inteleon": {
+    "evolutions": [],
+    "hasEvolutionData": true
+  },
+  "skwovet": {
+    "evolutions": [
+      "greedent"
+    ],
+    "hasEvolutionData": true
+  },
+  "greedent": {
+    "evolutions": [],
+    "hasEvolutionData": true
+  },
+  "rookidee": {
+    "evolutions": [
+      "corvisquire"
+    ],
+    "shadowId": "rookidee_shadow",
+    "hasEvolutionData": true
+  },
+  "rookidee_shadow": {
+    "evolutions": [
+      "corvisquire_shadow"
+    ],
+    "normalId": "rookidee",
+    "hasEvolutionData": true
+  },
+  "corvisquire": {
+    "evolutions": [
+      "corviknight"
+    ],
+    "shadowId": "corvisquire_shadow",
+    "hasEvolutionData": true
+  },
+  "corvisquire_shadow": {
+    "evolutions": [
+      "corviknight_shadow"
+    ],
+    "normalId": "corvisquire",
+    "hasEvolutionData": true
+  },
+  "corviknight": {
+    "evolutions": [],
+    "shadowId": "corviknight_shadow",
+    "hasEvolutionData": true
+  },
+  "corviknight_shadow": {
+    "evolutions": [],
+    "normalId": "corviknight",
+    "hasEvolutionData": true
+  },
+  "blipbug": {
+    "evolutions": [
+      "dottler"
+    ],
+    "hasEvolutionData": true
+  },
+  "dottler": {
+    "evolutions": [
+      "orbeetle"
+    ],
+    "hasEvolutionData": true
+  },
+  "orbeetle": {
+    "evolutions": [],
+    "hasEvolutionData": true
+  },
+  "nickit": {
+    "evolutions": [
+      "thievul"
+    ],
+    "hasEvolutionData": true
+  },
+  "thievul": {
+    "evolutions": [],
+    "hasEvolutionData": true
+  },
+  "gossifleur": {
+    "evolutions": [
+      "eldegoss"
+    ],
+    "hasEvolutionData": true
+  },
+  "eldegoss": {
+    "evolutions": [],
+    "hasEvolutionData": true
+  },
+  "wooloo": {
+    "evolutions": [
+      "dubwool"
+    ],
+    "hasEvolutionData": true
+  },
+  "dubwool": {
+    "evolutions": [],
+    "hasEvolutionData": true
+  },
+  "chewtle": {
+    "evolutions": [
+      "drednaw"
+    ],
+    "hasEvolutionData": true
+  },
+  "drednaw": {
+    "evolutions": [],
+    "hasEvolutionData": true
+  },
+  "yamper": {
+    "evolutions": [
+      "boltund"
+    ],
+    "hasEvolutionData": true
+  },
+  "boltund": {
+    "evolutions": [],
+    "hasEvolutionData": true
+  },
+  "rolycoly": {
+    "evolutions": [
+      "carkol"
+    ],
+    "hasEvolutionData": true
+  },
+  "carkol": {
+    "evolutions": [
+      "coalossal"
+    ],
+    "hasEvolutionData": true
+  },
+  "coalossal": {
+    "evolutions": [],
+    "hasEvolutionData": true
+  },
+  "applin": {
+    "evolutions": [
+      "flapple",
+      "appletun",
+      "dipplin"
+    ],
+    "hasEvolutionData": true
+  },
+  "flapple": {
+    "evolutions": [],
+    "hasEvolutionData": true
+  },
+  "appletun": {
+    "evolutions": [],
+    "hasEvolutionData": true
+  },
+  "silicobra": {
+    "evolutions": [
+      "sandaconda"
+    ],
+    "hasEvolutionData": true
+  },
+  "sandaconda": {
+    "evolutions": [],
+    "hasEvolutionData": true
+  },
+  "cramorant": {
+    "evolutions": [],
+    "hasEvolutionData": false
+  },
+  "cramorant_gulping": {
+    "evolutions": [],
+    "hasEvolutionData": false
+  },
+  "cramorant_gorging": {
+    "evolutions": [],
+    "hasEvolutionData": false
+  },
+  "arrokuda": {
+    "evolutions": [
+      "barraskewda"
+    ],
+    "hasEvolutionData": true
+  },
+  "barraskewda": {
+    "evolutions": [],
+    "hasEvolutionData": true
+  },
+  "toxel": {
+    "evolutions": [
+      "toxtricity_amped",
+      "toxtricity_low_key"
+    ],
+    "hasEvolutionData": true
+  },
+  "toxtricity": {
+    "evolutions": [],
+    "hasEvolutionData": true
+  },
+  "toxtricity_amped": {
+    "evolutions": [],
+    "hasEvolutionData": true
+  },
+  "toxtricity_low_key": {
+    "evolutions": [],
+    "hasEvolutionData": true
+  },
+  "sizzlipede": {
+    "evolutions": [
+      "centiskorch"
+    ],
+    "hasEvolutionData": true
+  },
+  "centiskorch": {
+    "evolutions": [],
+    "hasEvolutionData": true
+  },
+  "clobbopus": {
+    "evolutions": [
+      "grapploct"
+    ],
+    "hasEvolutionData": true
+  },
+  "grapploct": {
+    "evolutions": [],
+    "hasEvolutionData": true
+  },
+  "sinistea": {
+    "evolutions": [
+      "polteageist"
+    ],
+    "hasEvolutionData": true
+  },
+  "polteageist": {
+    "evolutions": [],
+    "hasEvolutionData": true
+  },
+  "hatenna": {
+    "evolutions": [
+      "hattrem"
+    ],
+    "hasEvolutionData": true
+  },
+  "hattrem": {
+    "evolutions": [
+      "hatterene"
+    ],
+    "hasEvolutionData": true
+  },
+  "hatterene": {
+    "evolutions": [],
+    "hasEvolutionData": true
+  },
+  "impidimp": {
+    "evolutions": [
+      "morgrem"
+    ],
+    "hasEvolutionData": true
+  },
+  "morgrem": {
+    "evolutions": [
+      "grimmsnarl"
+    ],
+    "hasEvolutionData": true
+  },
+  "grimmsnarl": {
+    "evolutions": [],
+    "hasEvolutionData": true
+  },
+  "obstagoon": {
+    "evolutions": [],
+    "shadowId": "obstagoon_shadow",
+    "hasEvolutionData": true
+  },
+  "obstagoon_shadow": {
+    "evolutions": [],
+    "normalId": "obstagoon",
+    "hasEvolutionData": true
+  },
+  "perrserker": {
+    "evolutions": [],
+    "hasEvolutionData": true
+  },
+  "cursola": {
+    "evolutions": [],
+    "hasEvolutionData": true
+  },
+  "sirfetchd": {
+    "evolutions": [],
+    "hasEvolutionData": true
+  },
+  "mr_rime": {
+    "evolutions": [],
+    "hasEvolutionData": true
+  },
+  "runerigus": {
+    "evolutions": [],
+    "hasEvolutionData": true
+  },
+  "milcery": {
+    "evolutions": [
+      "alcremie"
+    ],
+    "hasEvolutionData": true
+  },
+  "alcremie": {
+    "evolutions": [],
+    "hasEvolutionData": true
+  },
+  "falinks": {
+    "evolutions": [],
+    "hasEvolutionData": false
+  },
+  "pincurchin": {
+    "evolutions": [],
+    "hasEvolutionData": false
+  },
+  "snom": {
+    "evolutions": [
+      "frosmoth"
+    ],
+    "hasEvolutionData": true
+  },
+  "frosmoth": {
+    "evolutions": [],
+    "hasEvolutionData": true
+  },
+  "stonjourner": {
+    "evolutions": [],
+    "hasEvolutionData": false
+  },
+  "eiscue": {
+    "evolutions": [],
+    "hasEvolutionData": false
+  },
+  "eiscue_ice": {
+    "evolutions": [],
+    "hasEvolutionData": false
+  },
+  "eiscue_noice": {
+    "evolutions": [],
+    "hasEvolutionData": false
+  },
+  "indeedee_female": {
+    "evolutions": [],
+    "hasEvolutionData": false
+  },
+  "indeedee_male": {
+    "evolutions": [],
+    "hasEvolutionData": false
+  },
+  "morpeko_full_belly": {
+    "evolutions": [],
+    "hasEvolutionData": false
+  },
+  "morpeko_hangry": {
+    "evolutions": [],
+    "hasEvolutionData": false
+  },
+  "cufant": {
+    "evolutions": [
+      "copperajah"
+    ],
+    "hasEvolutionData": true
+  },
+  "copperajah": {
+    "evolutions": [],
+    "hasEvolutionData": true
+  },
+  "dracozolt": {
+    "evolutions": [],
+    "hasEvolutionData": false
+  },
+  "arctozolt": {
+    "evolutions": [],
+    "hasEvolutionData": false
+  },
+  "dracovish": {
+    "evolutions": [],
+    "hasEvolutionData": false
+  },
+  "arctovish": {
+    "evolutions": [],
+    "hasEvolutionData": false
+  },
+  "duraludon": {
+    "evolutions": [
+      "archaludon"
+    ],
+    "hasEvolutionData": true
+  },
+  "dreepy": {
+    "evolutions": [
+      "drakloak"
+    ],
+    "hasEvolutionData": true
+  },
+  "drakloak": {
+    "evolutions": [
+      "dragapult"
+    ],
+    "hasEvolutionData": true
+  },
+  "dragapult": {
+    "evolutions": [],
+    "hasEvolutionData": true
+  },
+  "zacian_crowned_sword": {
+    "evolutions": [],
+    "hasEvolutionData": false
+  },
+  "zacian_hero": {
+    "evolutions": [],
+    "hasEvolutionData": false
+  },
+  "zamazenta_crowned_shield": {
+    "evolutions": [],
+    "hasEvolutionData": false
+  },
+  "zamazenta_hero": {
+    "evolutions": [],
+    "hasEvolutionData": false
+  },
+  "eternatus": {
+    "evolutions": [],
+    "hasEvolutionData": false
+  },
+  "eternatus_eternamax": {
+    "evolutions": [],
+    "hasEvolutionData": false
+  },
+  "kubfu": {
+    "evolutions": [
+      "urshifu_rapid_strike",
+      "urshifu_single_strike"
+    ],
+    "hasEvolutionData": true
+  },
+  "urshifu_rapid_strike": {
+    "evolutions": [],
+    "hasEvolutionData": true
+  },
+  "urshifu_single_strike": {
+    "evolutions": [],
+    "hasEvolutionData": true
+  },
+  "zarude": {
+    "evolutions": [],
+    "hasEvolutionData": false
+  },
+  "regieleki": {
+    "evolutions": [],
+    "hasEvolutionData": false
+  },
+  "regidrago": {
+    "evolutions": [],
+    "hasEvolutionData": false
+  },
+  "glastrier": {
+    "evolutions": [],
+    "hasEvolutionData": false
+  },
+  "spectrier": {
+    "evolutions": [],
+    "hasEvolutionData": false
+  },
+  "calyrex": {
+    "evolutions": [],
+    "hasEvolutionData": false
+  },
+  "calyrex_ice_rider": {
+    "evolutions": [],
+    "hasEvolutionData": false
+  },
+  "wyrdeer": {
+    "evolutions": [],
+    "hasEvolutionData": true
+  },
+  "kleavor": {
+    "evolutions": [],
+    "hasEvolutionData": true
+  },
+  "ursaluna": {
+    "evolutions": [],
+    "shadowId": "ursaluna_shadow",
+    "hasEvolutionData": true
+  },
+  "ursaluna_shadow": {
+    "evolutions": [],
+    "normalId": "ursaluna",
+    "hasEvolutionData": true
+  },
+  "basculegion_female": {
+    "evolutions": [],
+    "hasEvolutionData": true
+  },
+  "basculegion_male": {
+    "evolutions": [],
+    "hasEvolutionData": true
+  },
+  "sneasler": {
+    "evolutions": [],
+    "shadowId": "sneasler_shadow",
+    "hasEvolutionData": true
+  },
+  "sneasler_shadow": {
+    "evolutions": [],
+    "normalId": "sneasler",
+    "hasEvolutionData": true
+  },
+  "overqwil": {
+    "evolutions": [],
+    "hasEvolutionData": true
+  },
+  "enamorus_incarnate": {
+    "evolutions": [],
+    "hasEvolutionData": false
+  },
+  "enamorus_therian": {
+    "evolutions": [],
+    "hasEvolutionData": false
+  },
+  "sprigatito": {
+    "evolutions": [
+      "floragato"
+    ],
+    "hasEvolutionData": true
+  },
+  "floragato": {
+    "evolutions": [
+      "meowscarada"
+    ],
+    "hasEvolutionData": true
+  },
+  "meowscarada": {
+    "evolutions": [],
+    "hasEvolutionData": true
+  },
+  "fuecoco": {
+    "evolutions": [
+      "crocalor"
+    ],
+    "hasEvolutionData": true
+  },
+  "crocalor": {
+    "evolutions": [
+      "skeledirge"
+    ],
+    "hasEvolutionData": true
+  },
+  "skeledirge": {
+    "evolutions": [],
+    "hasEvolutionData": true
+  },
+  "quaxly": {
+    "evolutions": [
+      "quaxwell"
+    ],
+    "hasEvolutionData": true
+  },
+  "quaxwell": {
+    "evolutions": [
+      "quaquaval"
+    ],
+    "hasEvolutionData": true
+  },
+  "quaquaval": {
+    "evolutions": [],
+    "hasEvolutionData": true
+  },
+  "lechonk": {
+    "evolutions": [
+      "oinkologne"
+    ],
+    "hasEvolutionData": true
+  },
+  "oinkologne": {
+    "evolutions": [],
+    "hasEvolutionData": true
+  },
+  "oinkologne_female": {
+    "evolutions": [],
+    "hasEvolutionData": true
+  },
+  "tarountula": {
+    "evolutions": [
+      "spidops"
+    ],
+    "hasEvolutionData": true
+  },
+  "spidops": {
+    "evolutions": [],
+    "hasEvolutionData": true
+  },
+  "nymble": {
+    "evolutions": [
+      "lokix"
+    ],
+    "hasEvolutionData": true
+  },
+  "lokix": {
+    "evolutions": [],
+    "hasEvolutionData": true
+  },
+  "pawmi": {
+    "evolutions": [
+      "pawmo"
+    ],
+    "hasEvolutionData": true
+  },
+  "pawmo": {
+    "evolutions": [
+      "pawmot"
+    ],
+    "hasEvolutionData": true
+  },
+  "pawmot": {
+    "evolutions": [],
+    "hasEvolutionData": true
+  },
+  "tandemaus": {
+    "evolutions": [
+      "maushold"
+    ],
+    "hasEvolutionData": true
+  },
+  "maushold": {
+    "evolutions": [],
+    "hasEvolutionData": true
+  },
+  "maushold_family_of_four": {
+    "evolutions": [],
+    "hasEvolutionData": true
+  },
+  "maushold_family_of_three": {
+    "evolutions": [],
+    "hasEvolutionData": true
+  },
+  "fidough": {
+    "evolutions": [
+      "dachsbun"
+    ],
+    "hasEvolutionData": true
+  },
+  "dachsbun": {
+    "evolutions": [],
+    "hasEvolutionData": true
+  },
+  "smoliv": {
+    "evolutions": [
+      "dolliv"
+    ],
+    "hasEvolutionData": true
+  },
+  "dolliv": {
+    "evolutions": [
+      "arboliva"
+    ],
+    "hasEvolutionData": true
+  },
+  "arboliva": {
+    "evolutions": [],
+    "hasEvolutionData": true
+  },
+  "squawkabilly": {
+    "evolutions": [],
+    "hasEvolutionData": false
+  },
+  "nacli": {
+    "evolutions": [
+      "naclstack"
+    ],
+    "hasEvolutionData": true
+  },
+  "naclstack": {
+    "evolutions": [
+      "garganacl"
+    ],
+    "hasEvolutionData": true
+  },
+  "garganacl": {
+    "evolutions": [],
+    "hasEvolutionData": true
+  },
+  "charcadet": {
+    "evolutions": [
+      "armarouge",
+      "ceruledge"
+    ],
+    "hasEvolutionData": true
+  },
+  "armarouge": {
+    "evolutions": [],
+    "hasEvolutionData": true
+  },
+  "ceruledge": {
+    "evolutions": [],
+    "hasEvolutionData": true
+  },
+  "tadbulb": {
+    "evolutions": [
+      "bellibolt"
+    ],
+    "hasEvolutionData": true
+  },
+  "bellibolt": {
+    "evolutions": [],
+    "hasEvolutionData": true
+  },
+  "wattrel": {
+    "evolutions": [
+      "kilowattrel"
+    ],
+    "hasEvolutionData": true
+  },
+  "kilowattrel": {
+    "evolutions": [],
+    "hasEvolutionData": true
+  },
+  "maschiff": {
+    "evolutions": [
+      "mabosstiff"
+    ],
+    "hasEvolutionData": true
+  },
+  "mabosstiff": {
+    "evolutions": [],
+    "hasEvolutionData": true
+  },
+  "shroodle": {
+    "evolutions": [
+      "grafaiai"
+    ],
+    "hasEvolutionData": true
+  },
+  "grafaiai": {
+    "evolutions": [],
+    "hasEvolutionData": true
+  },
+  "bramblin": {
+    "evolutions": [
+      "brambleghast"
+    ],
+    "hasEvolutionData": true
+  },
+  "brambleghast": {
+    "evolutions": [],
+    "hasEvolutionData": true
+  },
+  "toedscool": {
+    "evolutions": [
+      "toedscruel"
+    ],
+    "hasEvolutionData": true
+  },
+  "toedscruel": {
+    "evolutions": [],
+    "hasEvolutionData": true
+  },
+  "klawf": {
+    "evolutions": [],
+    "hasEvolutionData": false
+  },
+  "capsakid": {
+    "evolutions": [
+      "scovillain"
+    ],
+    "hasEvolutionData": true
+  },
+  "scovillain": {
+    "evolutions": [],
+    "hasEvolutionData": true
+  },
+  "rellor": {
+    "evolutions": [
+      "rabsca"
+    ],
+    "hasEvolutionData": true
+  },
+  "rabsca": {
+    "evolutions": [],
+    "hasEvolutionData": true
+  },
+  "flittle": {
+    "evolutions": [
+      "espathra"
+    ],
+    "hasEvolutionData": true
+  },
+  "espathra": {
+    "evolutions": [],
+    "hasEvolutionData": true
+  },
+  "tinkatink": {
+    "evolutions": [
+      "tinkatuff"
+    ],
+    "hasEvolutionData": true
+  },
+  "tinkatuff": {
+    "evolutions": [
+      "tinkaton"
+    ],
+    "hasEvolutionData": true
+  },
+  "tinkaton": {
+    "evolutions": [],
+    "hasEvolutionData": true
+  },
+  "wiglett": {
+    "evolutions": [
+      "wugtrio"
+    ],
+    "hasEvolutionData": true
+  },
+  "wugtrio": {
+    "evolutions": [],
+    "hasEvolutionData": true
+  },
+  "bombirdier": {
+    "evolutions": [],
+    "hasEvolutionData": false
+  },
+  "finizen": {
+    "evolutions": [
+      "palafin"
+    ],
+    "hasEvolutionData": true
+  },
+  "palafin": {
+    "evolutions": [],
+    "hasEvolutionData": true
+  },
+  "palafin_hero": {
+    "evolutions": [],
+    "hasEvolutionData": true
+  },
+  "palafin_zero": {
+    "evolutions": [],
+    "hasEvolutionData": true
+  },
+  "varoom": {
+    "evolutions": [
+      "revavroom"
+    ],
+    "hasEvolutionData": true
+  },
+  "revavroom": {
+    "evolutions": [],
+    "hasEvolutionData": true
+  },
+  "cyclizar": {
+    "evolutions": [],
+    "hasEvolutionData": false
+  },
+  "orthworm": {
+    "evolutions": [],
+    "hasEvolutionData": false
+  },
+  "glimmet": {
+    "evolutions": [
+      "glimmora"
+    ],
+    "hasEvolutionData": true
+  },
+  "glimmora": {
+    "evolutions": [],
+    "hasEvolutionData": true
+  },
+  "greavard": {
+    "evolutions": [
+      "houndstone"
+    ],
+    "hasEvolutionData": true
+  },
+  "houndstone": {
+    "evolutions": [],
+    "hasEvolutionData": true
+  },
+  "flamigo": {
+    "evolutions": [],
+    "hasEvolutionData": false
+  },
+  "cetoddle": {
+    "evolutions": [
+      "cetitan"
+    ],
+    "hasEvolutionData": true
+  },
+  "cetitan": {
+    "evolutions": [],
+    "hasEvolutionData": true
+  },
+  "veluza": {
+    "evolutions": [],
+    "hasEvolutionData": false
+  },
+  "dondozo": {
+    "evolutions": [],
+    "hasEvolutionData": false
+  },
+  "tatsugiri_curly": {
+    "evolutions": [],
+    "hasEvolutionData": false
+  },
+  "tatsugiri_droopy": {
+    "evolutions": [],
+    "hasEvolutionData": false
+  },
+  "tatsugiri_stretchy": {
+    "evolutions": [],
+    "hasEvolutionData": false
+  },
+  "annihilape": {
+    "evolutions": [],
+    "shadowId": "annihilape_shadow",
+    "hasEvolutionData": true
+  },
+  "annihilape_shadow": {
+    "evolutions": [],
+    "normalId": "annihilape",
+    "hasEvolutionData": true
+  },
+  "clodsire": {
+    "evolutions": [],
+    "hasEvolutionData": true
+  },
+  "farigiraf": {
+    "evolutions": [],
+    "hasEvolutionData": true
+  },
+  "dudunsparce": {
+    "evolutions": [],
+    "hasEvolutionData": true
+  },
+  "kingambit": {
+    "evolutions": [],
+    "hasEvolutionData": true
+  },
+  "greattusk": {
+    "evolutions": [],
+    "hasEvolutionData": false
+  },
+  "screamtail": {
+    "evolutions": [],
+    "hasEvolutionData": false
+  },
+  "brutebonnet": {
+    "evolutions": [],
+    "hasEvolutionData": false
+  },
+  "fluttermane": {
+    "evolutions": [],
+    "hasEvolutionData": false
+  },
+  "slitherwing": {
+    "evolutions": [],
+    "hasEvolutionData": false
+  },
+  "sandyshocks": {
+    "evolutions": [],
+    "hasEvolutionData": false
+  },
+  "irontreads": {
+    "evolutions": [],
+    "hasEvolutionData": false
+  },
+  "ironbundle": {
+    "evolutions": [],
+    "hasEvolutionData": false
+  },
+  "ironhands": {
+    "evolutions": [],
+    "hasEvolutionData": false
+  },
+  "ironjugulis": {
+    "evolutions": [],
+    "hasEvolutionData": false
+  },
+  "ironmoth": {
+    "evolutions": [],
+    "hasEvolutionData": false
+  },
+  "ironthorns": {
+    "evolutions": [],
+    "hasEvolutionData": false
+  },
+  "frigibax": {
+    "evolutions": [
+      "arctibax"
+    ],
+    "hasEvolutionData": true
+  },
+  "arctibax": {
+    "evolutions": [
+      "baxcalibur"
+    ],
+    "hasEvolutionData": true
+  },
+  "baxcalibur": {
+    "evolutions": [],
+    "hasEvolutionData": true
+  },
+  "gimmighoul": {
+    "evolutions": [
+      "gholdengo"
+    ],
+    "hasEvolutionData": true
+  },
+  "gholdengo": {
+    "evolutions": [],
+    "hasEvolutionData": true
+  },
+  "wo_chien": {
+    "evolutions": [],
+    "hasEvolutionData": false
+  },
+  "chien_pao": {
+    "evolutions": [],
+    "hasEvolutionData": false
+  },
+  "ting_lu": {
+    "evolutions": [],
+    "hasEvolutionData": false
+  },
+  "chi_yu": {
+    "evolutions": [],
+    "hasEvolutionData": false
+  },
+  "roaringmoon": {
+    "evolutions": [],
+    "hasEvolutionData": false
+  },
+  "ironvaliant": {
+    "evolutions": [],
+    "hasEvolutionData": false
+  },
+  "koraidon": {
+    "evolutions": [],
+    "hasEvolutionData": false
+  },
+  "koraidon_apex": {
+    "evolutions": [],
+    "hasEvolutionData": false
+  },
+  "miraidon": {
+    "evolutions": [],
+    "hasEvolutionData": false
+  },
+  "miraidon_ultimate": {
+    "evolutions": [],
+    "hasEvolutionData": false
+  },
+  "walking_wake": {
+    "evolutions": [],
+    "hasEvolutionData": false
+  },
+  "iron_leaves": {
+    "evolutions": [],
+    "hasEvolutionData": false
+  },
+  "dipplin": {
+    "evolutions": [
+      "hydrapple"
+    ],
+    "hasEvolutionData": true
+  },
+  "poltchageist": {
+    "evolutions": [],
+    "hasEvolutionData": true
+  },
+  "sinistcha": {
+    "evolutions": [
+      "poltchageist"
+    ],
+    "hasEvolutionData": true
+  },
+  "okidogi": {
+    "evolutions": [],
+    "hasEvolutionData": false
+  },
+  "munkidori": {
+    "evolutions": [],
+    "hasEvolutionData": false
+  },
+  "fezandipiti": {
+    "evolutions": [],
+    "hasEvolutionData": false
+  },
+  "ogerpon": {
+    "evolutions": [],
+    "hasEvolutionData": false
+  },
+  "archaludon": {
+    "evolutions": [],
+    "hasEvolutionData": true
+  },
+  "hydrapple": {
+    "evolutions": [],
+    "hasEvolutionData": true
+  },
+  "gouging_fire": {
+    "evolutions": [],
+    "hasEvolutionData": false
+  },
+  "raging_bolt": {
+    "evolutions": [],
+    "hasEvolutionData": false
+  },
+  "iron_boulder": {
+    "evolutions": [],
+    "hasEvolutionData": false
+  },
+  "iron_crown": {
+    "evolutions": [],
+    "hasEvolutionData": false
+  },
+  "terapagos": {
+    "evolutions": [],
+    "hasEvolutionData": false
+  },
+  "pecharunt": {
+    "evolutions": [],
+    "hasEvolutionData": false
+  }
+}

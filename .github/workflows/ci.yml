@@ -1,0 +1,79 @@
+name: CI
+on:
+  push:
+    branches: [main]
+  pull_request:
+  workflow_dispatch:
+permissions:
+  contents: read
+concurrency:
+  group: ci-${{ github.ref }}
+  cancel-in-progress: true
+jobs:
+  source-audit:
+    runs-on: ubuntu-24.04
+    steps:
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4
+        with:
+          persist-credentials: false
+      - name: Scan public source for secrets (Gitleaks 8.24.3)
+        shell: bash
+        run: |
+          set -euo pipefail
+          tool_dir="$(mktemp -d)"
+          trap 'rm -rf "$tool_dir"' EXIT
+          curl --fail --silent --show-error --location https://github.com/gitleaks/gitleaks/releases/download/v8.24.3/gitleaks_8.24.3_linux_x64.tar.gz -o "$tool_dir/gitleaks_8.24.3_linux_x64.tar.gz"
+          curl --fail --silent --show-error --location https://github.com/gitleaks/gitleaks/releases/download/v8.24.3/gitleaks_8.24.3_checksums.txt -o "$tool_dir/checksums.txt"
+          (cd "$tool_dir"; sha256sum --check --ignore-missing checksums.txt)
+          tar -xzf "$tool_dir/gitleaks_8.24.3_linux_x64.tar.gz" -C "$tool_dir" gitleaks
+          "$tool_dir/gitleaks" dir --redact --no-banner .
+  web:
+    runs-on: ubuntu-24.04
+    strategy:
+      matrix:
+        base: [/, /pokemog/]
+    env:
+      POKEMOG_BASE_PATH: ${{ matrix.base }}
+    steps:
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4
+        with:
+          persist-credentials: false
+      - uses: actions/setup-node@49933ea5288caeca8642d1e84afbd3f7d6820020 # v4
+        with:
+          node-version: '22'
+          cache: npm
+      - run: npm ci
+      - run: npm audit --audit-level=high
+      - run: npm run lint
+      - run: npm test
+      - run: npm run build
+      - run: npx playwright install --with-deps chromium
+      - run: npm run test:e2e
+  android:
+    runs-on: ubuntu-24.04
+    steps:
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4
+        with:
+          persist-credentials: false
+      - uses: actions/setup-java@cf277c60eb25467037889841efdb72551f06f6c3 # v4
+        with:
+          distribution: temurin
+          java-version: '17'
+      - name: Install Android SDK packages
+        run: sdkmanager 'platforms;android-35' 'build-tools;35.0.0'
+      - name: Test, lint and build unsigned release (no signing secrets)
+        working-directory: android
+        run: ./gradlew --no-daemon --no-configuration-cache :app:testDebugUnitTest :app:lintDebug :app:assembleDebugAndroidTest :app:assembleRelease
+      - name: Check unsigned production identity and flags
+        shell: bash
+        run: |
+          set -euo pipefail
+          apk=android/app/build/outputs/apk/release/app-release-unsigned.apk
+          test -f "$apk"
+          "$ANDROID_HOME/build-tools/35.0.0/aapt" dump badging "$apk" > "$RUNNER_TEMP/badging.txt"
+          grep -F "package: name='dev.pokemog.android' versionCode='12' versionName='0.10.0'" "$RUNNER_TEMP/badging.txt"
+          if grep -q application-debuggable "$RUNNER_TEMP/badging.txt"; then exit 1; fi
+          if "$ANDROID_HOME/build-tools/35.0.0/apksigner" verify "$apk"; then
+            printf '%s\n' 'CI unexpectedly produced a signed release' >&2
+            exit 1
+          fi

@@ -1,0 +1,88 @@
+@font-face {
+  font-family: Silkscreen;
+  src: url('../fonts/Silkscreen-Regular.ttf') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+* {
+  box-sizing: border-box;
+}
+body {
+  font:
+    16px/1.7 Silkscreen,
+    monospace;
+  background: #fbf5ec;
+  color: #30251f;
+  max-width: 800px;
+  margin: 48px auto;
+  padding: 0 24px;
+  overflow-wrap: anywhere;
+}
+h1 {
+  font-size: clamp(24px, 6vw, 36px);
+  line-height: 1.4;
+}
+h2 {
+  font-size: 22px;
+  margin-top: 36px;
+}
+h1,
+h2,
+strong {
+  font-weight: 400;
+}
+a {
+  color: #a13624;
+  text-underline-offset: 4px;
+}
+a:focus-visible {
+  outline: 3px solid currentColor;
+  outline-offset: 4px;
+}
+.download {
+  display: inline-block;
+  padding: 14px 20px;
+  background: #b6422d;
+  color: #fff9f2;
+  border: 2px solid #30251f;
+  box-shadow: 4px 4px 0 #30251f;
+  text-decoration: none;
+}
+li {
+  margin: 16px 0;
+}
+.note {
+  background: #f1e7d8;
+  padding: 16px;
+  border: 2px solid #30251f;
+}
+ul,
+ol {
+  padding-left: 26px;
+}
+@media (max-width: 480px) {
+  body {
+    margin: 24px auto;
+    padding: 0 16px;
+  }
+}
+@media (prefers-color-scheme: dark) {
+  body {
+    background: #191614;
+    color: #fff2e5;
+  }
+  a {
+    color: #ff9c86;
+  }
+  .download {
+    background: #ff9c86;
+    color: #3b160d;
+    border-color: #fff2e5;
+    box-shadow: 4px 4px 0 #fff2e5;
+  }
+  .note {
+    background: #332b25;
+    border-color: #fff2e5;
+  }
+}

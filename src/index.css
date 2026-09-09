@@ -1,0 +1,106 @@
+@font-face {
+  font-family: Silkscreen;
+  src: url('/fonts/Silkscreen-Regular.ttf') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+:root {
+  font-family: Silkscreen, monospace;
+  color: var(--ink);
+  background: var(--bg);
+  font-synthesis: none;
+  font-weight: 400;
+  line-height: 1.6;
+  --bg: #fbf5ec;
+  --panel: #fffaf2;
+  --ink: #43362e;
+  --muted: #756352;
+  --line: #d8c6ad;
+  --accent: #b6422d;
+  --gold: #b37816;
+  --wash: #f2e7d6;
+  --purple: #704394;
+}
+:root[data-theme='dark'] {
+  color-scheme: dark;
+  --bg: #26221f;
+  --panel: #322c27;
+  --ink: #f7ead5;
+  --muted: #c6b69f;
+  --line: #6b5948;
+  --accent: #ff927a;
+  --gold: #e9b855;
+  --wash: #40362b;
+  --purple: #d5a4ff;
+}
+* {
+  box-sizing: border-box;
+}
+body {
+  margin: 0;
+  min-width: 320px;
+}
+button,
+input,
+select,
+textarea {
+  font: inherit;
+  color: inherit;
+}
+button,
+summary {
+  cursor: pointer;
+  touch-action: manipulation;
+}
+button,
+input,
+select {
+  min-height: 44px;
+}
+button {
+  background: var(--panel);
+  border: 2px solid var(--line);
+  padding: 8px 12px;
+}
+a {
+  color: var(--accent);
+}
+:focus-visible {
+  outline: 3px solid var(--accent);
+  outline-offset: 3px;
+}
+input,
+select {
+  width: 100%;
+  min-width: 0;
+  background: var(--bg);
+  border: 2px solid var(--line);
+  border-radius: 0;
+  padding: 9px;
+}
+input[aria-invalid='true'] {
+  border-color: var(--accent);
+}
+h1,
+h2,
+h3,
+h4,
+p {
+  margin: 0;
+}
+h1,
+h2,
+h3,
+h4,
+strong {
+  font-weight: 400;
+}
+summary {
+  min-height: 44px;
+  padding: 10px 0;
+}
+::selection {
+  background: var(--accent);
+  color: var(--bg);
+}

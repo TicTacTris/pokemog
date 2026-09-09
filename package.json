@@ -1,0 +1,38 @@
+{
+  "name": "pokemog",
+  "private": true,
+  "version": "0.10.0",
+  "type": "module",
+  "scripts": {
+    "android:data": "node scripts/prepare-android-data.mjs",
+    "android:publish-debug": "node scripts/publish-android-debug.mjs",
+    "predev": "node scripts/prepare-web-assets.mjs",
+    "prebuild": "node scripts/prepare-web-assets.mjs",
+    "test": "vitest run --config scripts/vitest.config.mjs",
+    "test:e2e": "playwright test",
+    "data:update": "node scripts/import-pvpoke.mjs",
+    "dev": "vite",
+    "build": "tsc -b && vite build",
+    "lint": "oxlint",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "react": "^19.2.8",
+    "react-dom": "^19.2.8"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.63.0",
+    "@types/node": "^24.13.3",
+    "@types/pngjs": "^6.0.5",
+    "@types/react": "^19.2.18",
+    "@types/react-dom": "^19.2.4",
+    "@vitejs/plugin-react": "^6.1.0",
+    "oxlint": "^1.79.0",
+    "pngjs": "^7.0.0",
+    "prettier": "^3.9.6",
+    "typescript": "~6.0.2",
+    "vite": "^8.2.2",
+    "vite-plugin-pwa": "^1.3.0",
+    "vitest": "^5.0.0"
+  }
+}

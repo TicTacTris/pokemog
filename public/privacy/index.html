@@ -1,0 +1,122 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta
+      http-equiv="Content-Security-Policy"
+      content="default-src 'none'; style-src 'self'; font-src 'self'; img-src 'self'; base-uri 'none'; form-action 'none'"
+    />
+    <meta name="referrer" content="no-referrer" />
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <link rel="stylesheet" href="../downloads/downloads.css" />
+    <title>PokeMog | Privacy</title>
+  </head>
+  <body>
+    <main>
+      <h1>Privacy</h1>
+      <p>September 9, 2026 / 0.10.0 beta release review</p>
+      <p>
+        PokeMog has no accounts, ads or first-party analytics/telemetry backend.
+        This does not mean third-party hosting and SDKs receive no information.
+      </p>
+      <h2>Web calculator</h2>
+      <p>
+        Species, IVs and other manual inputs are calculated in your browser. The
+        web app has no OCR, screenshot importer or input upload. Its theme
+        preference uses localStorage when available. The service worker caches
+        the calculator, bundled data, local fonts and public pages for offline
+        use after an online visit. Clear site data in your browser to remove
+        these caches and preferences.
+      </p>
+      <p>
+        GitHub Pages receives ordinary requests and connection metadata,
+        including IP address, when serving or updating the website. Fonts are
+        self-hosted. No Ko-fi widget, tracking script or automatic Ko-fi request
+        is embedded. Only following the optional external link opens Ko-fi,
+        where its own privacy policy applies. GitHub release links similarly
+        leave the site. Outgoing links use no-referrer protection.
+      </p>
+      <h2>Android OCR and SDK metrics</h2>
+      <p>
+        Android uses bundled Google ML Kit text recognition. OCR image input and
+        recognition output are processed on-device and are not sent to Google
+        for recognition. PokeMog's data updater does not upload screenshots or
+        recognized text. Internet permission applies to the entire app,
+        including SDKs; it is not isolated to the updater.
+      </p>
+      <p>
+        Google's terms state that ML Kit sends operational and usage metrics to
+        Google, including device/app information, API usage and
+        performance/error information. The SDK may also contact Google for bug
+        fixes, model updates and hardware compatibility information. These
+        metrics are distinct from recognition inputs and outputs. Google ML Kit
+        is a proprietary dependency; do not interpret local OCR as a promise of
+        zero SDK network activity. See
+        <a
+          href="https://developers.google.com/ml-kit/terms"
+          target="_blank"
+          rel="noreferrer"
+          >ML Kit terms and data disclosure</a
+        >
+        and
+        <a
+          href="https://policies.google.com/privacy"
+          target="_blank"
+          rel="noreferrer"
+          >Google Privacy Policy</a
+        >.
+      </p>
+      <h2>Data updates</h2>
+      <p>
+        Android checks public GitHub data releases on startup, subject to
+        throttling, and downloads validated data packs. GitHub receives ordinary
+        connection metadata such as IP address and request headers. Offline or
+        failed checks retain last-good or bundled data. These are data updates,
+        not APK installation. See
+        <a
+          href="https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement"
+          target="_blank"
+          rel="noreferrer"
+          >GitHub's privacy statement</a
+        >.
+      </p>
+      <h2>Capture and diagnostics</h2>
+      <p>
+        Screen capture requires Android consent. Prefer app-only sharing; stop
+        full-screen capture before viewing private apps. Diagnostic export is
+        manual, not automatic. An export can contain screen images and
+        recognized content. Inspect it before sharing. The receiving app or
+        service controls upload and any retained copies; deleting PokeMog's copy
+        cannot recall them.
+      </p>
+      <p class="note">
+        Diagnostic exports are limited to 3 cached ZIP files and 100 MiB total,
+        with a 1-hour expiry policy. Cleanup is attempted at startup, during
+        inspection/export, and periodically while the app process is running.
+        Delete diagnostics is available in the app. Cleanup is best-effort:
+        process death, blocked work or deletion failures can delay it until a
+        later attempt. An open inspector can retain images in memory until it
+        closes, and recipient copies cannot be recalled. Do not rely on a
+        guaranteed background deletion timer. Clearing app storage also removes
+        settings and downloaded data. Physical-device verification is still
+        outstanding for this beta.
+      </p>
+      <h2>Questions and reports</h2>
+      <p>
+        For sensitive security or privacy reports, use
+        <a
+          href="https://github.com/TicTacTris/pokemog/security/advisories/new"
+          target="_blank"
+          rel="noreferrer"
+          >GitHub private vulnerability reporting</a
+        >. Never put secrets or private captures in public issues. If private
+        reporting is unavailable, ask for a private contact without including
+        sensitive details.
+      </p>
+      <p>
+        <a href="../">Calculator</a> /
+        <a href="../downloads/index.html">Downloads</a>
+      </p>
+    </main>
+  </body>
+</html>
